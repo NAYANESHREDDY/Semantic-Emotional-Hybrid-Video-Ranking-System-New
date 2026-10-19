@@ -1,0 +1,8 @@
+component,complexity,interpretation
+Comment semantic filtering,O(C*d),C comments; d embedding dimension
+Sentiment inference,O(C*t),C comments; t transformer inference cost
+FES aggregation,O(C),Aggregate comment-level scores to videos
+IQS computation,O(N),N videos
+Adaptive hybrid fusion,O(N),N videos
+Ranking/sorting,O(N log N),N videos
+LLM explanations,O(B) API batches,Provider-side cost additionally depends on prompt/output tokens

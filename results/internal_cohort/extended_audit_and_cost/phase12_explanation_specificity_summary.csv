@@ -1,0 +1,2 @@
+explanations_audited,normalized_duplicate_rate,normalized_duplicate_records,unique_normalized_explanations,specific_evidence_rate,mean_specific_evidence_terms,automated_grounding_fields_present,human_usefulness_evaluation
+10,0.0,0,10,1.0,5.7,True,DEFERRED — not inferred from automatic checks

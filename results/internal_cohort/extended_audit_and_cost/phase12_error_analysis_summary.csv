@@ -1,0 +1,6 @@
+diagnostic_category,videos,percentage
+No major diagnostic disagreement,49,50.0
+Large FES-IQS rank disagreement,33,33.673469387755105
+High intrinsic quality / lower engagement,6,6.122448979591836
+Quality-dominant adaptive weight,6,6.122448979591836
+High engagement / lower intrinsic quality,4,4.081632653061225

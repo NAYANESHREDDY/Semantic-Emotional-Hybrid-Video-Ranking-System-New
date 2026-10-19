@@ -1,0 +1,6 @@
+query,domain,slug,videos_retrieved,unique_videos,duplicate_video_ids,total_comments,average_comments_per_video,videos_file,comments_file
+Full Python Course,Programming,python,20,20,0,1887,94.35,/content/revision_phase9a/python/videos.csv,/content/revision_phase9a/python/comments.csv
+Linear Algebra Course,Mathematics,linear_algebra,20,20,0,1695,84.75,/content/revision_phase9a/linear_algebra/videos.csv,/content/revision_phase9a/linear_algebra/comments.csv
+Quantum Mechanics Course,Physics,quantum_mechanics,20,20,0,1800,90.0,/content/revision_phase9a/quantum_mechanics/videos.csv,/content/revision_phase9a/quantum_mechanics/comments.csv
+Human Anatomy Course,Biology,human_anatomy,20,20,0,1745,87.25,/content/revision_phase9a/human_anatomy/videos.csv,/content/revision_phase9a/human_anatomy/comments.csv
+Machine Learning Course,Data Science,machine_learning,20,20,0,1575,78.75,/content/revision_phase9a/machine_learning/videos.csv,/content/revision_phase9a/machine_learning/comments.csv

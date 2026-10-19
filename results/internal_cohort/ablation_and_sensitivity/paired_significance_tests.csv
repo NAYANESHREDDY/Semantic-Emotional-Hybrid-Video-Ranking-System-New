@@ -1,0 +1,4 @@
+cohort_size,comparison,wilcoxon_statistic,p_value
+98,Full Hybrid vs no_engagement,48.0,3.611994666854576e-17
+98,Full Hybrid vs no_iqs,43.0,3.104296312919041e-17
+98,Full Hybrid vs fixed_weight_hybrid,49.0,3.7229545917582204e-17

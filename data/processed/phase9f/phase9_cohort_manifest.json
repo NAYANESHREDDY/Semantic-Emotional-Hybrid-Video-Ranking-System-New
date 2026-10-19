@@ -1,0 +1,15 @@
+{
+  "cohort_size": 98,
+  "domain_counts": {
+    "Biology": 20,
+    "Data Science": 19,
+    "Mathematics": 20,
+    "Physics": 19,
+    "Programming": 20
+  },
+  "cohort_fingerprint": "730de4da7880f019c05bb7fbc8301986973eadd20c0c7b7eb7d25dbccca254f5",
+  "phase9c_rows": 98,
+  "phase9d_rows": 98,
+  "phase9e_rows": 98,
+  "phase9f_rows": 98
+}

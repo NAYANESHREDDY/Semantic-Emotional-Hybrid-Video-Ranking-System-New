@@ -1,0 +1,5 @@
+cohort_size,variant,score_column,spearman_vs_full,p_value,mean_abs_rank_change,max_abs_rank_change,top10_overlap,top10_overlap_fraction,executed
+98,no_sentiment,hybrid_no_sentiment,0.7816498670696019,2.1514058176783833e-21,14.510204081632653,47.0,4,0.4,True
+98,no_iqs,hybrid_no_iqs,0.6171987070367041,1.305217701066416e-11,17.367346938775512,73.0,5,0.5,True
+98,no_iqs_semantic_alignment,hybrid_no_iqs_semantic_alignment,0.9839463432983314,1.16290252352752e-73,3.306122448979592,27.0,9,0.9,True
+98,fixed_50_50,hybrid_fixed_50_50,0.9504364069901623,1.6804172552652078e-50,4.530612244897959,55.0,8,0.8,True

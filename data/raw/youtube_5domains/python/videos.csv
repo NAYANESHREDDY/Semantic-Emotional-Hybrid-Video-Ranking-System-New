@@ -1,0 +1,1454 @@
+video_id,video_title,description,channel_name,views,likes,comment_count,duration,duration_minutes,publish_date,video_url,query,domain
+K5KVEU3aaeQ,Python Full Course for Beginners,"Master Python from scratch 🚀 No fluff—just clear, practical coding skills to kickstart your journey! 
+
+🚀 Want to dive deeper?
+- Check out my complete Python mastery course: https://mosh.link/python-course
+- Subscribe for more awesome Python content: https://goo.gl/6PYaGF
+
+🔗 Related videos 
+https://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM
+
+✋ Stay connected:
+- Full Courses: https://codewithmosh.com
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+📖 Table of Content
+0:00:00 Introduction
+0:00:56 What is Python?
+0:04:11 Installing Python
+0:05:36 Python Interpreter
+0:07:30 Code Editors
+0:08:49 Your First Python Program
+0:12:25 Python Extension
+0:14:26 Linting Python Code
+0:18:40 Formatting Python Code
+0:22:51 Running Python Code
+0:24:30 Python Implementations
+0:26:59 How Python Code is Executed
+0:29:45 Quiz
+0:31:17 Python Mastery Course
+0:31:44 Variables
+0:34:48 Variable Names
+0:37:51 Strings
+0:43:20 Escape Sequences
+0:46:01 Formatted Strings
+0:48:09 String Methods
+0:54:03 Numbers
+0:56:50 Working With Numbers
+0:58:59 Type Conversion
+1:04:03 Quiz
+1:06:43 Comparison Operators
+1:08:46 Conditional Statements
+1:12:56 Ternary Operator
+1:15:04 Logical Operators
+1:19:07 Short-circuit Evaluations
+1:21:13 Chaining Comparison Operators
+1:22:35 Quiz
+1:24:18 For Loops
+1:27:56 For..Else
+1:30:42 Nested Loops
+1:33:26 Iterables
+1:36:34 While Loops
+1:41:33 Infinite Loops
+1:43:10 Exercise
+1:45:13 Defining Functions
+1:47:37 Arguments
+1:49:57 Types of Functions
+1:53:59 Keyword Arguments
+1:55:59 Default Arguments
+1:57:34 xargs
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,7795642,170027,4428,PT2H2M21S,122.35,2025-02-12T12:30:31Z,https://www.youtube.com/watch?v=K5KVEU3aaeQ,Full Python Course,Programming
+ix9cRaBkVe0,Python Full Course for free 🐍,"#python #tutorial #beginners 
+Python tutorial for beginners' full course 2024
+
+*Learn Python in 1 HOUR* ⏱ : https://www.youtube.com/watch?v=8KCuHHeC_M0
+*My original Python 12 Hour course* 🐍 :  https://www.youtube.com/watch?v=XKHEtdqhLK8
+*Full Python playlist* 📃: https://www.youtube.com/watch?v=Sg4GMVMdOPo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT
+
+                           [⭐ = project]
+#1   (00:00:00) python tutorial for beginners 🐍
+#2   (00:05:49) variables ❎
+#3   (00:16:05) type casting 💱
+#4   (00:21:15) user input ⌨️
+#5   (00:32:42) ⭐ madlibs game 📖
+#6   (00:37:55) arithmetic & math 📐
+#7   (00:51:46) if statements 🤔
+#8   (01:00:06) ⭐ calculator program 🧮
+#9   (01:05:59) ⭐ weight conversion program 🏋️
+#10 (01:09:59) ⭐ temperature conversion program 🌡️
+#11 (01:13:58) logical operators 🌦️
+#12 (01:21:28) conditional expressions ❓
+#13 (01:27:03) string methods 〰️
+#14 (01:39:08) string indexing ✂️
+#15 (01:46:35) format specifiers 💬
+#16 (01:51:55) while loops ♾️
+#17 (01:58:53) ⭐ compound interest calculator 💵
+#18 (02:06:28) for loops 🔁
+#19 (02:11:33) ⭐ countdown timer program ⌛
+#20 (02:17:28) nested loops ➿
+#21 (02:23:03) lists, sets, and tuples 🍎
+#22 (02:38:08) ⭐ shopping cart program 🛒
+#23 (02:45:21) 2D collections ⬜
+#24 (02:53:59) ⭐ quiz game 💯
+#25 (03:03:27) dictionaries 📙
+#26 (03:11:33) ⭐ concession stand program 🍿
+#27 (03:19:42) random numbers 🎲
+#28 (03:24:16) ⭐ number guessing game 🔢
+#29 (03:32:37) ⭐ rock, paper, scissors game 🗿
+#30 (03:42:06) ⭐ dice roller program ⚂
+#31 (03:52:12) functions 📞
+#32 (04:02:50) default arguments 👍
+#33 (04:08:56) keyword arguments 🗝️
+#34 (04:15:40) *args & **kwargs 📦
+#35 (04:30:33) iterables 🔂
+#36 (04:37:04) membership operators 🔎
+#37 (04:45:56) list comprehensions 📃
+#38 (04:56:17) match-case statements 📆
+#39 (05:02:13) modules 📨
+#40 (05:08:51) scope resolution 🔬
+#41 (05:14:22) if name == 'main': 📥
+#42 (05:23:34) ⭐ banking program 💰
+#43 (05:38:34) ⭐ slot machine 🎰
+#44 (05:58:45) ⭐ encryption program 🔐
+#45 (06:07:26) ⭐ hangman game 🕺
+#46 (06:32:32) python object oriented programming 🚗
+#47 (06:44:50) class variables 🎓
+#48 (06:53:06) inheritance 👨‍👦‍👦
+#49 (07:00:02) multiple inheritance 🐟
+#50 (07:08:04) super() 🔴
+#51 (07:21:10) polymorphism 🎭
+#52 (07:29:15) duck typing 🦆
+#53 (07:33:34) static methods ⚡
+#54 (07:39:31) class methods 🏫
+#55 (07:46:16) magic methods 🌟
+#56 (07:59:51) @property ⚙️
+#57 (08:07:33) decorators 🎊
+#58 (08:14:57) exception handling 🚦
+#59 (08:20:46) file detection 🕵️‍♂️
+#60 (08:27:47) writing files ✍
+#61 (08:41:33) reading files 🔍
+#62 (08:48:29) dates & times 📅
+#63 (08:54:46) ⭐ alarm clock ⏰
+#64 (09:05:03) multithreading 🧵
+#65 (09:13:45) request API data ↩️
+#66 (09:22:19) PyQt5 GUI intro 🖥️
+#67 (09:31:27) PyQt5 labels 🏷️
+#68 (09:40:23) PyQt5 images 📷
+#69 (09:46:28) PyQt5 layout managers 🧲
+#70 (09:53:07) PyQt5 buttons 🛎️
+#71 (10:00:12) PyQt5 checkboxes ✅
+#72 (10:06:42) PyQt5 radio buttons 🔘
+#73 (10:15:55) PyQt5 line edits 💬
+#74 (10:21:55) PyQt5 CSS styles 🎨
+#75 (10:32:48) ⭐ digital clock program 🕒
+#76 (10:48:38) ⭐ stopwatch program ⏱
+#77 (11:06:05) ⭐ weather API app ☀️
+
+Python Interpreter: https://www.python.org/
+PyCharm IDE: https://www.jetbrains.com/pycharm/
+
+*Copyright Disclaimer*:
+This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.",Bro Code,12742574,368601,22667,PT12H,720.0,2024-08-20T13:00:54Z,https://www.youtube.com/watch?v=ix9cRaBkVe0,Full Python Course,Programming
+_uQrJ0TkZlc,Python Full Course for Beginners,"Learn Python for AI, machine learning, and web development with this beginner-friendly course! 🚀 Get 6 months of PyCharm FREE with the coupon in the description!
+
+🚀 Want to dive deeper?
+- Check out my Python mastery course: https://mosh.link/python-course
+- Subscribe for more awesome Python content: https://goo.gl/6PYaGF
+
+🔗 Related videos 
+https://youtu.be/yVl_G-F7m8c?si=aoIiT6CyaRRfBsRM
+
+👉 New version available Watch here: https://youtu.be/kqtD5dpn9C8
+
+📕 Get the FREE goodies:
+- Python cheat sheet: https://mosh.link/python-cheatsheet
+- Supplementary materials (spreadsheet): https://github.com/mosh-hamedani/python-supplementary-materials
+- Get 6 months of PyCharm for free with this coupon code: MOSH_YOUTUBE - Redeem it at: https://jb.gg/redeem
+
+✋ Stay connected:
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+⭐ My favorite Python books
+- Python Crash Course: https://amzn.to/2GqMdjG
+- Automate the Boring Stuff with Python: https://amzn.to/2N71d6S
+- A Smarter Way to Learn Python: https://amzn.to/2UZa6lE
+- Machine Learning for Absolute Beginners: https://amzn.to/2Gs0koL
+- Hands-on Machine Learning with scikit-learn and TensorFlow: https://amzn.to/2IdUuJy
+
+📖 TABLE OF CONTENT
+00:00:00 Introduction
+00:01:49 Installing Python 3
+00:06:10 Your First Python Program
+00:08:11 How Python Code Gets Executed 
+00:11:24 How Long It Takes To Learn Python 
+00:13:03 Variables
+00:18:21 Receiving Input
+00:22:16 Python Cheat Sheet
+00:22:46 Type Conversion
+00:29:31 Strings
+00:37:36 Formatted Strings
+00:40:50 String Methods
+00:48:33 Arithmetic Operations
+00:51:33 Operator Precedence
+00:55:04 Math Functions
+00:58:17 If Statements
+01:06:32 Logical Operators
+01:11:25 Comparison Operators
+01:16:17 Weight Converter Program 
+01:20:43 While Loops
+01:24:07 Building a Guessing Game
+01:30:51 Building the Car Game
+01:41:48 For Loops
+01:47:46 Nested Loops
+01:55:50 Lists
+02:01:45 2D Lists
+02:05:11 My Complete Python Course 
+02:06:00 List Methods
+02:13:25 Tuples
+02:15:34 Unpacking
+02:18:21 Dictionaries
+02:26:21 Emoji Converter
+02:30:31 Functions
+02:35:21 Parameters
+02:39:24 Keyword Arguments 
+02:44:45 Return Statement
+02:48:55 Creating a Reusable Function 
+02:53:42 Exceptions
+02:59:14 Comments
+03:01:46 Classes
+03:07:46 Constructors
+03:14:41 Inheritance
+03:19:33 Modules
+03:30:12 Packages
+03:36:22 Generating Random Values
+03:44:37 Working with Directories 
+03:50:47 Pypi and Pip
+03:55:34 Project 1: Automation with Python
+04:10:22 Project 2: Machine Learning with Python 
+04:58:37 Project 3: Building a Website with Django
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,49253252,1272663,62877,PT6H14M7S,374.1166666666667,2019-02-18T15:00:08Z,https://www.youtube.com/watch?v=_uQrJ0TkZlc,Full Python Course,Programming
+rfscVS0vtbw,Learn Python - Full Course for Beginners [Tutorial],"This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!
+
+Click the ⚙️ to change to a dub track in Spanish, Arabic, or Portuguese, or Hindi. 
+(Hindi dubbed via Melt Labs - https://www.withmelt.com/)
+
+❤️ Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)
+
+⭐️ Contents ⭐
+⌨️ (0:00) Introduction
+⌨️ (1:45) Installing Python & PyCharm
+⌨️ (6:40) Setup & Hello World
+⌨️ (10:23) Drawing a Shape
+⌨️ (15:06) Variables & Data Types
+⌨️ (27:03) Working With Strings
+⌨️ (38:18) Working With Numbers
+⌨️ (48:26) Getting Input From Users
+⌨️ (52:37) Building a Basic Calculator
+⌨️ (58:27) Mad Libs Game
+⌨️ (1:03:10) Lists
+⌨️ (1:10:44) List Functions
+⌨️ (1:18:57) Tuples
+⌨️ (1:24:15) Functions
+⌨️ (1:34:11) Return Statement
+⌨️ (1:40:06) If Statements
+⌨️ (1:54:07) If Statements & Comparisons
+⌨️ (2:00:37) Building a better Calculator
+⌨️ (2:07:17) Dictionaries
+⌨️ (2:14:13) While Loop
+⌨️ (2:20:21) Building a Guessing Game
+⌨️ (2:32:44) For Loops
+⌨️ (2:41:20) Exponent Function
+⌨️ (2:47:13) 2D Lists & Nested Loops
+⌨️ (2:52:41) Building a Translator
+⌨️ (3:00:18) Comments
+⌨️ (3:04:17) Try / Except
+⌨️ (3:12:41) Reading Files
+⌨️ (3:21:26) Writing to Files
+⌨️ (3:28:13) Modules & Pip
+⌨️ (3:43:56) Classes & Objects
+⌨️ (3:57:37) Building a Multiple Choice Quiz
+⌨️ (4:08:28) Object Functions
+⌨️ (4:12:37) Inheritance
+⌨️ (4:20:43) Python Interpreter
+
+Course developed by Mike Dane. Check out his YouTube channel for more great programming courses: https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw
+
+🔗If you liked this video, Mike accepts donations on his website: https://www.mikedane.com/contribute/
+
+⭐️Other full courses by Mike Dane on our channel ⭐️
+💻C: https://youtu.be/KJgsSFOSQv0
+💻C++: https://youtu.be/vLnPwxZdW4Y
+💻SQL: https://youtu.be/HXV3zeQKqGY
+💻Ruby: https://youtu.be/t_ispmWmdjY
+💻PHP: https://youtu.be/OK_JCtrrv-c
+💻C#: https://youtu.be/GhQdlIFylQ8
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://medium.freecodecamp.org",freeCodeCamp.org,49406224,1123332,46100,PT4H26M52S,266.8666666666667,2018-07-11T18:00:42Z,https://www.youtube.com/watch?v=rfscVS0vtbw,Full Python Course,Programming
+H2EJuAcrZYU,Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours,"Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap
+
+This Python Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of Python code and instruction to level up your programming skills. This course teaches all of the Python fundamentals. View this Python full course tutorial as a Python video textbook with 23 clearly defined chapters.
+
+💖 Support me on Patreon ➜ https://patreon.com/davegray
+
+⭐ Become a full-stack dev with Zero To Mastery Courses:
+- The Complete Python Developer: https://bit.ly/CompPythonDev
+- Complete Machine Learning & Data Science: https://bit.ly/CompMachineLearning
+- Junior to Senior Dev Roadmap: https://bit.ly/WebDevRoadmap-JrtoSr
+
+🚩 Subscribe  ➜ https://bit.ly/3nGHmNn
+
+📬 Course Updates ➜ https://courses.davegray.codes/
+
+🚀 Discord ➜  https://discord.gg/neKghyefqh
+
+☕ Buy Me A Coffee ➜ https://www.buymeacoffee.com/davegray
+
+👇 Follow Me On Social Media:
+GitHub: https://github.com/gitdagray
+Twitter: https://twitter.com/yesdavidgray
+LinkedIn: https://www.linkedin.com/in/davidagray/
+
+❗ During the tutorial I mention several resources to be provided ""in the description below"" including links to source code for the various chapters. I have put all of these resource links in one GitHub repository. 
+
+🔗 All Resources for this Python Course: https://github.com/gitdagray/python-course
+
+💡 Chapter 2 UPDATE: The latest versions of VS Code no longer support the auto-formatting I demonstrated. That said, I did the research, and if you want this formatting behavior, I show you how to get it back here: https://www.davegray.codes/posts/how-to-auto-format-unwanted-python-line-indents
+
+Python Full Course for Beginners: 
+
+(0:00:00) Intro
+(0:00:39) Chapter 1: Start Here
+(0:14:06) Chapter 2: Python Basics
+(0:26:42) Chapter 3: Operators
+(0:43:12) Chapter 4: Data Types
+(1:20:09) Chapter 5: User Input
+(1:42:15) Chapter 6: Lists & Tuples
+(2:13:44) Chapter 7: Dicts & Sets
+(2:43:07) Chapter 8: Loops
+(3:05:48) Chapter 9: Functions
+(3:20:32) Chapter 10: Recursion 
+(3:37:55) Chapter 11: Scope
+(3:57:14) Chapter 12: Closures
+(4:16:16) Chapter 13: f-Strings
+(4:38:59) Chapter 14: Modules
+(4:56:31) Chapter 15: Command Line Arguments 
+(5:17:24) Chapter 16: Challenges
+(5:32:43) Chapter 17: Lambda & Higher Order Functions
+(5:53:30) Chapter 18: Classes & Objects
+(6:12:28) Chapter 19: Exceptions & Errors
+(6:24:13) Chapter 20: OOP Project
+(6:53:59) Chapter 21: Venv & PIP
+(7:24:07) Chapter 22: File Operations
+(7:46:16) Chapter 23: Final Project - Flask Web App
+
+👀 Visual Studio Code: https://code.visualstudio.com/
+
+Was this Python full course for beginners with nearly 9 hours of instruction helpful? If so, please share. Let me know your thoughts in the comments. 
+
+#python #full #course",Dave Gray,1137611,23101,688,PT8H38M56S,518.9333333333333,2023-07-25T13:00:21Z,https://www.youtube.com/watch?v=H2EJuAcrZYU,Full Python Course,Programming
+Rq5gJVxz55Q,Python Full Course for Beginners (13 Hours) – From Zero to Hero,"Learn Python from scratch in this complete 13-hour course designed for beginners who want to build real programming confidence.
+
+Want More? 👇
+-  *Python Handbook* (sketches, notes, code) https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook
+-  *Full Package* (projects, quizzes, structure, certificate) https://www.datawithbaraa.com/course/the-ultimate-python-mastery
+-  *Subscribe* for more Free Data content: https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg?sub_confirmation=1
+- More *Details* and all *Links* https://www.datawithbaraa.com/wiki/python
+
+*🏆 DATA ACADEMY*
+- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners
+- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners
+
+*🎓UDEMY*
+- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA
+- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339
+- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC
+
+━━━━━
+
+*CONNECT WITH ME*
+📬 Newsletter https://www.blog.datawithbaraa.com
+👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/
+📸 Instagram https://www.instagram.com/datawithbaraa/
+🎥 TikTok https://www.tiktok.com/@datawithbaraa
+🌍 Website https://datawithbaraa.com/
+💬 Discord https://discord.gg/gsVJbMxKcA
+🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa
+⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link
+📩 Sponsorships baraa@datawithbaraa.com
+
+━━━━━
+*Get 25%* OFF DataCamp's Here  https://datacamp.pxf.io/bOEe66
+━━━━━
+
+*MY FREE COURSES*
+- *SQL* https://youtu.be/SSKVgrwhzus
+- *Python* https://youtu.be/Rq5gJVxz55Q
+- *Tableau* https://youtu.be/UcGF09Awm4Y
+- *Databricks* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9
+- *Power BI* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu
+- *Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7
+- *Data Careers* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd
+
+━━━━━
+
+📖 TABLE OF CONTENT
+00:00 Python Course Introduction
+02:07 Python Learning Roadmap
+
+*CHAPTER 1 — Python Fundamentals*
+05:55 What Is Python & How It Works
+12:48 Installing Python
+26:11 Comments & print()
+26:11 Comments & print()
+52:01 Variables
+01:05:39 User input()
+01:14:25 Python Data Types
+
+*CHAPTER 2 — Python Strings*
+01:46:54 String Basics & Transformations
+02:16:56 Indexing & Slicing
+02:39:04 Search, Validation & Case Conversion
+
+*CHAPTER 3 — Python Numbers*
+02:59:31 Integer & Float, Types, Math
+03:11:33 Rounding, Random, Validation
+
+*CHAPTER 4 — Python Logic & Operators*
+03:28:04 Boolean Values
+03:42:33 Comparison & Logical Operators
+04:06:13 Membership & Identity Operators
+
+*CHAPTER 5 — Python Conditional Statements*
+04:19:19 If, Else, Elif
+04:40:34 Nested & Advanced Conditions
+04:57:33 Inline If & Match Case
+
+*CHAPTER 6 — Python Loops*
+05:24:56 For Loops
+05:47:57 Break, Continue, Pass
+06:18:39 For-Else & Nested Loops
+06:40:52 While Loops
+
+*CHAPTER 7 — Python Data Structures*
+07:10:04 Lists Overview
+07:19:40 Creating & Accessing Lists
+07:48:08 Unpacking & Analyzing
+08:19:18 Add, Remove & Update
+08:41:46 Sorting & Combining
+09:18:29 Iterables & Filtering
+09:41:38 Lambda & List Comprehension
+10:12:01 Tuples
+10:19:59 Sets
+10:38:12 Dictionaries
+
+*CHAPTER 8 — Python Functions*
+11:09:45 Functions Introduction
+11:28:12 Function Parameters & Return
+12:20:31 Types of Python Functions
+12:46:09 Writing Clean Functions
+
+This course is perfect for data analysts, data engineers, data scientists, ai engineering, developers, and students — covering everything from Python fundamentals to advanced real-world applications.
+#python #learnpython #ai #dataanalytics #datascience #coding",Data with Baraa,1280563,23288,2534,PT13H2M53S,782.8833333333333,2026-02-24T13:00:07Z,https://www.youtube.com/watch?v=Rq5gJVxz55Q,Full Python Course,Programming
+XKHEtdqhLK8,Python Full Course for free 🐍,"#python #tutorial #beginners 
+Python tutorial for beginners full course
+
+Python 12 Hour Full Course for free 🐍 (2024): https://www.youtube.com/watch?v=ix9cRaBkVe0
+Learn Python in 1 HOUR ⏱: https://www.youtube.com/watch?v=8KCuHHeC_M0
+My original Python 12 Hour course (2021) 🐍:  https://www.youtube.com/watch?v=XKHEtdqhLK8
+Full Python playlist 📃: https://www.youtube.com/watch?v=Sg4GMVMdOPo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT
+
+⭐️Time Stamps⭐️
+#1   (00:00:00)​ Python tutorial for beginners 🐍
+#2   (00:05:57​) variables ✘
+#3   (00;17;38​) multiple assignment 🔠
+#4   (00:20:27​) string methods 〰️
+#5   (00:25:13​) type cast 💱
+#6   (00:30:14​) user input ⌨️
+#7   (00:36:50​) math functions 🧮
+#8   (00:40:58​) string slicing ✂️
+#9   (00:51:52​) if statements 🤔
+#10 (00:58:19)​ logical operators 🔣
+#11 (01:04:03​) while loops 🔄
+#12 (01:07:31​) for loops ➰
+#13 (01:13:04​) nested loops ➿
+#14 (01:17:08) break continue pass ⛔
+#15 (01:21:06​) lists 🧾
+#16 (01:26:58​) 2D lists 📜
+#17 (01:30:47​) tuples 📄
+#18 (01:33:47​) sets 🍴
+#19 (01:40:03​) dictionaries 📖
+#20 (01:47:20​) indexing 📑
+#21 (01:53:23​) functions 📞
+#22 (02:02:03​) return statement 🔙
+#23 (02:04:51) keyword arguments 🔑
+#24 (02:07:09​) nested function calls 🖇️
+#25 (02:09:40​) variable scope 🔬
+#26 (02:13:23​) *args 📦
+#27 (02:16:58​) **kwargs 🎁
+#28 (02:21:17​) string format 💬
+#29 (02:33:22​) random numbers 🎲
+#30 (02:36:43​) exception handling ⚠️
+#31 (02:43:40) file detection 📁
+#32 (02:47:28​) read a file 🔍
+#33 (02:51:00​) write a file 📝
+#34 (02:53:45​) copy a file 🖨️
+#35 (02:57:05​) move a file 🗃️
+#36 (03:01:20​) delete a file 🗑️
+#37 (03:06:15​) modules 💌
+#38 (03:10:26) rock, paper, scissors game 🗿
+#39 (03:18:32​) quiz game 💯
+#40 (03:35:45​) Object Oriented Programming (OOP) 🐍
+#41 (03:45:06​) class variables 🚗
+#42 (03:48:54​) inheritance 👪
+#43 (03:55:30​) multilevel inheritance 👴
+#44 (03:58:32) multiple inheritance 👨‍👩‍👧‍👦
+#45 (04:01:49) method overriding 🙅
+#46 (04:04:14​) method chaining ⛓️
+#47 (04:08:08) super function 🦸
+#48 (04:12:09​) abstract classes 👻
+#49 (04:19:12) objects as arguments 🏍️
+#50 (04:23:20​) duck typing 🦆
+#51 (04:27:38) walrus operator 🦦
+#52 (04:31:45​) functions to variables 📛
+#53 (04:35:21​) higher order functions 👑
+#54 (04:41:06​) lambda λ
+#55 (04:45:44​) sort 🗄️
+#56 (04:53:22​) map 🗺️
+#57 (04:57:17​) filter 🍺
+#58 (05:00:10​) reduce ♻️
+#59 (05:04:54​) list comprehensions 📰
+#60 (05:10:54) dictionary comprehensions 🕮
+#61 (05:18:59​) zip function 🤐
+#62 (05:23:41​) if _name_ == '__main__' ❓
+#63 (05:29:21​) time module ⌚
+#64 (05:39:58​) threading 🧵
+#65 (05:53:31​) daemon threads 😈
+#66 (05:58:19​) multiprocessing ⚡
+#67 (06:07:15​) GUI windows 🖼️
+#68 (06:14:38​) labels 🏷️
+#69 (06:24:24​) buttons 🛎️
+#70 (06:30:44​) entrybox ⌨️
+#71 (06:40:15​) checkbox ✔️
+#72 (06:49:08​) radio buttons 🔘
+#73 (07:00:47​) scale 🌡️
+#74 (07:10:24​) listbox 📋
+#75 (07:24:41​) messagebox 💭
+#76 (07:37:17​) colorchooser 🎨
+#77 (07:43:10​) text area 📒
+#78 (07:48:38​) open a file (file dialog) 📁
+#79 (07:55:33​) save a file (file dialog) 💾
+#80 (08:05:17​) menubar 🧾
+#81 (08:15:23​) frames ⚰️
+#82 (08:21:30​) new windows 🗔
+#83 (08:25:32​) window tabs 📑
+#84 (08:30:52​) grid 🏢
+#85 (08:39:52​) progress bar 📊
+#86 (08:49:48​) canvas 🖍️
+#87 (09:01:18​) keyboard events ⌨️
+#88 (09:05:54​) mouse events 🖱️
+#89 (09:11:00​) drag & drop 👈
+#90 (09:18:18​) move images w/ keys 🏎️
+#91 (09:29:13​) animations 🛸
+#92 (09:41:31​) multiple animations 🎞️
+#93 (09:53:04​) clock program 🕒
+#94 (10:01:03​) send an email 📧
+#95 (10:07:37​) run with command prompt 👨‍💻
+#96 (10:09:53) pip 🏗️
+#97 (10:13:30) py to exe 🏃
+#98 (10:17:13​) calculator program 🖩
+#99 (10:31:38​) text editor program ✏️
+100 (11:05:51) tic tac toe game ⭕
+101 (11:26:25)​ snake game 🐍
+
+Code for each topic can be found pinned to each video's comments section
+
+music credits 🎼 :
+===========================================================
+Beat Your Competition - Vibe Tracks https://youtu.be/bll5zsOGNKA​
+===========================================================
+Twelve Speed - Slynk https://www.youtube.com/watch?v=jsTEUi-kegE&ab_channel=Slynk
+
+===========================================================
+Up In My Jam (All Of A Sudden) by - Kubbi https://soundcloud.com/kubbi
+Creative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 
+Free Download / Stream: http://bit.ly/2JnDfCE
+Music promoted by Audio Library https://youtu.be/tDexBj46oNI
+===========================================================
+
+Copyright Disclaimer:
+
+This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.",Bro Code,22221347,998749,28102,PT12H,720.0,2021-02-15T15:00:12Z,https://www.youtube.com/watch?v=XKHEtdqhLK8,Full Python Course,Programming
+eWRfhZUzrAc,Python for Beginners – Full Course [Programming Tutorial],"Learn the Python programming language in this full course for beginners! You will learn the fundamentals of Python and code two Python programs line-by-line. No previous programming experience is necessary before watching this course.
+
+🔗 Start using Replit: https://join.replit.com/python-students
+
+✏️ Beau Carnes developed this course. Check out one of his other channels: https://youtube.com/beau
+
+💻 Rock, Paper, Scissors Code: https://github.com/beaucarnes/course-code/blob/main/python/rps.py
+💻 Blackjack Code: https://github.com/beaucarnes/course-code/blob/main/python/blackjack.py
+
+🏗 Replit provided a grant that made this course possible.
+
+🔗 The Python Handbook by Flavio Copes: https://www.freecodecamp.org/news/the-python-handbook/
+
+❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction
+
+Rock, Paper, Scissors Intro Project
+⌨️ (0:03:11) RPS - Variables and Functions
+⌨️ (0:09:07) RPS - Calling Functions
+⌨️ (0:12:31) RPS - Dictionaries
+⌨️ (0:15:28) RPS - User Input
+⌨️ (0:16:55) RPS - Libraries, Lists, Methods
+⌨️ (0:20:45) RPS - Function Arguments
+⌨️ (0:22:33) RPS - If Statements 
+⌨️ (0:25:40) RPS - Concatenating Strings
+⌨️ (0:27:13) RPS - f-strings
+⌨️ (0:30:26) RPS - Else and Elif Statements
+⌨️ (0:33:37) RPS - Refactoring and Nested If
+⌨️ (0:38:37) RPS - Accessing Dictionary Values
+⌨️ (0:41:55) RPS - Testing Game
+
+Fundamentals of Python
+⌨️ (0:43:52) Setup Python Locally
+⌨️ (0:47:47) Creating New Repl
+⌨️ (0:48:45) Variables
+⌨️ (0:51:21) Expressions and Statements 
+⌨️ (0:52:38) Comments
+⌨️ (0:54:23) Data Types
+⌨️ (1:00:16) Operators
+⌨️ (1:00:44) Arithmetic Operators
+⌨️ (1:03:52) Comparison Operators
+⌨️ (1:05:13) Boolean Operators
+⌨️ (1:07:26) Bitwise Operators
+⌨️ (1:07:42) is & in Operators
+⌨️ (1:08:21) Ternary Operator
+⌨️ (1:09:40) Strings
+⌨️ (1:12:36) String Methods
+⌨️ (1:16:41) Escaping Characters
+⌨️ (1:19:23) String Characters & Slicing
+⌨️ (1:21:45) Booleans
+⌨️ (1:26:07) Number Data Types
+⌨️ (1:28:19) Built-in Functions
+⌨️ (1:29:50) Enums
+⌨️ (1:32:51) User Input
+⌨️ (1:34:39) Control Statements
+⌨️ (1:36:48) Lists
+⌨️ (1:46:21) Sorting Lists
+⌨️ (1:49:57) Tuples
+⌨️ (1:53:49) Dictionaries
+⌨️ (2:01:45) Sets
+⌨️ (2:06:10) Functions
+⌨️ (2:16:57) Variable Scope
+⌨️ (2:18:35) Nested Functions 
+⌨️ (2:21:37) Closures
+⌨️ (2:22:59) Objects
+⌨️ (2:26:27) Loops
+⌨️ (2:32:01) Break and Continue
+⌨️ (2:33:02) Classes
+⌨️ (2:39:12) Modules
+⌨️ (2:45:55) Arguments from Command Line
+⌨️ (2:52:42) Lambda Functions
+⌨️ (2:54:51) Map, Filter, Reduce
+⌨️ (3:02:41) Recursion 
+⌨️ (3:04:42) Decorators
+⌨️ (3:06:45) Docstrings
+⌨️ (3:09:54) Annotations
+⌨️ (3:11:30) Exceptions 
+⌨️ (3:17:09) With
+⌨️ (3:18:26) Installing Packages with pip
+⌨️ (3:21:39) List Compression
+⌨️ (3:23:09) Polymorphism
+⌨️ (3:24:23) Operator Overloading
+
+Blackjack Card Game Project
+⌨️ (3:26:58) Blackjack - Beginning
+⌨️ (3:50:13) Blackjack - Deck Class
+⌨️ (3:58:45) Blackjack - Card Class
+⌨️ (4:03:25) Blackjack - Hand Class
+⌨️ (4:21:13) Blackjack - Game Class
+⌨️ (4:37:04) Blackjack - Testing
+
+⌨️ (4:39:36) Conclusion
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news",freeCodeCamp.org,4903851,86957,2003,PT4H40M,280.0,2022-08-09T12:54:23Z,https://www.youtube.com/watch?v=eWRfhZUzrAc,Full Python Course,Programming
+t8pPdKYpowI,Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE],"►  Grab your free IT Fundamentals Roadmap: https://bit.ly/3GV5Noy
+
+💚 Hands-On course to learn the complete SDLC - from code to deployment: https://bit.ly/43gOF3f
+
+Python Tutorial for Beginners | Full Python Course | Learn Python
+
+In this complete Python course you will learn everything you need to get started with Python. 🤩
+By the end of this course, you will have a good understanding of the concepts and hands-on experience with several demo projects you can follow along.
+
+Python is the most popular programming language out there and it is used for so many different industries, like: Web Development, Data Science, Machine Learning and DevOps Automation. So learning Python is definitely a good idea!  💪
+
+#python #techworldwithnana
+
+
+▬▬▬▬▬▬ S P E C I A L   O F F E R  🎉   ▬▬▬▬▬▬
+Want to try PyCharm Professional Edition? JetBrains provided me with a 100% discount code! 🙂 
+With ""PYCHARMFORDEVOPS"" you can try PyCharm Professional for 3-month!
+►  Use this code at: https://www.jetbrains.com/store/redeem/ 
+►  Valid until Jan 1, 2026
+
+►  Thanks JetBrains for making this course possible! 🙌🏼
+►  Check out their all-in-one collaboration solution: Space! Get started for free: https://www.jetbrains.com/space/
+
+
+▬▬▬▬▬▬ U S E F U L    L I N K S 🔗  ▬▬▬▬▬▬ 
+►  GitLab Source Code: https://gitlab.com/nanuchi/python-programming
+►  Inventory.xls file: https://gitlab.com/nanuchi/python-programming/-/tree/master/spreadsheet
+►  PyCharm Download: https://www.jetbrains.com/pycharm/download
+►  Python Installation Steps for Windows - Important click ""Add to PATH"" https://docs.python.org/3/using/windows.html#installation-steps
+
+
+▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
+0:00 - Course Intro & Course Overview
+2:53 - Introduction to Python
+07:01 - Installation and Local Setup with PyCharm
+14:10 - Write our first Python program
+15:33 - Python IDE vs simple File Editor
+19:04 - Strings and Number Data Types
+30:11 - Variables in Python
+39:33 - Encapsulate Logic with Functions
+54:00 - Scope
+59:50 - Accepting User Input
+1:15:28 - Conditionals (if / else) and Boolean Data Type
+1:44:18 - Error Handling with Try / Except
+1:50:11 -  While Loops
+2:02:43 - Lists and For Loops
+2:21:51 - Thanks JetBrains!  
+2:23:17 - Comments in Python
+2:27:23 - Sets
+2:38:31 - Built-In Functions
+2:44:25 - Dictionary Data Type
+3:01:32 - Modularize your project with Modules
+3:20:09 - Project: Countdown App
+3:40:27 - Packages, PyPI and pip
+3:54:06 - Project: Automation with Python (Working with Spreadsheets)
+4:44:02 - Object Oriented Programming: Classes and Objects
+5:14:35 - Project: API Request to GitLab
+5:30:23 - Wrap Up
+
+
+▬▬▬▬▬▬ Want to learn more? 🚀  ▬▬▬▬▬▬ 
+Full Docker course                                    ►  https://youtu.be/3c-iBn73dDE
+Full K8s course course                            ►  https://youtu.be/X48VuDVv0do
+DevOps Tools, like Terraform                  ►  https://bit.ly/2W9UEq6
+GitHub Actions CI/CD                              ►  https://youtu.be/R8_veQiYBjI
+
+
+▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
+INSTAGRAM             ►  https://bit.ly/2F3LXYJ
+TWITTER                   ►  https://bit.ly/3i54PUB
+LINKEDIN                  ►  https://bit.ly/3hWOLVT
+
+
+▬▬▬▬▬▬ Courses & Bootcamp 🚀      ▬▬▬▬▬▬ 
+► Become a DevOps Engineer - full educational program             👉🏼   https://bit.ly/45mXaer
+► High-Quality and Hands-On Courses                                             👉🏼   https://bit.ly/3BNS8Kv",TechWorld with Nana,6893087,171348,4129,PT5H31M30S,331.5,2021-03-05T14:10:17Z,https://www.youtube.com/watch?v=t8pPdKYpowI,Full Python Course,Programming
+NakyjvSrTIQ,Python Full Course For Beginners: Zero to Hero in 3 Hours,"Timestamps:
+0:00:00 Introduction
+0:10:53 Math Operations
+0:17:51 Variables
+0:20:26 Booleans / Conditions
+0:27:55 If Statements
+0:31:10 Introduction to Lists
+0:33:24 For Loops
+0:41:35 While Loops
+0:47:30 If / Elif / Else
+0:56:40 Functions
+1:11:15 Is
+1:27:13 Cool Function Tricks
+1:34:27 File Reading / Writing
+1:42:33 Objects and Classes
+1:56:00 Comments / Docstrings
+2:03:55 Lists in Detail
+2:08:58 Dictionaries
+2:17:02 Strings in Detail
+2:27:47 Tuples
+2:30:35 Sets
+2:34:33 Errors / Try / Except
+2:38:35 User Input
+2:41:18 List Comprehension
+2:49:13 ASCII / Ord / Chr
+2:53:50 Modules / Pip / Packages
+2:57:52 Python Scripts / Files
+3:04:11 Local Python
+3:07:38 Conclusion
+
+Notebook available here: https://colab.research.google.com/drive/1YNJx2CMObRQqQvkDDMxIEISZfGs7npwU?usp=sharing
+
+Related Videos:
+Colab Tutorial: https://youtu.be/JJYZ3OE_lGo
+Python Virtual Environments: https://youtu.be/BWVu52lfEok
+
+Master Python at https://mlnow.ai/course-material/python/!
+
+Learn SQL & Relational Databases at https://mlnow.ai/course-material/sql/!
+
+Learn NumPy, Pandas, and Python for Data Science at https://mlnow.ai/course-material/datascience/!
+
+Become a Machine Learning Expert at https://mlnow.ai/course-material/ml/!
+
+Don't forget to subscribe if you enjoyed the video :D",Greg Hogg,180257,3165,97,PT3H8M50S,188.83333333333334,2022-05-28T03:50:12Z,https://www.youtube.com/watch?v=NakyjvSrTIQ,Full Python Course,Programming
+8DvywoWv6fI,Python for Everybody - Full University Python Course,"This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics. 
+
+🔗 Sample Code Zip: https://www.py4e.com/code3.zip
+🔗 Lecture Slides and Handouts: https://www.py4e.com/lectures3/
+🔗 Free Textbook: https://www.py4e.com/book.php
+🔗 Course Website: https://www.py4e.com/
+
+❤️ Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Why Program?
+⌨️ (0:12:21) Why Program? - Hardware Architecture
+⌨️ (0:24:24) Python 3 Windows Installation
+⌨️ (0:32:34) Python 3 Mac Installation
+⌨️ (0:36:41) Why Program? - Python as a Language
+⌨️ (0:44:17) Why Program? - What do we say?
+
+⌨️ (0:56:55) Variables, Expressions, and Statements
+⌨️ (1:06:20) Variables, Expressions, and Statements - Expressions
+
+⌨️ (1:26:00) Conditional Execution
+⌨️ (1:39:13) Conditional Execution - More Conditional Structures
+
+⌨️ (1:52:48) Functions
+⌨️ (2:03:02) Functions - Functions of our own
+
+⌨️ (2:15:21) Loops and Iteration
+⌨️ (2:25:04) Loops and Iteration - Definite Loops
+⌨️ (2:31:40) Loops and Iteration - Loop Idioms
+⌨️ (2:40:07) Loops and Iteration - More Loop Patterns
+
+⌨️ (2:58:39) Strings
+⌨️ (3:09:06) Strings - More String Operations
+
+⌨️ (3:27:33) Reading Files
+⌨️ (3:35:12) Reading Files - Reading Files in Python
+
+⌨️ (3:48:42) Python Lists
+⌨️ (3:59:27) Python Lists - Loop Operations
+⌨️ (4:08:52) Python Lists - Strings vs. Lists
+⌨️ (4:16:42) Python Lists - Strings, Files, Lists & the Guardian Pattern
+
+⌨️ (4:28:44) Dictionaries
+⌨️ (4:36:32) Dictionaries - Counting
+⌨️ (4:45:43) Dictionaries - Counting Words in Text
+⌨️ (4:58:21) Dictionaries - Counting Word Frequency Using a Dictionary
+
+⌨️ (5:22:46) Tuples
+⌨️ (5:32:18) Tuples - Sorting
+⌨️ (5:44:26) Tuples - Sorting a Dictionary Using Tuples
+
+⌨️ (5:54:56) Regular Expressions
+⌨️ (6:05:21) Regular Expressions - From Matching to Extracting
+⌨️ (6:13:47) Regular Expressions - String Parsing
+
+⌨️ (6:22:17) Networked Programs
+⌨️ (6:29:45) Networked Programs - Application Protocols
+⌨️ (6:38:56) Networked Programs - Write a Web Browser
+⌨️ (6:43:10) Networked Programs - Code Example: socket1.py
+⌨️ (6:48:58) Networked Programs - Characters and Strings
+⌨️ (6:59:57) Networked Programs - urllib
+⌨️ (7:05:10) Networked Programs - Code Example: urllib1.py, urlwords.py
+⌨️ (7:08:25) Networked Programs - Parsing HTML
+⌨️ (7:14:48) Networked Programs - Code Example: urllinks.py
+
+⌨️ (7:23:43) Using Web Services
+⌨️ (7:26:35) Using Web Services - XML
+⌨️ (7:32:02) Using Web Services - Code Example: xml1.py, xml2.py
+⌨️ (7:37:40) Using Web Services - XML Schema
+⌨️ (7:51:32) Using Web Services - JavaScipt Notation
+⌨️ (7:57:45) Using Web Services - Code Example: json1.py, json2.py
+⌨️ (8:03:08) Using Web Services - Service Oriented Approach
+⌨️ (8:04:44) Using Web Services - Web Services
+⌨️ (8:11:33) Using Web Services - Code Example: geojson.py
+⌨️ (8:18:49) Using Web Services - API Security & Rate Limiting
+⌨️ (8:28:45) Using Web Services - Code Example: twitter1.py, twitter2.py
+
+⌨️ (8:48:01) Python Objects
+⌨️ (8:58:28) Python Objects - Sample Code
+⌨️ (9:06:50) Python Objects - Object Lifecycle
+⌨️ (9:13:19) Python Objects - Inheritance
+
+⌨️ (9:20:44) Databases
+⌨️ (9:35:55) Databases - SQLite Browser
+⌨️ (9:45:40) Databases - Code Sample: emaildb.py
+⌨️ (9:58:55) Databases - Code Sample: twspider.py
+⌨️ (10:08:06) Databases - Database Design
+⌨️ (10:16:29) Databases - Representing Relationships
+⌨️ (10:20:37) Databases - Relationship Building
+⌨️ (10:33:05) Databases - Join Operation
+⌨️ (10:43:13) Databases - Code Sample: tracks.py
+⌨️ (10:57:45) Databases - Many-to-Many Relationships
+⌨️ (11:09:37) Databases - Code Sample: roster.py
+⌨️ (11:20:40) Databases - Code Sample: twspider.py
+
+⌨️ (11:20:40) Data Visualization
+⌨️ (11:48:18) Data Visualization - Code Sample: Geodata
+⌨️ (12:01:05) Data Visualization - Page Rank
+⌨️ (12:12:14) Data Visualization - Code Sample: Pagerank Spidering
+⌨️ (12:29:12) Data Visualization - Code Sample: Pagerank Computation
+⌨️ (12:44:17) Data Visualization - Code Sample: Pagerank Visualization
+⌨️ (12:44:17) Data Visualization - Mailing List Crawl
+⌨️ (12:57:08) Data Visualization - Code Sample: Gmane Data Retrieval
+⌨️ (13:13:42) Data Visualization - Code Sample: Gmane Data Modeling
+⌨️ (13:26:04) Data Visualization - Code Sample: Gmane Data Visualization
+
+This course was created by Dr. Charles Severance (a.k.a. Dr. Chuck). He is a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and Web development.
+
+""Python for Everybody"" by Dr. Chuck Severance and the University of Michigan is licensed under CC BY.
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://medium.freecodecamp.org",freeCodeCamp.org,7850368,198744,5145,PT13H40M10S,820.1666666666666,2019-05-02T12:05:54Z,https://www.youtube.com/watch?v=8DvywoWv6fI,Full Python Course,Programming
+nLRL_NcnK-4,Harvard CS50’s Introduction to Programming with Python – Full University Course,"Learn Python programming from Harvard University.  It dives more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. You will learn how to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku.
+
+This course will teach you how to read and write code as well as how to test and “debug” it. It is designed for students with or without prior programming experience who’d like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
+
+Whereas CS50x (the original CS50 course) itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
+
+💻 Slides, source code, and more at https://cs50.harvard.edu/python
+
+✏️ Dr. David J. Malan teaches this course.
+
+🖥 Watch the original CS50x course: https://youtu.be/8mAITcNt710
+
+❤️ Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)
+
+⭐️ Course Contents ⭐️
+(00:00:00) Introduction
+(00:04:48) Lecture 0 - Functions, Variables
+(01:50:24) Lecture 1 - Conditionals
+(02:46:23) Lecture 2 - Loops
+(04:07:10) Lecture 3 - Exceptions
+(04:51:45) Lecture 4 - Libraries
+(06:09:15) Lecture 5 - Unit Tests
+(07:00:22) Lecture 6 - File I/O
+(08:32:32) Lecture 7 - Regular Expressions
+(10:37:35) Lecture 8 - Object-Oriented Programming
+(13:28:47) Lecture 9 - Et Cetera
+
+HOW TO JOIN CS50 COMMUNITIES
+
+Discord: https://discord.gg/cs50
+Ed: https://cs50.harvard.edu/x/ed
+Facebook Group: https://www.facebook.com/groups/cs50/
+Faceboook Page: https://www.facebook.com/cs50/
+GitHub: https://github.com/cs50
+Gitter: https://gitter.im/cs50/x
+Instagram: https://instagram.com/cs50
+LinkedIn Group: https://www.linkedin.com/groups/7437240/
+LinkedIn Page: https://www.linkedin.com/school/cs50/
+Medium: https://cs50.medium.com/
+Quora: https://www.quora.com/topic/CS50
+Reddit: https://www.reddit.com/r/cs50/
+Slack: https://cs50.edx.org/slack
+Snapchat: https://www.snapchat.com/add/cs50
+SoundCloud: https://soundcloud.com/cs50
+Stack Exchange: https://cs50.stackexchange.com/
+TikTok: https://www.tiktok.com/@cs50
+Twitter: https://twitter.com/cs50
+YouTube: https://www.youtube.com/cs50
+
+HOW TO FOLLOW DAVID J. MALAN
+
+Facebook: https://www.facebook.com/dmalan
+GitHub: https://github.com/dmalan
+Instagram: https://www.instagram.com/davidjmalan/
+LinkedIn: https://www.linkedin.com/in/malan/
+TikTok: https://www.tiktok.com/@davidjmalan
+Twitter: https://twitter.com/davidjmalan
+
+LICENSE
+
+CC BY-NC-SA 4.0
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+https://creativecommons.org/licenses/by-nc-sa/4.0/",freeCodeCamp.org,9231891,238563,5333,PT15H57M48S,957.8,2023-05-01T13:55:40Z,https://www.youtube.com/watch?v=nLRL_NcnK-4,Full Python Course,Programming
+sxTmJE4k0ho,The Complete Python Course For Beginners,"This python course is designed to take you from beginner to pro in the python language. This python course is designed to teach you everything you need to know about python. It assumes no prior knowledge and is a perfect python tutorial for beginners. This course is split into 4 main sections: Beginner Python Programming, Object Oriented Programming, Intermediate Python Programming and Expert Python Features.
+
+🎙 Subscribe to my second channel for weekly podcasts! https://www.youtube.com/channel/UCSATlCAUi7R0Ik-wsZb2gOA
+
+🔗 Python Download: https://www.python.org/downloads/
+
+Note: There may be some missing links and resources. Leave a comment if so and I'll try my best to add them!
+
+⭐️ Time Stamps ⭐️
+
+📕 Beginner Python Programming 📕
+(00:00:00) Introduction
+(00:01:12) Variables & Data Types
+(00:12:21) Basic Operators & Input
+(00:24:11) Conditions
+(00:32:54) if-elif-else
+(00:45:56) Chained Conditionals & Nested Statements
+(00:53:29) For Loops
+(00:59:29) While Loops
+(01:05:51) List's and Tuples
+(01:14:09) Iteration by Item
+(01:20:13) String Methods
+(01:26:38) Slice Operator
+(01:33:41) Functions
+(01:42:10) How to Read a Text File
+(01:50:31) Writing to a Text File
+(01:54:50) Using .count() and .find()
+(02:01:47) Introduction to Modular Programming
+(02:09:28) Optional Parameters
+(02:15:36) Try and Except (Error Handling)
+(02:20:29) Global vs Local Variables
+
+📗 Object Oriented Programming 📗
+(02:29:16) Introduction to Objects
+(02:39:02) Creating Classes
+(02:50:37) Inheritance
+(03:03:13) Overloading Methods
+(03:16:01) Static Methods and Class Methods
+(03:25:44) Private and Public Classes
+
+📘 Intermediate Python 📘
+(03:31:40) Optional Parameters
+(03:41:13) Static and Class Methods
+(03:50:24) Map Function
+(03:56:15) Filter Function
+(04:03:12) Lambda Function
+(04:10:12) Introduction to Collections
+(04:22:17) Named Tuple
+(04:30:20) Deque
+
+📙 Advanced Python 📙
+(04:40:12) Overview of Python
+(04:58:34) Dunder/Magic Methods
+(05:12:23) Metaclasses
+(05:34:10) Decorators
+(05:50:29) Generators
+(06:04:32) Context Managers
+
+◾◾◾◾◾
+💻 Enroll in The Fundamentals of Programming w/ Python 
+https://tech-with-tim.teachable.com/p/the-fundamentals-of-programming-with-python
+
+📸 Instagram: https://www.instagram.com/tech_with_tim
+🌎 Website https://techwithtim.net
+📱 Twitter: https://twitter.com/TechWithTimm
+⭐ Discord: https://discord.gg/pr2k55t
+📝 LinkedIn: https://www.linkedin.com/in/tim-ruscica-82631b179/
+📂 GitHub: https://github.com/techwithtim
+🔊 Podcast: https://anchor.fm/tech-with-tim
+
+💵 One-Time Donations: https://www.paypal.com/donate/?token=m_JfrPK7DsK4PLk0CxNnv4VPutjqSldorAmgQIQnMozUwwQw93vdul-yhU06IwAuig15uG&country.x=CA&locale.x=
+💰 Patreon: https://www.patreon.com/techwithtim
+◾◾◾◾◾◾
+
+⚡ Please leave a LIKE and SUBSCRIBE for more content! ⚡
+
+⭐ Tags ⭐
+- Tech With Tim
+- Python Tutorials
+- Python Course
+- Learn Python
+- Complete Python Tutorial
+
+⭐ Hashtags ⭐
+#python",Tech With Tim,1010469,36698,995,PT6H21M13S,381.21666666666664,2020-05-08T13:00:36Z,https://www.youtube.com/watch?v=sxTmJE4k0ho,Full Python Course,Programming
+Wghz6w0btxI,Python Programming - A Full Course for Beginners (Learn Python in 2025!),"Python Programming - A Full Course for Beginners (Learn Python in 2025!)
+
+@monuinstitute
+Some of you asked me about Python courses for further learning. I strongly recommend you not to buy any overpriced course. One of the most underrated resources in the journey of programmers is Udemy (This post is not sponsored). The affordable courses Udemy provides with doubt support are way way better than most of the paid courses I see online these days.
+
+👉 Tags:
+python full course, python basics, learn python, python code, python projects, python for data science, programming basics, code, coding tutorials, python for data, python for beginners, python tutorial, python course, what is python, python course for beginners, coding in python, beginner python, python programming tutorial, python language, python from scratch, coding python, python exercises, programming course, python for all, python 3, python coding, tech with tim
+
+👉 Hashtags:
+#computer #python #coding #cod #codes #pythonprogramming #pythonforbeginners #computerlanguage #tutorial #turtle #programming #program #programminglanguage 
+
+👉 टेलीग्राम चैनल:
+https://t.me/Monuinstitute",Monu institute ,383315,3320,37,PT13S,0.21666666666666667,2025-08-12T01:15:53Z,https://www.youtube.com/watch?v=Wghz6w0btxI,Full Python Course,Programming
+fWjsdhR3z3c,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy),"In this crash course I'll be teaching you the basics of Python in less than 10 minutes. Python is super easy to learn compared to the other languages!
+
+Download Python: https://www.python.org/
+Download PyCharm: https://www.jetbrains.com/pycharm/download/",Indently,1784640,38197,971,PT10M30S,10.5,2021-05-26T12:32:40Z,https://www.youtube.com/watch?v=fWjsdhR3z3c,Full Python Course,Programming
+kqtD5dpn9C8,Python for Beginners - Learn Coding with Python in 1 Hour,"Learn Python basics in just 1 hour! Perfect for beginners interested in AI and coding. ⚡ Plus, get 6 months of PyCharm FREE with the coupon in the description!
+
+🚀 Want to dive deeper? Check out my Complete Python Mastery course: 
+- Full course: https://mosh.link/python-course
+- Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF
+
+📕 Get the FREE goodies:
+- Python cheat sheet: https://mosh.link/python-cheatsheet
+- Get 6 months of PyCharm for free with this coupon code: MOSH_YOUTUBE - Redeem it at: https://jb.gg/redeem
+
+✋ Stay connected:
+- Twitter: https://twitter.com/moshhamedani
+- Facebook: https://www.facebook.com/programmingwithmosh/
+- Instagram: https://www.instagram.com/codewithmosh.official/
+- LinkedIn: https://www.linkedin.com/school/codewithmosh/
+
+⭐ Related tutorials
+https://youtu.be/yVl_G-F7m8c?si=11emtFyDccTKCGn7
+
+📖 TABLE OF CONTENT
+0:00:00 Introduction 
+0:00:30 What You Can Do With Python 
+0:01:15 Your First Python Program 
+0:05:30 Variables
+0:09:08 Receiving Input
+0:10:48 Type Conversion
+0:18:49 Strings
+0:23:41 Arithmetic Operators 
+0:25:59 Operator Precedence 
+0:27:11 Comparison Operators 
+0:28:52 Logical Operators
+0:31:06 If Statements
+0:36:16 Exercise
+0:41:42 While Loops
+0:45:11 Lists
+0:48:47 List Methods
+0:52:16 For Loops
+0:54:54 The range() Function 
+0:57:43 Tuples
+
+#Python #AI #MachineLearning #WebDevelopment",Programming with Mosh,25539890,571347,28832,PT1H6S,60.1,2020-09-16T13:00:20Z,https://www.youtube.com/watch?v=kqtD5dpn9C8,Full Python Course,Programming
+wUSDVGivd-8,Python for Data Analytics - Full Course for Beginners,"📁 FREE Course Files & Project 👉 https://lukeb.co/python_repo
+🏆 Supporter Access: Problems, Certificate, & More 👉 https://lukeb.co/python
+
+My FREE Course to be a Data Analyst 👉 https://lukebarousse.com/5daycourse
+
+📌💬 See pinned comment for troubleshooting tips.
+
+𝗖𝗵 0️⃣ - 𝗜𝗻𝘁𝗿𝗼
+▔▔▔▔▔
+0:00:00 - Welcome
+0:03:12 - What is Python?
+0:04:51 - Intro to Course
+
+𝗖𝗵 1️⃣ - 𝗕𝗮𝘀𝗶𝗰𝘀
+▔▔▔▔▔▔
+0:08:42 - Getting Started
+0:18:52 - Variables
+0:24:25 - Python Terms
+0:38:06 - Data Types
+0:48:41 - Strings
+1:02:04 - ChatBot Help
+1:05:06 - String Formatting
+1:15:10 - Operators Part 1
+1:26:20 - Conditional Statements
+1:34:24 - Lists
+1:49:42 - Dictionaries
+1:59:54 - Sets
+2:05:15 - Tuples
+2:12:26 - Operators Part 2
+2:21:06 - Loops
+2:36:31 - List Comprehensions
+2:44:16 - Exercise: Basics
+2:52:12 - Functions
+3:02:03 - Lambda
+3:12:46 - Modules
+3:28:16 - Exercise: Python Library
+3:40:05 - Library
+3:52:33 - Classes
+4:10:44 - NumPy: Intro
+4:22:56 - Pandas: Intro
+4:33:09 - Pandas: Inspection
+4:47:20 - Pandas: Cleaning
+4:58:46 - Pandas: Analysis
+5:08:26 - Exercise: Pandas Basics
+5:17:19 - Matplotlib: Intro
+5:21:23 - Matplotlib: Plotting
+5:34:41 - Matplotlib: Labeling
+5:40:34 - Matplotlib: Pandas Plotting
+5:46:00 - Exercise: Matplotlib Basics
+
+𝗖𝗵 2️⃣ - 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱
+▔▔▔▔▔▔▔▔
+5:50:56 - Python Install (Anaconda)
+6:00:34 - VS Code Install
+6:10:49 - Virtual Environments (See Pinned Comment)
+6:27:15 - Pandas: Accessing Data
+6:35:38 - Pandas: Data Cleaning
+6:42:54 - Pandas: Data Management
+6:49:35 - Pandas: Pivot Tables
+6:57:00 - Pandas: Index Management
+7:04:50 - Exercise: Job Demand
+7:15:37 - Pandas: Merge DataFrames
+7:25:53 - Pandas: Concat DataFrames
+7:34:31 - Pandas: Exporting Data
+7:40:56 - Pandas: Applying Functions
+7:56:39 - Pandas: Explode
+8:08:27 - Exercise: Trending Skills
+8:17:21 - Matplotlib: Format Charts
+8:30:06 - Matplotlib: Pie Plots
+8:40:04 - Matplotlib: Scatter Plots
+8:50:35 - Matplotlib: Advanced Customization
+9:06:00 - Matplotlib: Histograms
+9:10:36 - Matplotlib: Box Plots
+9:22:01 - Exercise: Skill Pay Analysis
+9:31:39 - Seaborn: Intro
+
+𝗖𝗵 3️⃣ - 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+▔▔▔▔▔▔
+9:45:40 - Project: Intro
+9:56:23 - Git & GitHub Setup
+10:09:50 - Skill Demand
+10:29:33 - Skills Trend
+10:42:30 - Salary Analysis
+10:50:57 - Optimal Skills
+11:03:22 - Share on GitHub
+11:06:04 - Share on LinkedIn
+
+🔗 𝗟𝗶𝗻𝗸𝘀 𝗠𝗲𝗻𝘁𝗶𝗼𝗻𝗲𝗱 
+▔▔▔▔▔▔▔▔▔
+1️⃣ 𝗕𝗮𝘀𝗶𝗰𝘀 𝗟𝗶𝗻𝗸𝘀
+- Dataset (Hugging Face) - https://huggingface.co/datasets/lukebarousse/data_jobs
+- Functions Python Docs - https://docs.python.org/3/library/functions.html
+- Python Standard Library - https://docs.python.org/3/library/index.html
+- DateTime Docs - https://docs.python.org/3/library/datetime.html
+- AST Docs - https://docs.python.org/3/library/ast.html
+- Format String Literals - https://docs.python.org/3/reference/lexical_analysis.html#formatted-string-literals
+- Pandas Docs - https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+- Matplotlib Docs - http://matplotlib.org/
+- Matplotlib CheatSheet - https://matplotlib.org/cheatsheets/
+
+2️⃣ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗟𝗶𝗻𝗸𝘀
+- VS Code Install - https://code.visualstudio.com/download
+- Anaconda Install - https://anaconda.com/download/success
+- Anaconda Docs - https://docs.conda.io
+- Software Jobs CSV - https://lukeb.co/software_csv
+- Joins Explained (SQL for Data Analytics) - https://lukeb.co/sql_joins
+- Pandas Cheat Sheet - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+- Seaborn Docs - https://seaborn.pydata.org/
+
+3️⃣ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸𝘀
+- Git Download - https://git-scm.com/downloads
+- GitHub Signup - http://github.com/signup
+- Markdown CheatSheet - https://www.markdownguide.org/cheat-sheet/
+
+𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮
+▔▔▔▔▔▔
+📫Newsletter: https://www.lukebarousse.com/
+👨🏼‍💼 Linkedin: https://www.linkedin.com/in/luke-b/
+🅧 X/Twitter: https://twitter.com/LukeBarousse
+🌄 Instagram: https://www.instagram.com/lukebarousse/
+⏰ TikTok: https://www.tiktok.com/@lukebarousse
+
+Connect with Kelly Adams, the course producer: 
+👩🏻‍💼 Kelly’s LinkedIn: https://www.linkedin.com/in/kellyjianadams
+🌐 Kelly’s Website: https://www.kellyjadams.com
+
+As an Amazon, Coursera, and Parallels Affiliate Programs member, I earn a commission from qualifying purchases on the links above.  It costs you nothing but helps me with content creation.
+
+#datanerd #dataanalyst #datascience",Luke Barousse,1596297,37484,1186,PT11H9M41S,669.6833333333333,2024-06-07T12:01:05Z,https://www.youtube.com/watch?v=wUSDVGivd-8,Full Python Course,Programming
+80yIVH2aOy0,python programming|python for beginners|python full course,"python programming|python for beginners|python full course
+
+👉@monuinstitute
+python tutorial, learn python, python basics, python projects, machine learning, coder, python zero to hero, python for data, coding with python, python concepts, computer programming, learning python, coding python, data science python, python project ideas, python course, python coding, computers, python programming basics, how to learn python fast, beginner python, python syllabus, software engineer, python for kids, coding for kids, advanced python, data analysis
+
+👉 Hashtags:
+#python #coding #pythonlanguage #pythonprogramming #codewithharry #apnacollege #pythontutorial #tutorial #turtle #cod #java #shorts #computer #cs",Monu institute ,1955703,30204,278,PT11S,0.18333333333333332,2025-06-06T00:51:25Z,https://www.youtube.com/watch?v=80yIVH2aOy0,Full Python Course,Programming
+s3KhqPjBPaQ,Python for Beginners - Full Course,"🚀 https://neetcode.io/ - Learn Python interactively
+
+
+
+Checkout my second Channel:  https://www.youtube.com/@NeetCodeIO
+
+🥷 Discord: https://discord.gg/ddjKRXPqtk
+🧑‍💼 LinkedIn: https://www.linkedin.com/in/navdeep-singh-3aaa14161/
+🐦 Twitter: https://twitter.com/neetcode1
+📷 Instagram: https://www.instagram.com/neetcodeio/
+🎵 TikTok: https://www.tiktok.com/@neetcode.io
+
+
+0:00:00 - Intro
+0:01:32 - Hello World
+0:03:40 - What is Python?
+0:06:15 - Execution Order
+0:07:29 - Printing Text
+0:12:07 - Code Errors
+0:13:49 - Comments
+0:16:20 - Variable Declaration
+0:18:40 - Variable Naming
+0:21:20 - Naming Conventions
+0:23:00 - Reassigning Variables
+0:25:00 - Multiple Assignments
+0:28:56 - Variable Types
+0:32:51 - Dynamic Typing
+0:35:31 - Type Casting
+0:37:08 - Type Errors
+0:39:21 - Empty Variable
+0:40:51 - Arithmetic Operators
+0:46:42 - More Operators
+0:50:32 - Shorthand Operators
+0:53:32 - Boolean OR
+0:57:51 - Boolean AND
+0:59:57 - Boolean Negation
+1:02:19 - Introduction to Functions
+1:05:42 - Function Declaration
+1:07:10 - Parameters
+1:10:18 - Multiple Parameters
+1:12:59 - Return Statement
+1:14:33 - Type Hints
+1:17:44 - Scope
+1:22:28 - Global vs Local Scope
+1:27:13 - Default Arguments
+1:30:10 - Comparison Operators
+1:33:58 - If Statements
+1:36:57 - If Statement Scope
+1:41:09 - If-Else Statements
+1:45:04 - Else-If Statements
+1:49:40 - Logic Condition
+1:51:15 - Truthy and Falsy
+1:55:40 - While Loops
+1:58:46 - While Loops Counting
+2:00:00 - While Loops Multiples
+2:01:15 - For Loops
+2:03:43 - For Loops Start
+2:05:21 - For Loops Step
+2:07:38 - For Loops Reverse
+2:10:50 - Nested Loops
+2:14:15 - Control Flow
+2:17:42 - Length Function
+2:19:33 - String Indexing
+2:22:53 - String Looping
+2:24:44 - String Looping Shorthand
+2:26:52 - String Concatenation
+2:28:52 - String Slicing Part 1
+2:34:10 - String Slicing Part 2
+2:38:17 - Reversing a String
+2:40:03 - Strings are Immutable
+2:43:17 - String Formatting
+2:46:43 - Intro to Lists
+2:49:22 - List Operations
+2:52:57 - List Looping
+2:55:26 - List Functions
+2:59:43 - List Append
+3:02:03 - List Pop
+3:04:34 - List Find
+3:07:28 - List Slicing
+3:10:34 - Tuples
+3:12:54 - Intro to Sets
+3:15:17 - Set Operations
+3:18:28 - Set Practice
+3:20:26 - Intro to Dictionaries
+3:24:56 - Dict Operations
+3:27:44 - Dict Looping
+3:30:47 - Dict Practice
+3:33:53 - Dict Remove
+3:36:32 - Dict Values
+3:37:52 - Reading Input
+3:41:43 - Type Conversion with Input
+3:44:26 - Parse Input
+3:47:32 - Reading Input Practice
+3:49:10 - Try Except
+3:52:11 - Error Catching
+3:55:14 - Multiple Except Blocks
+
+
+#coding #neetcode #python",NeetCode,212630,4819,173,PT3H58M47S,238.78333333333333,2024-06-11T09:03:01Z,https://www.youtube.com/watch?v=s3KhqPjBPaQ,Full Python Course,Programming
+rM-jDeSgOQw,FREE Python Course for Beginners (13 HOURS) - Code With Josh,"👉 See the Complete Python Masterclass - https://www.zerotoknowing.com/join-now
+🧠 Join 9k+ Readers — Python Newsletter ~ https://www.thenerdnook.io
+
+👉 Email Verification That Just Works - https://www.mailkitapi.com
+
+💼 Build Real Projects & Go Deeper
+Full Python Masterclass → https://www.zerotoknowing.com/join-now
+
+📚 Learning Resources
+Get your Python eBooks ~ https://www.zerotoknowing.com/ebooks
+Our Discord Community ~ https://discord.gg/dvrcpXSwyc
+Our Facebook ~ https://tinyurl.com/msy8mnxm
+
+For a better viewing experience and access to all my learning resources as well as tons of other benefits, please go to my course website!
+
+🔔 Subscribe for content that helps you grow! 
+
+PLEASE USE THESE LINKS GUYS:
+
+📚 Game Changer Books I Recommend:
+1. Python Crash Course - https://amzn.to/3vGDXqH
+2. Automate the boring stuff - https://amzn.to/428yoO0
+3. Data Structures and Algorithms in Python - https://amzn.to/3SkzYZL
+4. Python pocket reference - https://amzn.to/3SlK0tA
+
+(Even just clicking can help support me at NO cost to you!)
+
+👉  Get my Python & Git Guide, FREE ~ https://thenerdnook.substack.com
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Introducing the 100% FREE Python Course for beginners.
+
+Setting up your programming environment becomes a breeze as I guide you through installing Python on your computer and configuring Visual Studio Code.
+
+I’ll introduce you to the essential Python print() function, exploring the realm of variables in Python and understand how to input and retrieving data efficiently.
+
+I will walk you through nested functions and show you how to refine your code seamlessly. Once we work through those functions, we will look at statements and loops you will need on your coding journey. 
+
+The course evolves into practical application with the creation of an AI Travel Planner in Python to engage in hands-on practice to help solidify your understanding.
+
+The final lessons of the course will cover modules, lists, classes, and objects to set you up for the exciting second part of this course!
+
+👉  Zero to Knowing FREE Platform - https://www.zerotoknowing.com/join-now
+
+🎓 Congratulations on completing PART ONE my Free Python Course! 🎓 
+
+You can find Part 2 HERE: https://youtu.be/5fGHothN_lg
+
+☕️  Buy me a Coffee ~ https://www.buymeacoffee.com/codewithjosh
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+CHAPTERS: 
+0:00 Introducing Code With Josh’s Free Python Course
+4:51 Python Course Structure
+9:55 Installing Python on Your Computer
+14:05 Setting up Visual Studio Code
+22:53 Python Rules
+25:26 Python print() Function
+46:13 Variables in Python
+1:09:19 Entering User Data in Python
+1:34:13 Nested Functions in Python
+1:45:24 Refactoring Python Code
+1:53:35 Conditional Statements in Python
+2:34:20 Python Nested if Statements
+3:11:48 Python While Loops
+3:41:13 Python For Loops
+4:13:25 Creating an AI Travel Planner in Python
+4:47:19 Creating Functions in Python
+5:18:44 Python Function Practice 
+5:53:05 Creating Modules With Python
+6:22:20 Using Python Modules
+7:12:10 Python Objects with Turtle
+7:37:17 Python Object Oriented Programming
+7:57:10 Creating Classes and Objects in Python
+8:32:47 Python Inheritance
+9:27:41 Working With Lists in Python
+
+*SUBSCRIBE* 
+https://www.youtube.com/@codewithjoshoffical?sub_confirmation=1
+
+#python #pythoncourse #coding",Code with Josh,223689,7707,464,PT10H12M25S,612.4166666666666,2024-02-01T16:00:38Z,https://www.youtube.com/watch?v=rM-jDeSgOQw,Full Python Course,Programming

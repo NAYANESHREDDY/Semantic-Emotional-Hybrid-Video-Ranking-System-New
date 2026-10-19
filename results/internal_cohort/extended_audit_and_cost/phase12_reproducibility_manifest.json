@@ -1,0 +1,45 @@
+{
+  "cohort_size": 98,
+  "domains": [
+    "Biology",
+    "Data Science",
+    "Mathematics",
+    "Physics",
+    "Programming"
+  ],
+  "embedding_model": "intfloat/e5-base-v2",
+  "sentiment_model": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+  "teaching_score_model": "gemini-3.5-flash-lite",
+  "iqs_weights": {
+    "semantic_alignment": 0.3,
+    "depth": 0.2,
+    "lexical_diversity": 0.2,
+    "teaching_score": 0.3
+  },
+  "fes_weights": {
+    "emotional_engagement": 0.4,
+    "one_minus_emotional_variance": 0.2,
+    "likes_norm": 0.2,
+    "comment_count_norm": 0.2
+  },
+  "adaptive_k": 5,
+  "lexical_diversity": "UniqueWords / TotalWords (TTR)",
+  "embedding_similarity": "Dot product of L2-normalized embeddings (equivalent to cosine similarity)",
+  "depth_interpretation": "Duration is used as a structural depth proxy, not as a causal quality measure",
+  "human_ground_truth": "LAK 2026 independent expert Accepted/Rejected relevance labels",
+  "python_version": "3.13.15",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "hardware": {
+    "gpu": "Tesla T4",
+    "cuda_version": "13.0",
+    "cpu": "x86_64"
+  },
+  "software_versions": {
+    "python": "3.13.15",
+    "torch": "2.11.0+cu130",
+    "sentence_transformers": "5.7.0",
+    "transformers": "5.18.0",
+    "scikit_learn": "1.6.1"
+  },
+  "ranknet_seed": 42
+}

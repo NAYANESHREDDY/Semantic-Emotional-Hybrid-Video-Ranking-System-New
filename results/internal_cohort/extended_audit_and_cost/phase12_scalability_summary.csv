@@ -1,0 +1,2 @@
+n_min,n_max,n_points,time_at_min_n_seconds,time_at_max_n_seconds,descriptive_linear_slope_seconds_per_video,descriptive_linear_r2,theoretical_complexity,measurement_scope,frozen_cohort_size,note
+20,98,5,0.00019286000006104586,0.00016625999960524497,-3.1645712292148625e-07,0.3104871138131625,O(N log N),Deterministic FES/IQS fusion and ranking sort only,98,"Empirical scalability measures the deterministic ranking stage only; it does not measure end-to-end retrieval, E5, sentiment, or LLM/API scaling."

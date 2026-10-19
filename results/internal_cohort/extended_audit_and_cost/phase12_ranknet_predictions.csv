@@ -1,0 +1,915 @@
+topic_id,domain,topic,video_id,relevance,ranknet_score,rank
+1,Agile Scrum,What is a sprint?,SWDhGSZNF9M,0,0.906360387802124,1
+1,Agile Scrum,What is a sprint?,pO6brLhGTBs,0,0.14356249570846558,2
+1,Agile Scrum,What is a sprint?,xVvVaIWTuck,0,-0.044757843017578125,3
+1,Agile Scrum,What is a sprint?,R7oXgtPOj74,0,-0.07971879839897156,4
+1,Agile Scrum,What is a sprint?,7wGQU37fyiI,1,-0.3651670217514038,5
+1,Agile Scrum,What is a sprint?,MyIZZOYDYxM,0,-0.48859941959381104,6
+1,Agile Scrum,What is a sprint?,llKE01BAVyM,1,-0.4960747957229614,7
+1,Agile Scrum,What is a sprint?,7_xkH68A3QI,0,-0.609817385673523,8
+1,Agile Scrum,What is a sprint?,iJ_sl6J8PRg,0,-1.7235445976257324,9
+1,Agile Scrum,What is a sprint?,-lofFJLdpsA,0,-1.955599308013916,10
+1,Agile Scrum,What is a sprint?,Utf4jNzlBBw,0,-2.2586519718170166,11
+1,Agile Scrum,What is a sprint?,uYHRRM9foMQ,0,-2.450202703475952,12
+1,Agile Scrum,What is a sprint?,8-nTVjkNz7c,0,-2.788421630859375,13
+1,Agile Scrum,What is a sprint?,2qWKcfuueqo,0,-3.0057830810546875,14
+1,Agile Scrum,What is a sprint?,de6qHLe37EQ,0,-4.177663326263428,15
+1,Agile Scrum,What is a sprint?,Ct_uQg9jlp8,0,-4.819853782653809,16
+1,Agile Scrum,What is a sprint?,QLBT4-iN2yg,0,-6.035281181335449,17
+1,Agile Scrum,What is a sprint?,Imy5l5d4L3c,0,-8.683127403259277,18
+1,Agile Scrum,What is a sprint?,S0uk4rYuB_o,0,-15.46672248840332,19
+1,Agile Scrum,What is a sprint?,9TycLR0TqFA,0,-22.921436309814453,20
+2,Agile Scrum,What is the difference between scrum and canban?,l1HFpwDQ03I,0,3.330716848373413,1
+2,Agile Scrum,What is the difference between scrum and canban?,19dMPv0pOGE,0,2.467456579208374,2
+2,Agile Scrum,What is the difference between scrum and canban?,F5QIqFEDv2k,0,1.0897918939590454,3
+2,Agile Scrum,What is the difference between scrum and canban?,4Vf4x0RQd74,1,0.8327420949935913,4
+2,Agile Scrum,What is the difference between scrum and canban?,rIaz-l1Kf8w,0,0.2001781463623047,5
+2,Agile Scrum,What is the difference between scrum and canban?,_rhGaMSkeO4,1,0.013384699821472168,6
+2,Agile Scrum,What is the difference between scrum and canban?,xgDd9LeHyPQ,0,-0.15078067779541016,7
+2,Agile Scrum,What is the difference between scrum and canban?,r7ZIt5aicvc,0,-0.3834354877471924,8
+2,Agile Scrum,What is the difference between scrum and canban?,fHzLVtEiabk,0,-0.3941950500011444,9
+2,Agile Scrum,What is the difference between scrum and canban?,LjNCRkOOULs,0,-0.45626822113990784,10
+2,Agile Scrum,What is the difference between scrum and canban?,GLFuzBiy18o,1,-0.6367168426513672,11
+2,Agile Scrum,What is the difference between scrum and canban?,XlymUxm0FG0,0,-0.6422969102859497,12
+2,Agile Scrum,What is the difference between scrum and canban?,GCP48FWfTps,0,-0.7664028406143188,13
+2,Agile Scrum,What is the difference between scrum and canban?,b7gWcCxXLEM,0,-0.9971375465393066,14
+2,Agile Scrum,What is the difference between scrum and canban?,kiI3IweyAeQ,0,-1.4334361553192139,15
+2,Agile Scrum,What is the difference between scrum and canban?,8TzeyKl3Pv8,0,-1.6567268371582031,16
+2,Agile Scrum,What is the difference between scrum and canban?,N8eXx4Shz4A,0,-2.0748348236083984,17
+2,Agile Scrum,What is the difference between scrum and canban?,DRKwskZzZII,0,-2.089860439300537,18
+2,Agile Scrum,What is the difference between scrum and canban?,tKFs2xQRRIE,0,-2.2798948287963867,19
+2,Agile Scrum,What is the difference between scrum and canban?,pxxmSLJj8FQ,1,-3.5198793411254883,20
+3,Agile Scrum,What is the role of product owner?,502ILHjX9EE,0,4.136744976043701,1
+3,Agile Scrum,What is the role of product owner?,3Juq6C_bTXE,0,2.062842607498169,2
+3,Agile Scrum,What is the role of product owner?,JhNuOIORIaM,1,2.0605835914611816,3
+3,Agile Scrum,What is the role of product owner?,jffzx7So8N8,1,1.9033559560775757,4
+3,Agile Scrum,What is the role of product owner?,bGhKyfj01A0,0,1.6936583518981934,5
+3,Agile Scrum,What is the role of product owner?,SXTWqaes9vo,0,1.6751396656036377,6
+3,Agile Scrum,What is the role of product owner?,PJwEKldQ-gU,1,1.139695405960083,7
+3,Agile Scrum,What is the role of product owner?,j7T1m2Amc40,0,0.8853230476379395,8
+3,Agile Scrum,What is the role of product owner?,XwsGl5eBycE,0,0.5040891170501709,9
+3,Agile Scrum,What is the role of product owner?,QNVM0aGj6l8,1,0.44753456115722656,10
+3,Agile Scrum,What is the role of product owner?,ZrgizmNHgqo,0,0.014593362808227539,11
+3,Agile Scrum,What is the role of product owner?,WFCQXLdgNQA,0,-0.1088675856590271,12
+3,Agile Scrum,What is the role of product owner?,97rped7rlns,0,-0.9488030076026917,13
+3,Agile Scrum,What is the role of product owner?,Df8fDIEGdV4,0,-3.557265520095825,14
+3,Agile Scrum,What is the role of product owner?,6I64BdOuo8E,0,-11.432268142700195,15
+3,Agile Scrum,What is the role of product owner?,xPZPlJruGoI,0,-12.444790840148926,16
+4,Agile Scrum,difference between agile and scrum?,MWU3VEbKucA,1,6.021074295043945,1
+4,Agile Scrum,difference between agile and scrum?,oTZd2vo3FQU,0,5.4331440925598145,2
+4,Agile Scrum,difference between agile and scrum?,tKFs2xQRRIE,1,5.079878807067871,3
+4,Agile Scrum,difference between agile and scrum?,l1HFpwDQ03I,0,4.986817359924316,4
+4,Agile Scrum,difference between agile and scrum?,1kwZKhtx2H0,0,4.8873443603515625,5
+4,Agile Scrum,difference between agile and scrum?,QL2GzaZW40o,0,4.632472991943359,6
+4,Agile Scrum,difference between agile and scrum?,SWDhGSZNF9M,0,4.504796504974365,7
+4,Agile Scrum,difference between agile and scrum?,K7YMEFjh724,0,4.382421016693115,8
+4,Agile Scrum,difference between agile and scrum?,iJ_sl6J8PRg,0,3.8352105617523193,9
+4,Agile Scrum,difference between agile and scrum?,rIaz-l1Kf8w,0,3.7804808616638184,10
+4,Agile Scrum,difference between agile and scrum?,biIDJpI-W1E,0,3.7289557456970215,11
+4,Agile Scrum,difference between agile and scrum?,7QxlsYwvQHo,1,3.659085512161255,12
+4,Agile Scrum,difference between agile and scrum?,1_KVnPvaUg8,0,2.9164438247680664,13
+4,Agile Scrum,difference between agile and scrum?,P9S17JCSVBs,0,2.8318159580230713,14
+4,Agile Scrum,difference between agile and scrum?,Z26FeKCbn5s,0,2.687842845916748,15
+4,Agile Scrum,difference between agile and scrum?,8eVXTyIZ1Hs,0,1.4818906784057617,16
+4,Agile Scrum,difference between agile and scrum?,U_M34gex6q4,0,1.1795294284820557,17
+5,Agile Scrum,what is the role of scrum master?,hegN7L2Y8do,0,-0.2387911081314087,1
+5,Agile Scrum,what is the role of scrum master?,1CxWF42WQFo,0,-0.7202767729759216,2
+5,Agile Scrum,what is the role of scrum master?,HCLIWJULAWM,1,-0.8024208545684814,3
+5,Agile Scrum,what is the role of scrum master?,j7T1m2Amc40,0,-1.2938694953918457,4
+5,Agile Scrum,what is the role of scrum master?,UiQZrobhVgE,0,-1.6637192964553833,5
+5,Agile Scrum,what is the role of scrum master?,9hzTTSaUIvY,0,-2.4282331466674805,6
+5,Agile Scrum,what is the role of scrum master?,kmRfBl3p6PA,0,-2.442356586456299,7
+5,Agile Scrum,what is the role of scrum master?,rGxGuccGOpk,0,-3.4678149223327637,8
+5,Agile Scrum,what is the role of scrum master?,oTZd2vo3FQU,0,-3.5370535850524902,9
+5,Agile Scrum,what is the role of scrum master?,UO0E10-3DeI,0,-4.12947416305542,10
+5,Agile Scrum,what is the role of scrum master?,Adz-kdNB3DE,0,-4.5681939125061035,11
+5,Agile Scrum,what is the role of scrum master?,DbCvs-60ytM,0,-4.92899751663208,12
+5,Agile Scrum,what is the role of scrum master?,3m92hgse9_4,0,-5.538516521453857,13
+5,Agile Scrum,what is the role of scrum master?,SWDhGSZNF9M,0,-5.881484031677246,14
+5,Agile Scrum,what is the role of scrum master?,uxBCZJ_PDA8,0,-6.4909210205078125,15
+5,Agile Scrum,what is the role of scrum master?,YY4CXC2uo7o,0,-6.732975006103516,16
+5,Agile Scrum,what is the role of scrum master?,X95kqqaI9Fg,1,-6.901602745056152,17
+5,Agile Scrum,what is the role of scrum master?,9TycLR0TqFA,0,-12.88856315612793,18
+5,Agile Scrum,what is the role of scrum master?,SyIN_YMfoQs,0,-30.56069564819336,19
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,bQugbYq0BVA,0,-1.546264886856079,1
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,O-XwjeqEz_g,0,-1.637680172920227,2
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,bQ8Gp1LSCmY,1,-1.893019437789917,3
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,zgThRPjy-vw,1,-2.41633677482605,4
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,L9QOUtJgX9U,1,-2.661607265472412,5
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,tpRvprzgQqo,1,-2.6669068336486816,6
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,84dHitE1nik,1,-2.6981091499328613,7
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,nlsYlrWM3Cs,0,-2.847999334335327,8
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,WD1ZSq3WBuM,0,-3.1282637119293213,9
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,Ax9RCvjpI8E,1,-3.3492586612701416,10
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,5jmIHOWpEg0,0,-3.3822813034057617,11
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,b6bVaH2cBgc,1,-3.496537685394287,12
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,M-gI9d7Gni8,1,-3.7958052158355713,13
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,ilevjvVO-q4,1,-3.850383758544922,14
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,I4iQRVi7tLg,1,-4.118170738220215,15
+6,Learn LaTex,Graphics in latex: including images and creating diagrams,bCKRlf8L3-s,0,-5.128260612487793,16
+7,Learn LaTex,Latex document class,Y-kXtWdjtmw,0,-0.23675096035003662,1
+7,Learn LaTex,Latex document class,6TrtlySgxGI,1,-1.4616130590438843,2
+7,Learn LaTex,Latex document class,PAm1A-FSle0,0,-1.4696779251098633,3
+7,Learn LaTex,Latex document class,9Yq40WRChEY,1,-2.086815595626831,4
+7,Learn LaTex,Latex document class,vohSdeSo0ew,1,-2.3541464805603027,5
+7,Learn LaTex,Latex document class,aV7datBx-U4,0,-2.360881805419922,6
+7,Learn LaTex,Latex document class,jyeY-i_dsE8,0,-2.777590274810791,7
+7,Learn LaTex,Latex document class,_PzDLFJHO3E,0,-3.0818912982940674,8
+7,Learn LaTex,Latex document class,vmdwvBx7Vzc,1,-3.147158622741699,9
+7,Learn LaTex,Latex document class,klm-j0eU-o8,1,-3.2121098041534424,10
+7,Learn LaTex,Latex document class,uVM2FcwPCgk,0,-3.383873701095581,11
+7,Learn LaTex,Latex document class,ukv_aHZleSo,1,-3.5592174530029297,12
+7,Learn LaTex,Latex document class,vO9O7Nuk0XM,0,-3.9411118030548096,13
+7,Learn LaTex,Latex document class,0ivLZh9xK1Q,0,-5.654232978820801,14
+7,Learn LaTex,Latex document class,7B7ytLrMTa0,0,-5.749338150024414,15
+7,Learn LaTex,Latex document class,zqQM66uAig0,0,-6.42277193069458,16
+7,Learn LaTex,Latex document class,ydOTMQC7np0,0,-49.41582489013672,17
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",BezVvDF6W6w,1,3.1184587478637695,1
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",HL9J_I9-wwg,1,2.408421277999878,2
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",Jp0lPj2-DQA,1,1.8813978433609009,3
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",odNlE193ntY,0,1.6998794078826904,4
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",t1H3USDZbjo,0,1.5915549993515015,5
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",d4UJP_YOXEA,0,1.415360689163208,6
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",JuD0j5ey5YQ,0,0.7641667127609253,7
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",qVduH8PuR2E,0,0.7586774826049805,8
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",dPcqUGV9j8c,0,0.6496987342834473,9
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",RP5z8DHpcnI,0,0.39548182487487793,10
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",f34r_UUa1Mo,1,-0.05009865760803223,11
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",3jpNNlg-iMw,0,-0.07234764099121094,12
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",azQhiY6ZDHE,0,-0.5928871631622314,13
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",djvVGdaK1LU,0,-1.1526999473571777,14
+8,Learn LaTex,"Latex for scientific writing: equations, formulas, and symbols",fnsj1Ry0LDA,0,-1.2810258865356445,15
+9,Learn LaTex,Lists in latex,jPL_SdcPtF8,1,5.677379608154297,1
+9,Learn LaTex,Lists in latex,_oauLZVGhas,1,4.904956817626953,2
+9,Learn LaTex,Lists in latex,F0ZQ-N3pJKw,1,4.787178993225098,3
+9,Learn LaTex,Lists in latex,SHOH-Z9q1Qo,1,4.478736877441406,4
+9,Learn LaTex,Lists in latex,OTpVxiEu-hY,1,4.247159004211426,5
+9,Learn LaTex,Lists in latex,TDapvCSFW50,1,3.7434041500091553,6
+9,Learn LaTex,Lists in latex,dZitO3IJTys,1,3.190096378326416,7
+9,Learn LaTex,Lists in latex,qigDNpbjgaE,1,3.0733494758605957,8
+9,Learn LaTex,Lists in latex,PgEYaBVETpI,1,2.5263819694519043,9
+9,Learn LaTex,Lists in latex,cGJmBRhm4wc,1,2.242692470550537,10
+9,Learn LaTex,Lists in latex,BSmRN5HY8js,1,1.8250248432159424,11
+9,Learn LaTex,Lists in latex,47YWtTPTok0,0,1.2141255140304565,12
+9,Learn LaTex,Lists in latex,ZRRAYcsWdxE,0,0.9250673055648804,13
+9,Learn LaTex,Lists in latex,nOrDFtLQBys,1,0.4628562927246094,14
+9,Learn LaTex,Lists in latex,6pcSjEeg6Fc,1,-0.13174688816070557,15
+9,Learn LaTex,Lists in latex,r0UGsidm114,1,-0.39432740211486816,16
+9,Learn LaTex,Lists in latex,h8k-N5oegWc,0,-0.5934070348739624,17
+9,Learn LaTex,Lists in latex,25LExaNtdF0,0,-0.5997564792633057,18
+9,Learn LaTex,Lists in latex,-pSx17GmNCA,1,-5.539704322814941,19
+10,Learn LaTex,Register account on Overleaf,E-8WmY3nUko,1,7.109109878540039,1
+10,Learn LaTex,Register account on Overleaf,GMRrXKuwEB0,1,3.3563873767852783,2
+10,Learn LaTex,Register account on Overleaf,8aVy3ND_jK0,0,2.945821762084961,3
+10,Learn LaTex,Register account on Overleaf,-IUsGHPzDWk,1,2.8525357246398926,4
+10,Learn LaTex,Register account on Overleaf,_PzDLFJHO3E,0,2.7537121772766113,5
+10,Learn LaTex,Register account on Overleaf,SHY2gWt-22U,1,2.454129695892334,6
+10,Learn LaTex,Register account on Overleaf,0r58gisOgGQ,1,2.3509693145751953,7
+10,Learn LaTex,Register account on Overleaf,pTJc5xculJ8,0,-0.49302297830581665,8
+10,Learn LaTex,Register account on Overleaf,70yTcwSnlvA,1,-0.782578706741333,9
+10,Learn LaTex,Register account on Overleaf,v4e551EHtCc,0,-0.8446570634841919,10
+10,Learn LaTex,Register account on Overleaf,CPr1aL7LRGc,0,-1.0323235988616943,11
+11,Learn LaTex,"Section, paragraph in latex",mnRyWDk6blM,1,0.6787917613983154,1
+11,Learn LaTex,"Section, paragraph in latex",UsQG9X8PJNE,1,0.30539369583129883,2
+11,Learn LaTex,"Section, paragraph in latex",Rd7Gpi7mBqg,0,0.09125292301177979,3
+11,Learn LaTex,"Section, paragraph in latex",A7HQdxl-9R4,1,0.02379751205444336,4
+11,Learn LaTex,"Section, paragraph in latex",Gz29YEaixB4,1,-0.3331364095211029,5
+11,Learn LaTex,"Section, paragraph in latex",3Ja6WZoXW3U,1,-0.7097841501235962,6
+11,Learn LaTex,"Section, paragraph in latex",KvrvPsRb-HE,0,-1.0893210172653198,7
+11,Learn LaTex,"Section, paragraph in latex",MxpCj7fmwvs,0,-1.2438468933105469,8
+11,Learn LaTex,"Section, paragraph in latex",5zbxVkXqEBE,1,-1.2578456401824951,9
+11,Learn LaTex,"Section, paragraph in latex",X6pbIeokl2A,0,-1.4580183029174805,10
+11,Learn LaTex,"Section, paragraph in latex",ozbkATdqZ3k,0,-2.223691940307617,11
+11,Learn LaTex,"Section, paragraph in latex",mF0K85Zz5wM,1,-2.265462636947632,12
+11,Learn LaTex,"Section, paragraph in latex",GmXM8ssErB4,0,-3.463252067565918,13
+11,Learn LaTex,"Section, paragraph in latex",mY2JquEjnNI,1,-3.820692539215088,14
+11,Learn LaTex,"Section, paragraph in latex",7B7ytLrMTa0,0,-7.430466651916504,15
+12,Learn LaTex,Tables in latex,sWfWQJ2nM68,1,2.9581427574157715,1
+12,Learn LaTex,Tables in latex,58X8_kplQYM,1,2.1749439239501953,2
+12,Learn LaTex,Tables in latex,QKqyM6Y33-E,1,1.1998804807662964,3
+12,Learn LaTex,Tables in latex,2qLo8IZ2bZ8,0,0.8924679160118103,4
+12,Learn LaTex,Tables in latex,bSIAUkCD948,1,0.009721331298351288,5
+12,Learn LaTex,Tables in latex,OdBeae68GU8,0,-0.43473178148269653,6
+12,Learn LaTex,Tables in latex,qdCtXe3hxFA,1,-0.5075206756591797,7
+12,Learn LaTex,Tables in latex,-HvRvBjBAvg,0,-1.2442902326583862,8
+12,Learn LaTex,Tables in latex,EZ-zQjbGIAk,0,-1.3489128351211548,9
+12,Learn LaTex,Tables in latex,xyZtxfMsD38,1,-1.4336159229278564,10
+12,Learn LaTex,Tables in latex,6PioiGV6yro,1,-2.004443645477295,11
+12,Learn LaTex,Tables in latex,Sfx0ZogEHC8,0,-2.76609468460083,12
+12,Learn LaTex,Tables in latex,g5UImOxFAf4,0,-3.1605403423309326,13
+12,Learn LaTex,Tables in latex,DQkSzHJoBKY,0,-3.4954638481140137,14
+12,Learn LaTex,Tables in latex,0CfR_WKEc7E,0,-3.606081247329712,15
+12,Learn LaTex,Tables in latex,8nbTO6sgLI0,1,-3.848083972930908,16
+13,Machine Learning,Cross Validation,sFO2ff-gTh0,1,-0.22011639177799225,1
+13,Machine Learning,Cross Validation,yBqf9XCpz8o,0,-0.23580169677734375,2
+13,Machine Learning,Cross Validation,hoNpvry0370,1,-0.2455075979232788,3
+13,Machine Learning,Cross Validation,TIgfjmp-4BA,1,-0.5195842981338501,4
+13,Machine Learning,Cross Validation,gJo0uNL-5Qw,0,-0.6889660358428955,5
+13,Machine Learning,Cross Validation,fSytzGwwBVw,1,-0.8564662933349609,6
+13,Machine Learning,Cross Validation,xE9cIcJf48A,0,-0.9065647125244141,7
+13,Machine Learning,Cross Validation,CBHaInynRzU,0,-1.419616460800171,8
+13,Machine Learning,Cross Validation,OwPQHmiJURI,0,-1.7192583084106445,9
+13,Machine Learning,Cross Validation,PF2wLKv2lsI,1,-1.9426336288452148,10
+13,Machine Learning,Cross Validation,6eWODQJrMKs,0,-2.407223701477051,11
+13,Machine Learning,Cross Validation,rPlBijVFw7k,1,-2.802689552307129,12
+13,Machine Learning,Cross Validation,wjILv3-UGM8,1,-2.9922842979431152,13
+13,Machine Learning,Cross Validation,-8s9KuNo5SA,0,-3.2078957557678223,14
+13,Machine Learning,Cross Validation,a86WxNgMv7E,1,-3.364832878112793,15
+13,Machine Learning,Cross Validation,rjbkWSTjHzM,0,-21.917945861816406,16
+13,Machine Learning,Cross Validation,TjO0ptxnJOY,0,-27.196041107177734,17
+14,Machine Learning,Density-based Clustering,sJQHz97sCZ0,1,-0.030853092670440674,1
+14,Machine Learning,Density-based Clustering,81-ATJW-EGI,1,-1.1962860822677612,2
+14,Machine Learning,Density-based Clustering,C3r7tGRe2eI,0,-1.3246489763259888,3
+14,Machine Learning,Density-based Clustering,qrmneD5_VrM,1,-1.7122368812561035,4
+14,Machine Learning,Density-based Clustering,1RDyVAoFKgY,1,-1.7324488162994385,5
+14,Machine Learning,Density-based Clustering,k5U8xw9prOo,0,-2.6264841556549072,6
+14,Machine Learning,Density-based Clustering,b1f9t3npOxg,0,-2.679414987564087,7
+14,Machine Learning,Density-based Clustering,RDZUdRSDOok,0,-2.895801544189453,8
+14,Machine Learning,Density-based Clustering,hN0hPmcwnqE,0,-3.2267794609069824,9
+14,Machine Learning,Density-based Clustering,dGsxd67IFiU,0,-3.473944902420044,10
+14,Machine Learning,Density-based Clustering,-p354tQsKrs,0,-3.532135009765625,11
+14,Machine Learning,Density-based Clustering,2eDFjw456AM,0,-4.8155083656311035,12
+14,Machine Learning,Density-based Clustering,5cOhL4B5waU,0,-8.185547828674316,13
+14,Machine Learning,Density-based Clustering,ZOLYaa9Jex0,0,-9.024614334106445,14
+15,Machine Learning,Gradient Descent,qg4PchTECck,0,2.4272942543029785,1
+15,Machine Learning,Gradient Descent,UmathvAKj80,0,1.4410912990570068,2
+15,Machine Learning,Gradient Descent,4b4MUYve_U8,0,1.3980019092559814,3
+15,Machine Learning,Gradient Descent,i62czvwDlsw,0,0.934145987033844,4
+15,Machine Learning,Gradient Descent,k8fTYJPd3_I,0,0.6760417222976685,5
+15,Machine Learning,Gradient Descent,IHZwWFHWa-w,0,-0.43125760555267334,6
+15,Machine Learning,Gradient Descent,odlgtjXduVg,0,-0.4791310727596283,7
+15,Machine Learning,Gradient Descent,31w-xQX0Z_8,1,-0.5986074805259705,8
+15,Machine Learning,Gradient Descent,vMh0zPT0tLI,0,-1.2973337173461914,9
+15,Machine Learning,Gradient Descent,AeRwohPuUHQ,0,-1.3856536149978638,10
+15,Machine Learning,Gradient Descent,1j4bERmqmOU,0,-1.7751598358154297,11
+15,Machine Learning,Gradient Descent,fXQXE96r4AY,1,-1.9279096126556396,12
+15,Machine Learning,Gradient Descent,Gbz8RljxIHo,1,-2.216994047164917,13
+15,Machine Learning,Gradient Descent,vsWrXfO3wWw,0,-2.414583444595337,14
+15,Machine Learning,Gradient Descent,jwStsp8JUPU,0,-2.434595823287964,15
+15,Machine Learning,Gradient Descent,gsfbWn4Gy5Q,0,-3.275726318359375,16
+15,Machine Learning,Gradient Descent,Souzjv6WfrY,0,-3.6137990951538086,17
+15,Machine Learning,Gradient Descent,sDv4f4s2SB8,1,-4.034930229187012,18
+16,Machine Learning,Hierarchical Clustering,esmzYhuFnds,0,1.897343397140503,1
+16,Machine Learning,Hierarchical Clustering,4b5d3muPQmA,0,1.7148159742355347,2
+16,Machine Learning,Hierarchical Clustering,ijUMKMC4f9I,0,1.69352126121521,3
+16,Machine Learning,Hierarchical Clustering,7xHsRkOdVwo,0,1.462123155593872,4
+16,Machine Learning,Hierarchical Clustering,8QCBl-xdeZI,0,1.1736642122268677,5
+16,Machine Learning,Hierarchical Clustering,EUQY3hL38cw,1,1.1610150337219238,6
+16,Machine Learning,Hierarchical Clustering,GPOUGpF-Sno,0,0.7940599918365479,7
+16,Machine Learning,Hierarchical Clustering,YH0r47m0kFM,0,0.19303953647613525,8
+16,Machine Learning,Hierarchical Clustering,461Opp1TShk,0,0.1335740089416504,9
+16,Machine Learning,Hierarchical Clustering,uWf__KIKzPQ,1,-0.2924361824989319,10
+16,Machine Learning,Hierarchical Clustering,UxM6x3annr0,0,-0.30131426453590393,11
+16,Machine Learning,Hierarchical Clustering,9U4h6pZw6f8,0,-1.4886674880981445,12
+16,Machine Learning,Hierarchical Clustering,QXOkPvFM6NU,0,-2.3879270553588867,13
+16,Machine Learning,Hierarchical Clustering,jcdT_pVRqlE,0,-3.4134292602539062,14
+16,Machine Learning,Hierarchical Clustering,0jPGHniVVNc,1,-4.4207563400268555,15
+16,Machine Learning,Hierarchical Clustering,d1qAwe8hthM,1,-4.754405975341797,16
+16,Machine Learning,Hierarchical Clustering,3M1wUK2zCKY,0,-4.885746479034424,17
+17,Machine Learning,K-Means Clustering Algorithm,KzJORp8bgqs,0,4.305344581604004,1
+17,Machine Learning,K-Means Clustering Algorithm,_aWzGGNrcic,1,3.9585366249084473,2
+17,Machine Learning,K-Means Clustering Algorithm,R2e3Ls9H_fc,0,3.336947202682495,3
+17,Machine Learning,K-Means Clustering Algorithm,InYYArT_FMc,0,3.2194511890411377,4
+17,Machine Learning,K-Means Clustering Algorithm,z2yncM2HE6M,0,2.7126805782318115,5
+17,Machine Learning,K-Means Clustering Algorithm,EItlUEPCIzM,0,2.563497543334961,6
+17,Machine Learning,K-Means Clustering Algorithm,5FpsGnkbEpM,0,2.5077085494995117,7
+17,Machine Learning,K-Means Clustering Algorithm,AYcf-YEF09Y,0,2.4841041564941406,8
+17,Machine Learning,K-Means Clustering Algorithm,AWKCCK5YHsE,0,1.1268596649169922,9
+17,Machine Learning,K-Means Clustering Algorithm,4b5d3muPQmA,1,1.0891838073730469,10
+17,Machine Learning,K-Means Clustering Algorithm,yR7k19YBqiw,0,0.9427496790885925,11
+17,Machine Learning,K-Means Clustering Algorithm,QXOkPvFM6NU,0,0.7924808263778687,12
+17,Machine Learning,K-Means Clustering Algorithm,esmzYhuFnds,0,0.38706493377685547,13
+17,Machine Learning,K-Means Clustering Algorithm,Xvwt7y2jf5E,0,0.13035941123962402,14
+17,Machine Learning,K-Means Clustering Algorithm,5w5iUbTlpMQ,0,-0.20511913299560547,15
+17,Machine Learning,K-Means Clustering Algorithm,1XqG0kaJVHY,0,-0.41317832469940186,16
+17,Machine Learning,K-Means Clustering Algorithm,iNlZ3IU5Ffw,0,-0.534665584564209,17
+17,Machine Learning,K-Means Clustering Algorithm,5shTLzwAdEc,0,-0.7600690126419067,18
+18,Machine Learning,Linear Regression,4b4MUYve_U8,0,1.6498804092407227,1
+18,Machine Learning,Linear Regression,zPG4NjIkCjc,0,0.5621926188468933,2
+18,Machine Learning,Linear Regression,CtsRRUddV2s,0,-0.27627032995224,3
+18,Machine Learning,Linear Regression,owI7zxCqNY0,1,-0.3390877842903137,4
+18,Machine Learning,Linear Regression,GhrxgbQnEEU,1,-0.5360532999038696,5
+18,Machine Learning,Linear Regression,0m-rs2M7K-Y,0,-0.6077356338500977,6
+18,Machine Learning,Linear Regression,29rjWClT_3U,0,-0.658488929271698,7
+18,Machine Learning,Linear Regression,7ArmBVF2dCs,0,-1.3950552940368652,8
+18,Machine Learning,Linear Regression,qxo8p8PtFeA,0,-1.6267900466918945,9
+18,Machine Learning,Linear Regression,EDPCsD6BzWE,0,-1.647337794303894,10
+18,Machine Learning,Linear Regression,ZkjP5RJLQF4,0,-1.6668176651000977,11
+18,Machine Learning,Linear Regression,WWqE7YHR4Jc,0,-2.187206506729126,12
+18,Machine Learning,Linear Regression,P8hT5nDai6A,0,-2.2858104705810547,13
+18,Machine Learning,Linear Regression,eYTumjgE2IY,1,-2.6701316833496094,14
+18,Machine Learning,Linear Regression,NUXdtN1W1FE,0,-2.9730615615844727,15
+18,Machine Learning,Linear Regression,VmbA0pi2cRQ,0,-3.8155651092529297,16
+18,Machine Learning,Linear Regression,my3lsV-VQjs,0,-3.942542791366577,17
+18,Machine Learning,Linear Regression,FLJ0yYetywE,0,-5.1058244705200195,18
+19,Machine Learning,Logistic Regression,yIYKR4sgzI8,0,3.6082050800323486,1
+19,Machine Learning,Logistic Regression,vN5cNN2-HWE,0,3.033480405807495,2
+19,Machine Learning,Logistic Regression,EKm0spFxFG4,1,2.798159599304199,3
+19,Machine Learning,Logistic Regression,zM4VZR0px8E,0,2.724637269973755,4
+19,Machine Learning,Logistic Regression,C5268D9t9Ak,0,2.6385457515716553,5
+19,Machine Learning,Logistic Regression,BfKanl1aSG0,0,2.5250608921051025,6
+19,Machine Learning,Logistic Regression,YMJtsYIp4kg,1,2.0566747188568115,7
+19,Machine Learning,Logistic Regression,hjrYrynGWGA,0,2.0559613704681396,8
+19,Machine Learning,Logistic Regression,U1omz0B9FTw,1,1.9071868658065796,9
+19,Machine Learning,Logistic Regression,C4N3_XJJ-jU,0,1.8933639526367188,10
+19,Machine Learning,Logistic Regression,PbcK1KHfMt8,0,1.5863423347473145,11
+19,Machine Learning,Logistic Regression,yhogDBEa0uQ,1,1.464192509651184,12
+19,Machine Learning,Logistic Regression,UCOm-LFKX9E,0,1.3263459205627441,13
+19,Machine Learning,Logistic Regression,06en5XqdPkI,0,1.061087727546692,14
+19,Machine Learning,Logistic Regression,zAULhNrnuL4,0,0.43759047985076904,15
+19,Machine Learning,Logistic Regression,slBI5YuVUTM,0,0.04627141356468201,16
+19,Machine Learning,Logistic Regression,L_xBe7MbPwk,0,-2.4702517986297607,17
+19,Machine Learning,Logistic Regression,XnOAdxOWXWg,0,-2.719785213470459,18
+19,Machine Learning,Logistic Regression,FLJ0yYetywE,0,-4.201993465423584,19
+19,Machine Learning,Logistic Regression,het9HFqo1TQ,1,-7.567557334899902,20
+20,Machine Learning,Overfitting vs Underfitting,T9NtOa-IITo,0,4.2042694091796875,1
+20,Machine Learning,Overfitting vs Underfitting,o3DztvnfAJg,1,2.4652066230773926,2
+20,Machine Learning,Overfitting vs Underfitting,D4G_8sdgcxs,0,1.594787836074829,3
+20,Machine Learning,Overfitting vs Underfitting,2bx9Os2gPu4,0,0.2613952159881592,4
+20,Machine Learning,Overfitting vs Underfitting,W-0-u6XVbE4,0,0.055225908756256104,5
+20,Machine Learning,Overfitting vs Underfitting,vdNnrJon_Vk,0,-0.4745965600013733,6
+20,Machine Learning,Overfitting vs Underfitting,mfzHchd5La8,0,-1.1803561449050903,7
+20,Machine Learning,Overfitting vs Underfitting,B01qMFMAgUQ,1,-1.921049952507019,8
+20,Machine Learning,Overfitting vs Underfitting,BqzgUnrNhFM,1,-2.0066745281219482,9
+20,Machine Learning,Overfitting vs Underfitting,EuBBz3bI-aA,1,-3.7684738636016846,10
+20,Machine Learning,Overfitting vs Underfitting,k9YnQOHMgKw,0,-9.783012390136719,11
+21,Machine Learning,Regression vs Classification,xYJEM2C0G5Q,1,4.735581398010254,1
+21,Machine Learning,Regression vs Classification,E3jaFfP5BAg,1,3.9677298069000244,2
+21,Machine Learning,Regression vs Classification,1NBwM5tavTk,1,2.917844295501709,3
+21,Machine Learning,Regression vs Classification,CtsRRUddV2s,0,2.607023239135742,4
+21,Machine Learning,Regression vs Classification,yIYKR4sgzI8,0,2.0149736404418945,5
+21,Machine Learning,Regression vs Classification,yN7ypxC7838,0,2.005453109741211,6
+21,Machine Learning,Regression vs Classification,V8fS0T_ktn4,0,1.4459069967269897,7
+21,Machine Learning,Regression vs Classification,06en5XqdPkI,0,1.1630549430847168,8
+21,Machine Learning,Regression vs Classification,i04Pfrb71vk,1,0.8467618227005005,9
+21,Machine Learning,Regression vs Classification,G_0W912qmGc,0,0.5294605493545532,10
+21,Machine Learning,Regression vs Classification,9rRLo4nFc3A,1,0.5027779936790466,11
+21,Machine Learning,Regression vs Classification,xNK1yT1vy6M,1,-0.2943981885910034,12
+21,Machine Learning,Regression vs Classification,b4bWm4W7yHE,1,-0.3655076026916504,13
+21,Machine Learning,Regression vs Classification,_QsAVt3jkrU,1,-0.7317798733711243,14
+21,Machine Learning,Regression vs Classification,TjO0ptxnJOY,0,-17.466659545898438,15
+22,Machine Learning,Regularization,6g0t3Phly2M,0,0.44736698269844055,1
+22,Machine Learning,Regularization,7XvBwQeT9OI,1,0.3223721981048584,2
+22,Machine Learning,Regularization,CgbbvozFgXo,0,-0.02668800950050354,3
+22,Machine Learning,Regularization,NyG-7nRpsW8,0,-0.10605430603027344,4
+22,Machine Learning,Regularization,EehRcPo1M-Q,0,-0.24933362007141113,5
+22,Machine Learning,Regularization,Q81RR3yKn30,0,-0.26086103916168213,6
+22,Machine Learning,Regularization,U_CLHExy_Xk,0,-0.2774921655654907,7
+22,Machine Learning,Regularization,pJ5c_uLeg2A,1,-0.4196467995643616,8
+22,Machine Learning,Regularization,bOIPwdWso_0,0,-0.507605791091919,9
+22,Machine Learning,Regularization,NGf0voTMlcs,0,-1.1146776676177979,10
+22,Machine Learning,Regularization,OH4_Xsk8nfc,0,-2.087344169616699,11
+22,Machine Learning,Regularization,VqKq78PVO9g,0,-2.3108880519866943,12
+22,Machine Learning,Regularization,l9V5tlIWTvs,0,-3.07818341255188,13
+22,Machine Learning,Regularization,rPBFvvw2OM4,0,-3.17221736907959,14
+22,Machine Learning,Regularization,2bx9Os2gPu4,0,-5.079034805297852,15
+22,Machine Learning,Regularization,I-VfYXzC5ro,0,-6.273521423339844,16
+22,Machine Learning,Regularization,Xm2C_gTAl8c,0,-6.305717945098877,17
+22,Machine Learning,Regularization,QjOILAQ0EFg,0,-11.072346687316895,18
+23,Machine Learning,Resampling Method: Bootstrapping,2-_xH4vMcwo,0,2.5893428325653076,1
+23,Machine Learning,Resampling Method: Bootstrapping,9IFcRTyhd5Y,0,2.5040509700775146,2
+23,Machine Learning,Resampling Method: Bootstrapping,gcPIyeqymOU,1,2.2348122596740723,3
+23,Machine Learning,Resampling Method: Bootstrapping,eq5YYdyrmU4,0,2.053664207458496,4
+23,Machine Learning,Resampling Method: Bootstrapping,0hNQx9nagq4,1,0.9221386909484863,5
+23,Machine Learning,Resampling Method: Bootstrapping,ZCXg64l9R_4,0,0.7381640076637268,6
+23,Machine Learning,Resampling Method: Bootstrapping,Xz0x-8-cgaQ,1,0.6089019775390625,7
+23,Machine Learning,Resampling Method: Bootstrapping,A7VWgnYNV4Y,0,0.28240400552749634,8
+23,Machine Learning,Resampling Method: Bootstrapping,fPjD_TFI66I,0,0.1951289176940918,9
+23,Machine Learning,Resampling Method: Bootstrapping,Kho4VuKmQdE,0,0.0641070008277893,10
+23,Machine Learning,Resampling Method: Bootstrapping,O_Fj4q8lgmc,1,-0.008286595344543457,11
+23,Machine Learning,Resampling Method: Bootstrapping,uGsf3spCM3Y,0,-0.057408154010772705,12
+23,Machine Learning,Resampling Method: Bootstrapping,TUW43SbnwqI,0,-0.13397002220153809,13
+23,Machine Learning,Resampling Method: Bootstrapping,STGGniMV0jg,0,-0.34067463874816895,14
+23,Machine Learning,Resampling Method: Bootstrapping,iPmNWjWoFIs,0,-0.6707276105880737,15
+23,Machine Learning,Resampling Method: Bootstrapping,ThnJ7yUoy8o,0,-0.8229597806930542,16
+23,Machine Learning,Resampling Method: Bootstrapping,tTZybQTE0dw,0,-1.738955020904541,17
+23,Machine Learning,Resampling Method: Bootstrapping,p9XPclE7NtA,0,-2.1568703651428223,18
+23,Machine Learning,Resampling Method: Bootstrapping,WAFTWyu-hn0,0,-2.9335737228393555,19
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,YcOdGAnJlOc,0,3.9043068885803223,1
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,1FZ0A1QCMWc,1,3.635399103164673,2
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,cfj6yaYE86U,1,2.7839112281799316,3
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,W01tIRP_Rqs,1,2.651139974594116,4
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,VvMs3JQbjo0,1,1.4834387302398682,5
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,kE5QZ8G_78c,1,1.2590432167053223,6
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,XSOi9MKfEHQ,0,0.7667474746704102,7
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,SYPejHY9WV8,1,-0.17433929443359375,8
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,bQy9gab8elU,0,-0.20276236534118652,9
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,v169MZxykus,0,-0.3661785125732422,10
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,nPFnlua2Y5Q,0,-0.5807250738143921,11
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,JnnaDNNb380,0,-0.6594231724739075,12
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,3fsy2oheRdg,1,-1.250548243522644,13
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,Atg-Sl32vOo,1,-2.1051323413848877,14
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,4qVRBYAdLAo,0,-2.6596333980560303,15
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,aZcxRm4Hvns,1,-3.2336928844451904,16
+24,Machine Learning,Supervised Learning vs Unsupervised Learning,xtOg44r6dsE,1,-5.661771774291992,17
+25,Prompt Engineering,Chain of Thought Prompting,Fp-ue4UCE3s,1,1.8497908115386963,1
+25,Prompt Engineering,Chain of Thought Prompting,R_Nk2zC_L64,0,1.1685831546783447,2
+25,Prompt Engineering,Chain of Thought Prompting,uBjzYjCqo9U,1,0.610514760017395,3
+25,Prompt Engineering,Chain of Thought Prompting,IryABBLnFH4,1,-0.07213395833969116,4
+25,Prompt Engineering,Chain of Thought Prompting,F6cp8ML1Hvo,1,-0.3029468059539795,5
+25,Prompt Engineering,Chain of Thought Prompting,xY42vbH_zCw,0,-0.5544815063476562,6
+25,Prompt Engineering,Chain of Thought Prompting,NBIRzSGHFro,1,-0.8937968015670776,7
+25,Prompt Engineering,Chain of Thought Prompting,sYKU9zC5RKs,1,-1.068162202835083,8
+25,Prompt Engineering,Chain of Thought Prompting,j320H2LFx-U,0,-1.854871392250061,9
+25,Prompt Engineering,Chain of Thought Prompting,PFK5g_kxhVM,0,-1.9799758195877075,10
+25,Prompt Engineering,Chain of Thought Prompting,5-Fv_ZoAwrE,1,-2.2159969806671143,11
+25,Prompt Engineering,Chain of Thought Prompting,b210W3JWOxw,1,-2.2353506088256836,12
+25,Prompt Engineering,Chain of Thought Prompting,MKF5LWgEXow,0,-2.2466814517974854,13
+25,Prompt Engineering,Chain of Thought Prompting,Kar2qfLDQ2c,1,-2.2900795936584473,14
+25,Prompt Engineering,Chain of Thought Prompting,8FNyLapsvtQ,0,-2.560288429260254,15
+25,Prompt Engineering,Chain of Thought Prompting,1c9iyoVIwDs,1,-2.598996639251709,16
+25,Prompt Engineering,Chain of Thought Prompting,ut5kp56wW_4,0,-3.805325984954834,17
+25,Prompt Engineering,Chain of Thought Prompting,POL_l0iACj0,1,-4.084742546081543,18
+25,Prompt Engineering,Chain of Thought Prompting,2lnW1PSB2_g,0,-4.368011474609375,19
+25,Prompt Engineering,Chain of Thought Prompting,Eug2clsLtFs,0,-5.003666877746582,20
+26,Prompt Engineering,Iterative Prompting,-glotQNivyM,0,-0.5165364742279053,1
+26,Prompt Engineering,Iterative Prompting,Nx4KsTpeWNQ,0,-0.6309916973114014,2
+26,Prompt Engineering,Iterative Prompting,MBO9Uen597w,0,-1.047206163406372,3
+26,Prompt Engineering,Iterative Prompting,e3PIBFvh6Bc,1,-1.3216519355773926,4
+26,Prompt Engineering,Iterative Prompting,m8soKZjKRYo,0,-1.4683818817138672,5
+26,Prompt Engineering,Iterative Prompting,joZzONtPjz8,1,-1.674060583114624,6
+26,Prompt Engineering,Iterative Prompting,WPFjMTJf0QY,1,-1.771009922027588,7
+26,Prompt Engineering,Iterative Prompting,6KvkeLFbmkI,1,-1.9732577800750732,8
+26,Prompt Engineering,Iterative Prompting,GPuyqkUUhXU,0,-2.0929958820343018,9
+26,Prompt Engineering,Iterative Prompting,-87yrXytluw,0,-2.154862403869629,10
+26,Prompt Engineering,Iterative Prompting,jICj47Xs4AQ,0,-2.705082416534424,11
+26,Prompt Engineering,Iterative Prompting,NkXNUHIBP3I,1,-3.163273572921753,12
+26,Prompt Engineering,Iterative Prompting,i5eiw-_S-3I,1,-3.4051132202148438,13
+26,Prompt Engineering,Iterative Prompting,yu27PWzJI_Y,0,-3.808713912963867,14
+26,Prompt Engineering,Iterative Prompting,1c9iyoVIwDs,0,-4.183259010314941,15
+26,Prompt Engineering,Iterative Prompting,Uz_DeqGhbjs,0,-4.311855316162109,16
+26,Prompt Engineering,Iterative Prompting,jC4v5AS4RIM,0,-4.409092903137207,17
+26,Prompt Engineering,Iterative Prompting,xY42vbH_zCw,0,-5.537436485290527,18
+26,Prompt Engineering,Iterative Prompting,JwmleQ4-y20,0,-6.106245517730713,19
+27,Prompt Engineering,Prompt Elements,MyZb36EtR_8,1,5.528373718261719,1
+27,Prompt Engineering,Prompt Elements,OB2y9nbaous,0,5.221136093139648,2
+27,Prompt Engineering,Prompt Elements,kgBZhJnh-vk,1,4.320864677429199,3
+27,Prompt Engineering,Prompt Elements,VwCFShiZdC0,0,3.3228297233581543,4
+27,Prompt Engineering,Prompt Elements,WdbiopZ1SM8,1,2.7762041091918945,5
+27,Prompt Engineering,Prompt Elements,zS6JtmVRpo8,0,2.1781082153320312,6
+27,Prompt Engineering,Prompt Elements,k1XTyVU0r0o,0,1.5430543422698975,7
+27,Prompt Engineering,Prompt Elements,pmzZF2EnKaA,0,1.4367539882659912,8
+27,Prompt Engineering,Prompt Elements,aOm75o2Z5-o,0,1.3202546834945679,9
+27,Prompt Engineering,Prompt Elements,kKZdscwk-Ws,0,0.8320760726928711,10
+27,Prompt Engineering,Prompt Elements,jC4v5AS4RIM,1,0.5300734043121338,11
+27,Prompt Engineering,Prompt Elements,Qxbwh6fL82Y,1,0.438357949256897,12
+27,Prompt Engineering,Prompt Elements,RcFYN8kqS9U,1,0.32155632972717285,13
+27,Prompt Engineering,Prompt Elements,xv1z4EnBuGk,0,0.0018786191940307617,14
+27,Prompt Engineering,Prompt Elements,dRwIDsgOeqA,0,-1.3343050479888916,15
+27,Prompt Engineering,Prompt Elements,N2Pbed0Q89U,0,-2.37233304977417,16
+27,Prompt Engineering,Prompt Elements,MWVELgLlGgk,0,-2.85925555229187,17
+27,Prompt Engineering,Prompt Elements,Hv6mfWK6FrA,0,-3.0341200828552246,18
+27,Prompt Engineering,Prompt Elements,9m-S8_Pulfg,1,-5.164900779724121,19
+27,Prompt Engineering,Prompt Elements,U3FVblxLj8w,0,-6.8570942878723145,20
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,k8GR1BiDXW4,0,4.629891872406006,1
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,a1nqXQMOCks,0,2.859067440032959,2
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,zKndCikg3R0,1,2.791536808013916,3
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,hfIUstzHs9A,1,1.8200957775115967,4
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,YVvHxOnOyQY,0,1.5455694198608398,5
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,lnA9DMvHtfI,0,1.0570662021636963,6
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,67_aMPDk2zw,0,0.7661945819854736,7
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,lixMONUAjfs,0,-0.004087567329406738,8
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,zizonToFXDs,1,-0.21923303604125977,9
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,ewjlmLQI9kc,0,-0.2527640759944916,10
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,iR2O2GPbB0E,1,-0.5576218366622925,11
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,ou7IswWBZbY,1,-0.8185204267501831,12
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,uCIa6V4uF84,0,-3.0460610389709473,13
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,cfqtFvWOfg0,0,-3.958388328552246,14
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,rcxXiLhxhsk,0,-4.029778957366943,15
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,zjkBMFhNj_g,0,-5.154431343078613,16
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,SZorAJ4I-sA,1,-5.643587112426758,17
+28,Prompt Engineering,Simplified Large Language Model definition - GPT,UU1WVnMk4E8,0,-42.58685302734375,18
+29,Prompt Engineering,System Prompts in LLM,zizonToFXDs,0,2.2181973457336426,1
+29,Prompt Engineering,System Prompts in LLM,pmzZF2EnKaA,0,2.063883066177368,2
+29,Prompt Engineering,System Prompts in LLM,yu27PWzJI_Y,0,1.5983819961547852,3
+29,Prompt Engineering,System Prompts in LLM,67_aMPDk2zw,0,0.22904664278030396,4
+29,Prompt Engineering,System Prompts in LLM,_ZvnD73m40o,0,-0.006459593772888184,5
+29,Prompt Engineering,System Prompts in LLM,hd7l9F3n4ZM,0,-0.5867350697517395,6
+29,Prompt Engineering,System Prompts in LLM,t2bSApmPzU4,0,-0.6453859806060791,7
+29,Prompt Engineering,System Prompts in LLM,Uz_DeqGhbjs,0,-1.1114109754562378,8
+29,Prompt Engineering,System Prompts in LLM,j320H2LFx-U,0,-1.2338701486587524,9
+29,Prompt Engineering,System Prompts in LLM,XvCq4nPqE0Y,1,-1.7888500690460205,10
+29,Prompt Engineering,System Prompts in LLM,zNACfPuaqaI,1,-2.4135360717773438,11
+29,Prompt Engineering,System Prompts in LLM,RflBcK0oDH0,0,-2.654339075088501,12
+29,Prompt Engineering,System Prompts in LLM,VbNPZ1n6_vY,0,-2.680636405944824,13
+29,Prompt Engineering,System Prompts in LLM,aOm75o2Z5-o,0,-2.736804485321045,14
+29,Prompt Engineering,System Prompts in LLM,zjkBMFhNj_g,0,-3.366913318634033,15
+29,Prompt Engineering,System Prompts in LLM,k4Ejc3bLQiU,0,-9.527331352233887,16
+29,Prompt Engineering,System Prompts in LLM,OuB4d4WLaWM,0,-10.375909805297852,17
+29,Prompt Engineering,System Prompts in LLM,ahnGLM-RC1Y,0,-16.480491638183594,18
+29,Prompt Engineering,System Prompts in LLM,1Hk5jvHlCzw,0,-17.39035415649414,19
+30,Prompt Engineering,What is Prompt Engineering?,H-IhT8oQkpU,1,2.2151293754577637,1
+30,Prompt Engineering,What is Prompt Engineering?,Bq-ncjOGeVU,1,2.186361312866211,2
+30,Prompt Engineering,What is Prompt Engineering?,-nSd9X51MPs,0,-0.0598677396774292,3
+30,Prompt Engineering,What is Prompt Engineering?,lVIPPIyCmkM,0,-0.12395954132080078,4
+30,Prompt Engineering,What is Prompt Engineering?,FWe5xqvgzBY,0,-0.5315011739730835,5
+30,Prompt Engineering,What is Prompt Engineering?,6eul1pfGKwk,1,-0.9690829515457153,6
+30,Prompt Engineering,What is Prompt Engineering?,enhHAxIs7t0,0,-1.0379711389541626,7
+30,Prompt Engineering,What is Prompt Engineering?,ydjRYmM19DY,0,-1.9884904623031616,8
+30,Prompt Engineering,What is Prompt Engineering?,1c9iyoVIwDs,0,-2.3458290100097656,9
+30,Prompt Engineering,What is Prompt Engineering?,BzIF4hrEgyk,1,-2.5296952724456787,10
+30,Prompt Engineering,What is Prompt Engineering?,aOm75o2Z5-o,0,-2.776095390319824,11
+30,Prompt Engineering,What is Prompt Engineering?,jC4v5AS4RIM,0,-2.810837507247925,12
+30,Prompt Engineering,What is Prompt Engineering?,rVfQx8HlP5I,0,-3.252680778503418,13
+30,Prompt Engineering,What is Prompt Engineering?,vGdyePbGNaE,1,-3.6782023906707764,14
+30,Prompt Engineering,What is Prompt Engineering?,yu27PWzJI_Y,0,-3.7405576705932617,15
+30,Prompt Engineering,What is Prompt Engineering?,lanRWSAOkrw,0,-4.3512163162231445,16
+30,Prompt Engineering,What is Prompt Engineering?,sztL7rp_TkY,0,-4.5513129234313965,17
+30,Prompt Engineering,What is Prompt Engineering?,_ZvnD73m40o,0,-6.183140754699707,18
+30,Prompt Engineering,What is Prompt Engineering?,hd7l9F3n4ZM,0,-6.2041730880737305,19
+30,Prompt Engineering,What is Prompt Engineering?,fNPyQmzcSfk,0,-8.198519706726074,20
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",-YPCyoPHSOU,1,3.5234031677246094,1
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",J3bfv711aGk,1,2.711592674255371,2
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",8FNyLapsvtQ,1,1.2083568572998047,3
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",ezogFgC7MQc,1,1.153686285018921,4
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",fUlDhu-DMW4,1,1.0884733200073242,5
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",pjcl-hjnpfA,1,0.9807143211364746,6
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",S8xdCCucFWE,0,0.9068758487701416,7
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",T-w_5T-j-dA,1,0.8422304391860962,8
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",sW5xoicq5TY,1,0.6344879865646362,9
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",Tirc8Ygwu98,1,0.32468485832214355,10
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",EjAAcFpB4jw,1,-0.02622079849243164,11
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",E6X1Ufhxtf0,1,-0.1072854995727539,12
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",dkfy5QuiKSo,1,-0.11725246906280518,13
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",PH_eb1udpew,0,-0.2493882179260254,14
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",_ZvnD73m40o,0,-1.0006365776062012,15
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",hE7eGew4eeg,0,-1.92946457862854,16
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",VqPmrYFvKf8,0,-3.543853998184204,17
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",SNxe2kwgPi4,0,-6.508002281188965,18
+31,Prompt Engineering,"Zero-Shot, One-shot and Few-shot Prompting",v2gD8BHOaX4,1,-6.687758445739746,19
+32,Time Management,Parkinson’s Law,aaPYjFIei7w,0,0.38149747252464294,1
+32,Time Management,Parkinson’s Law,o8kIkXtcbTs,1,-0.2100558578968048,2
+32,Time Management,Parkinson’s Law,WcxwlrTQoqo,1,-0.2588527500629425,3
+32,Time Management,Parkinson’s Law,Gr30Cz6FBYw,1,-0.33276796340942383,4
+32,Time Management,Parkinson’s Law,oN_ZNdvxyzc,0,-0.3843493163585663,5
+32,Time Management,Parkinson’s Law,pkOzDactid4,0,-0.4774692952632904,6
+32,Time Management,Parkinson’s Law,9UriNRusrzc,1,-1.1056861877441406,7
+32,Time Management,Parkinson’s Law,-L4Ak-ORIcg,1,-1.660157561302185,8
+32,Time Management,Parkinson’s Law,xUXzBNzhfAc,0,-1.8740324974060059,9
+32,Time Management,Parkinson’s Law,Li3xm4jeLL0,0,-1.915868878364563,10
+32,Time Management,Parkinson’s Law,sWjjfrpQc7s,0,-2.0636487007141113,11
+32,Time Management,Parkinson’s Law,FXKxm5CmtAM,0,-2.296154022216797,12
+32,Time Management,Parkinson’s Law,NDi3_vN3wa0,0,-2.3848915100097656,13
+32,Time Management,Parkinson’s Law,tlddeUri3GM,0,-2.8694419860839844,14
+32,Time Management,Parkinson’s Law,W4oH0btcCYo,1,-2.8759336471557617,15
+32,Time Management,Parkinson’s Law,nnIimOTcsAs,0,-3.0783910751342773,16
+32,Time Management,Parkinson’s Law,DG6Whlus4-Y,0,-4.025197982788086,17
+32,Time Management,Parkinson’s Law,XjV4Eunrabk,0,-6.38413667678833,18
+32,Time Management,Parkinson’s Law,tcCCwmnaibY,0,-24.62451934814453,19
+33,Time Management,Setting SMART Goals,eChZd9TIbIg,1,5.304888725280762,1
+33,Time Management,Setting SMART Goals,i0QfCZjASX8,1,1.9416085481643677,2
+33,Time Management,Setting SMART Goals,P7je39WweYk,0,1.7664437294006348,3
+33,Time Management,Setting SMART Goals,d6o5PyJM3bY,1,1.338078260421753,4
+33,Time Management,Setting SMART Goals,Iyl_v-O_Cds,1,0.3538792133331299,5
+33,Time Management,Setting SMART Goals,PCRSVRD2EAk,1,0.3034672439098358,6
+33,Time Management,Setting SMART Goals,1-SvuFIQjK8,1,0.25844085216522217,7
+33,Time Management,Setting SMART Goals,L4N1q4RNi9I,0,-0.03893902897834778,8
+33,Time Management,Setting SMART Goals,OXA6gfzFA24,1,-0.22408199310302734,9
+33,Time Management,Setting SMART Goals,aVstw9HYl-o,0,-0.2335718870162964,10
+33,Time Management,Setting SMART Goals,1DYM7Rq9GnY,0,-0.5862985849380493,11
+33,Time Management,Setting SMART Goals,XpKvs-apvOs,1,-1.2599613666534424,12
+33,Time Management,Setting SMART Goals,wGbmAH4mBPA,1,-1.4369544982910156,13
+33,Time Management,Setting SMART Goals,U4IU-y9-J8Q,1,-1.9252766370773315,14
+33,Time Management,Setting SMART Goals,yA53yhiOe04,1,-2.0932912826538086,15
+33,Time Management,Setting SMART Goals,LQ5Uj1nryBc,1,-4.075530529022217,16
+33,Time Management,Setting SMART Goals,elJcG83m-qg,0,-4.880413055419922,17
+33,Time Management,Setting SMART Goals,5WX9UEYZsR8,0,-6.244416236877441,18
+35,Time Management,Time Management : Getting Things Done (GTD) Method,gCswMsONkwY,1,5.329463005065918,1
+35,Time Management,Time Management : Getting Things Done (GTD) Method,0h5Qwq8IQCc,1,4.670920372009277,2
+35,Time Management,Time Management : Getting Things Done (GTD) Method,bP8wTapHsbc,1,3.7783002853393555,3
+35,Time Management,Time Management : Getting Things Done (GTD) Method,bwvl5p77DTA,1,3.3978705406188965,4
+35,Time Management,Time Management : Getting Things Done (GTD) Method,R5i8alK5hPo,0,3.145538330078125,5
+35,Time Management,Time Management : Getting Things Done (GTD) Method,CHxhjDPKfbY,1,3.0224266052246094,6
+35,Time Management,Time Management : Getting Things Done (GTD) Method,Qh4YcvDV8OA,1,2.883871078491211,7
+35,Time Management,Time Management : Getting Things Done (GTD) Method,Usk51pV5ZOs,0,2.042217254638672,8
+35,Time Management,Time Management : Getting Things Done (GTD) Method,zsczbDwoNMo,0,1.675559639930725,9
+35,Time Management,Time Management : Getting Things Done (GTD) Method,dofXmMXkRfQ,0,1.517573356628418,10
+35,Time Management,Time Management : Getting Things Done (GTD) Method,zP8gQp3nDPA,1,1.0369386672973633,11
+35,Time Management,Time Management : Getting Things Done (GTD) Method,LsXwFB0udcI,0,0.38140711188316345,12
+35,Time Management,Time Management : Getting Things Done (GTD) Method,_-_l8y2rK08,1,0.07380199432373047,13
+35,Time Management,Time Management : Getting Things Done (GTD) Method,kOSFxKaqOm4,0,-0.4992920160293579,14
+35,Time Management,Time Management : Getting Things Done (GTD) Method,BcJlwtSxDfM,0,-2.019540548324585,15
+35,Time Management,Time Management : Getting Things Done (GTD) Method,4mUqopOk9XU,0,-2.586780071258545,16
+35,Time Management,Time Management : Getting Things Done (GTD) Method,_aI9lE_4Cc4,1,-4.428246021270752,17
+35,Time Management,Time Management : Getting Things Done (GTD) Method,dV0Qg3XKpro,0,-7.597781181335449,18
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",AXzpv67r068,1,6.246932029724121,1
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",A_th2f_iTy8,1,5.136604309082031,2
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",IlMBF_LGHxk,0,4.501811981201172,3
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",JwOard7zM90,0,4.43517541885376,4
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",EAynHZE-lK4,1,4.17402982711792,5
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",Rz-hZoxqk1k,1,3.6901209354400635,6
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",76orcm_JEjo,1,3.512782573699951,7
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",HMjVjrske-k,0,3.3130900859832764,8
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",s1I_E7msLas,0,3.2565090656280518,9
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",QInUJubpQYE,1,2.963491201400757,10
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",hlM2fMgTVq4,0,2.9622983932495117,11
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",oCc6VU2kYQI,0,2.916257381439209,12
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",kpFJDybaPzo,1,2.5544838905334473,13
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",_KMwTEmRuOw,1,2.2512125968933105,14
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",o3GiLpDN4uI,0,1.8267784118652344,15
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",q4x6bxBVCV4,1,1.214315414428711,16
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",sukLprgcvmA,0,1.2041746377944946,17
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",E0tjh2OoFZo,1,-0.02026885747909546,18
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",FUlWxl3TtgA,0,-0.5490270853042603,19
+36,Time Management,"Time Management : Pareto Analysis (a.k.a., the 80/20 rule)",Bt8SlP09aSM,1,-1.62537682056427,20
+37,Time Management,Time Management : Pomodoro Technique,mNBmG24djoY,1,7.456391334533691,1
+37,Time Management,Time Management : Pomodoro Technique,pykVMV7bLYk,1,6.663413047790527,2
+37,Time Management,Time Management : Pomodoro Technique,2CpNcIPLVjM,1,6.142370223999023,3
+37,Time Management,Time Management : Pomodoro Technique,F4mNJyHj_7Q,1,5.4999213218688965,4
+37,Time Management,Time Management : Pomodoro Technique,AKWnpv5irKc,1,4.633962631225586,5
+37,Time Management,Time Management : Pomodoro Technique,VeAyHkd7xns,1,4.621603012084961,6
+37,Time Management,Time Management : Pomodoro Technique,olX0mXl1B9s,0,4.539581298828125,7
+37,Time Management,Time Management : Pomodoro Technique,qtoysJSQTn8,0,4.477123737335205,8
+37,Time Management,Time Management : Pomodoro Technique,TxdLBxNMbtw,1,4.471640586853027,9
+37,Time Management,Time Management : Pomodoro Technique,QV0_3EdxurI,1,3.8331525325775146,10
+37,Time Management,Time Management : Pomodoro Technique,3FjIuPMQzxo,1,3.5878939628601074,11
+37,Time Management,Time Management : Pomodoro Technique,XHRCTwvvGTU,0,2.986107349395752,12
+37,Time Management,Time Management : Pomodoro Technique,8FfvK3AD7WE,1,2.3583526611328125,13
+37,Time Management,Time Management : Pomodoro Technique,zVB16AEF5Pc,1,1.471012830734253,14
+37,Time Management,Time Management : Pomodoro Technique,Sp7mpyV5ohs,1,0.6573400497436523,15
+38,Time Management,Time Management : Time Blocking Method,PPvxtFOqx2w,1,2.9363489151000977,1
+38,Time Management,Time Management : Time Blocking Method,FLxt4Sbpud4,1,1.7081211805343628,2
+38,Time Management,Time Management : Time Blocking Method,iONDebHX9qk,0,1.1053248643875122,3
+38,Time Management,Time Management : Time Blocking Method,S3jeQ6OVp_s,0,0.8169893622398376,4
+38,Time Management,Time Management : Time Blocking Method,6o2tm00Ar8A,0,0.6521708965301514,5
+38,Time Management,Time Management : Time Blocking Method,c8tgisFLqjo,0,0.6128175258636475,6
+38,Time Management,Time Management : Time Blocking Method,fbAYK4KQrso,1,0.49889588356018066,7
+38,Time Management,Time Management : Time Blocking Method,fWRF6BJ1OQk,0,0.36262840032577515,8
+38,Time Management,Time Management : Time Blocking Method,dOQpZlZuySE,0,-0.690415620803833,9
+38,Time Management,Time Management : Time Blocking Method,ni708vLVf_0,1,-0.8961488008499146,10
+38,Time Management,Time Management : Time Blocking Method,tpB3BMlNrno,0,-0.924856424331665,11
+38,Time Management,Time Management : Time Blocking Method,QzX9SG83U8k,0,-1.055556297302246,12
+38,Time Management,Time Management : Time Blocking Method,WdrNJSsfJs8,1,-1.675323486328125,13
+38,Time Management,Time Management : Time Blocking Method,R5i8alK5hPo,0,-1.7213393449783325,14
+38,Time Management,Time Management : Time Blocking Method,XHRCTwvvGTU,0,-1.7521235942840576,15
+38,Time Management,Time Management : Time Blocking Method,X-I2mKcs49s,0,-2.490844249725342,16
+38,Time Management,Time Management : Time Blocking Method,shtp2hUR94c,0,-2.8268275260925293,17
+38,Time Management,Time Management : Time Blocking Method,ykNcnrNvpTI,1,-2.8772008419036865,18
+38,Time Management,Time Management : Time Blocking Method,ggScDvx7RjM,1,-3.017209053039551,19
+38,Time Management,Time Management : Time Blocking Method,PPITG-6fR5s,0,-4.104081153869629,20
+39,Time Management,Time is a limited resource,l6bCAwx4Kus,0,4.971376419067383,1
+39,Time Management,Time is a limited resource,lXLhJaIbMf8,0,3.6892919540405273,2
+39,Time Management,Time is a limited resource,fOXBYZcZEdI,1,0.19683539867401123,3
+39,Time Management,Time is a limited resource,NvJzM5RjIAU,0,-0.10289573669433594,4
+39,Time Management,Time is a limited resource,-hJfcLZYRNY,1,-0.7239428758621216,5
+39,Time Management,Time is a limited resource,-ltRXszXZl8,0,-1.0971617698669434,6
+39,Time Management,Time is a limited resource,zfKM5oOrNqA,1,-1.1843738555908203,7
+39,Time Management,Time is a limited resource,9NoRlVt4bDs,1,-1.3011314868927002,8
+39,Time Management,Time is a limited resource,E8-YHqpCuMQ,0,-1.3637988567352295,9
+39,Time Management,Time is a limited resource,kT0NWliFA40,1,-1.9813282489776611,10
+39,Time Management,Time is a limited resource,E3IIeY_fH1c,0,-2.5735387802124023,11
+39,Time Management,Time is a limited resource,SGVnKFWBpmw,1,-4.350900650024414,12
+39,Time Management,Time is a limited resource,IvN6kyMUe3Q,0,-5.010720252990723,13
+39,Time Management,Time is a limited resource,CifipPzK7ao,0,-5.4746270179748535,14
+39,Time Management,Time is a limited resource,ja2sKjxCZOU,0,-8.341692924499512,15
+40,Python Programming,Arithmetics in Python,ita82szjz-A,0,6.085419178009033,1
+40,Python Programming,Arithmetics in Python,rEHd-ziRzNM,0,4.359423637390137,2
+40,Python Programming,Arithmetics in Python,Aj8FQRIHJSc,0,4.2781805992126465,3
+40,Python Programming,Arithmetics in Python,GEMZpw7ug-k,0,3.951486110687256,4
+40,Python Programming,Arithmetics in Python,Wd2ncaovbmI,0,3.5949411392211914,5
+40,Python Programming,Arithmetics in Python,oKSn-yOrXgU,0,2.5436601638793945,6
+40,Python Programming,Arithmetics in Python,v5MR5JnKcZI,0,2.430873394012451,7
+40,Python Programming,Arithmetics in Python,cYoi5CRPXYM,0,2.40706205368042,8
+40,Python Programming,Arithmetics in Python,8S4lC59_gQw,0,1.9725812673568726,9
+40,Python Programming,Arithmetics in Python,78SVU6B9J9U,0,1.7342727184295654,10
+40,Python Programming,Arithmetics in Python,6X6pj92PQiw,0,1.3722460269927979,11
+40,Python Programming,Arithmetics in Python,kvVPeBBZdtM,1,0.5806827545166016,12
+40,Python Programming,Arithmetics in Python,R83OfbQeB7M,0,0.31824660301208496,13
+40,Python Programming,Arithmetics in Python,jc7TBgMS_kw,0,0.1974802017211914,14
+40,Python Programming,Arithmetics in Python,7cBNRSxzJrc,0,-1.0712006092071533,15
+40,Python Programming,Arithmetics in Python,Y6YTnkZ10qw,0,-1.944676399230957,16
+41,Python Programming,Comments in Python,ZgAcB8HiQmo,1,2.3170878887176514,1
+41,Python Programming,Comments in Python,4RBgQnYDK9Y,1,1.8545284271240234,2
+41,Python Programming,Comments in Python,ECxZtt6n90E,1,0.9558932185173035,3
+41,Python Programming,Comments in Python,rhF1x2lnRQA,1,0.7522509098052979,4
+41,Python Programming,Comments in Python,QZ6Ml_CA9PQ,1,0.5399974584579468,5
+41,Python Programming,Comments in Python,J8K-v67o5vE,1,0.2571350336074829,6
+41,Python Programming,Comments in Python,0NO3MJkxm2g,0,-0.4987781345844269,7
+41,Python Programming,Comments in Python,t3AlGnGs5ZQ,0,-2.311542510986328,8
+41,Python Programming,Comments in Python,_wUDkJoY7iE,0,-5.779155254364014,9
+42,Python Programming,Conditions in Python,PqFKRqpHrjw,1,7.206759929656982,1
+42,Python Programming,Conditions in Python,DZwmZ8Usvnk,0,6.317169189453125,2
+42,Python Programming,Conditions in Python,C-a_Tq80668,0,6.0000810623168945,3
+42,Python Programming,Conditions in Python,MMzXz7EDTZM,0,4.902462005615234,4
+42,Python Programming,Conditions in Python,Zp5MuPOtsSY,1,4.381830215454102,5
+42,Python Programming,Conditions in Python,NkVSSMt-h3Y,1,4.182491302490234,6
+42,Python Programming,Conditions in Python,5-5Mf_L0UKw,0,4.066648483276367,7
+42,Python Programming,Conditions in Python,wIXfXYf17ok,0,3.7658181190490723,8
+42,Python Programming,Conditions in Python,hf-amsrHa4M,1,3.759758949279785,9
+42,Python Programming,Conditions in Python,2EngAQX_kCg,0,2.3465890884399414,10
+42,Python Programming,Conditions in Python,4TdgyOSmUcI,1,2.102177381515503,11
+42,Python Programming,Conditions in Python,rw6KedFAcy8,1,1.188058614730835,12
+42,Python Programming,Conditions in Python,wKQRmXR3jhc,0,0.6484231948852539,13
+42,Python Programming,Conditions in Python,FvMPfrgGeKs,1,-1.432492971420288,14
+43,Python Programming,Dictionaries in Python,1E3UlFvPMIU,0,3.5870094299316406,1
+43,Python Programming,Dictionaries in Python,ZEZdys-fHDw,1,3.0471456050872803,2
+43,Python Programming,Dictionaries in Python,2IsF7DEtVjg,1,2.6165027618408203,3
+43,Python Programming,Dictionaries in Python,LTXnQdrwyrw,0,2.3588318824768066,4
+43,Python Programming,Dictionaries in Python,Sah0p4ILGRE,0,1.6685380935668945,5
+43,Python Programming,Dictionaries in Python,daefaLgNkw0,1,1.257362961769104,6
+43,Python Programming,Dictionaries in Python,6x8oN6FtpLo,0,1.0166728496551514,7
+43,Python Programming,Dictionaries in Python,XCcpzWs-CI4,1,0.8682396411895752,8
+43,Python Programming,Dictionaries in Python,u0yr9B3nH8c,0,0.7357087135314941,9
+43,Python Programming,Dictionaries in Python,Hea64Ey_gVU,1,0.5492374897003174,10
+43,Python Programming,Dictionaries in Python,C29qMZb9HrA,1,-0.47460514307022095,11
+43,Python Programming,Dictionaries in Python,khCzymLy_QE,0,-0.527653694152832,12
+43,Python Programming,Dictionaries in Python,MZZSMaEAC2g,0,-1.9339752197265625,13
+43,Python Programming,Dictionaries in Python,WA_JDDaaMe0,0,-1.982847809791565,14
+43,Python Programming,Dictionaries in Python,2B8Nh3pJEFE,1,-2.389146566390991,15
+43,Python Programming,Dictionaries in Python,fXRxHrDhQuI,0,-3.693448066711426,16
+43,Python Programming,Dictionaries in Python,28APRkI0jsM,0,-4.195366859436035,17
+44,Python Programming,Error Handling in Python,fhxByMe0mq8,1,1.057098627090454,1
+44,Python Programming,Error Handling in Python,-_uNayxaQoU,1,0.751561164855957,2
+44,Python Programming,Error Handling in Python,NIWwJbo-9_8,1,0.5575791597366333,3
+44,Python Programming,Error Handling in Python,6SPDvPK38tw,1,-0.4613710641860962,4
+44,Python Programming,Error Handling in Python,uVJx6hU3V20,1,-0.9464962482452393,5
+44,Python Programming,Error Handling in Python,brICUKrzVR0,1,-0.9604730606079102,6
+44,Python Programming,Error Handling in Python,ZUqGMDppEDs,0,-1.0333095788955688,7
+44,Python Programming,Error Handling in Python,nlCKrKGHSSk,0,-1.285247564315796,8
+44,Python Programming,Error Handling in Python,ZsvftkbbrR0,0,-2.0087690353393555,9
+44,Python Programming,Error Handling in Python,GIDy0oCfZHg,0,-2.0572621822357178,10
+44,Python Programming,Error Handling in Python,tIh42X0oGQc,1,-3.160466194152832,11
+44,Python Programming,Error Handling in Python,MImAiZIzzd4,0,-3.98828387260437,12
+44,Python Programming,Error Handling in Python,J-HWmoTKhC8,0,-4.485513210296631,13
+44,Python Programming,Error Handling in Python,j_q6NGOwDJo,1,-4.83885383605957,14
+44,Python Programming,Error Handling in Python,ly1In5XHrAA,0,-5.036654472351074,15
+45,Python Programming,Functions in Python,NSbOtYzIQI0,1,2.0048623085021973,1
+45,Python Programming,Functions in Python,89cGQjB5R4M,1,1.404649257659912,2
+45,Python Programming,Functions in Python,eezLhJ5oGYg,0,0.7574082612991333,3
+45,Python Programming,Functions in Python,NE97ylAnrz4,1,0.6384623050689697,4
+45,Python Programming,Functions in Python,u-OmVr_fT4s,1,0.03407168388366699,5
+45,Python Programming,Functions in Python,9Os0o3wzS_I,1,-0.031158447265625,6
+45,Python Programming,Functions in Python,vg7Hwd9TANY,0,-0.5444804430007935,7
+45,Python Programming,Functions in Python,-Bkupx9gX0o,1,-0.7860467433929443,8
+45,Python Programming,Functions in Python,fz_BCnhEQYQ,1,-0.7920299768447876,9
+45,Python Programming,Functions in Python,XjfvaFnJ4zk,1,-1.11773681640625,10
+45,Python Programming,Functions in Python,zvzjaqMBEso,0,-1.4651747941970825,11
+45,Python Programming,Functions in Python,aftw0WX4oCc,0,-1.6736785173416138,12
+45,Python Programming,Functions in Python,n9aDBOycsCY,0,-2.5347542762756348,13
+45,Python Programming,Functions in Python,ZrNI0JvxUPw,0,-5.414474010467529,14
+46,Python Programming,Introducing Python,Z1Yd7upQsXY,0,1.8996291160583496,1
+46,Python Programming,Introducing Python,DInMru2Eq6E,0,1.1889026165008545,2
+46,Python Programming,Introducing Python,hEgO047GxaQ,1,1.089684247970581,3
+46,Python Programming,Introducing Python,FbBXtqtRnWU,0,0.16812169551849365,4
+46,Python Programming,Introducing Python,mRMmlo_Uqcs,0,-0.5495910048484802,5
+46,Python Programming,Introducing Python,7XOhibxgBlQ,1,-1.3650656938552856,6
+46,Python Programming,Introducing Python,Y8Tko2YC5hA,1,-1.7458893060684204,7
+46,Python Programming,Introducing Python,rwWCyXYwPhA,0,-2.4030652046203613,8
+46,Python Programming,Introducing Python,kqtD5dpn9C8,0,-3.530428409576416,9
+46,Python Programming,Introducing Python,bIjJVKmAz98,0,-4.0650787353515625,10
+46,Python Programming,Introducing Python,x7X9w_GIm1s,0,-5.3630571365356445,11
+46,Python Programming,Introducing Python,b093aqAZiPU,0,-7.047365665435791,12
+46,Python Programming,Introducing Python,AmR-yNqzmAw,0,-12.851954460144043,13
+46,Python Programming,Introducing Python,rfscVS0vtbw,0,-18.53096580505371,14
+46,Python Programming,Introducing Python,_uQrJ0TkZlc,0,-18.658960342407227,15
+46,Python Programming,Introducing Python,eWRfhZUzrAc,0,-19.151700973510742,16
+46,Python Programming,Introducing Python,nLRL_NcnK-4,0,-91.18816375732422,17
+47,Python Programming,Lists in Python,zEyEC34MY1A,0,4.236979961395264,1
+47,Python Programming,Lists in Python,tw7ror9x32s,0,3.9481863975524902,2
+47,Python Programming,Lists in Python,gOMW_n2-2Mw,0,3.0585129261016846,3
+47,Python Programming,Lists in Python,f2RATcdPcrE,0,1.8651750087738037,4
+47,Python Programming,Lists in Python,9OeznAkyQz4,0,1.699333906173706,5
+47,Python Programming,Lists in Python,1tnFQDo05hQ,1,1.494575023651123,6
+47,Python Programming,Lists in Python,0yySumZTxJ0,0,1.4217406511306763,7
+47,Python Programming,Lists in Python,lFzHFUvGL7I,1,1.3842397928237915,8
+47,Python Programming,Lists in Python,Eaz5e6M8tL4,1,1.342893123626709,9
+47,Python Programming,Lists in Python,ajrtAuDg3yw,0,1.1607635021209717,10
+47,Python Programming,Lists in Python,W8KRzm-HUcc,0,0.9415982961654663,11
+47,Python Programming,Lists in Python,l8mWvDUwOt4,0,0.22592377662658691,12
+47,Python Programming,Lists in Python,ohCDWZgNIU0,1,0.15493643283843994,13
+47,Python Programming,Lists in Python,1KLgcBcWCsE,0,-0.1881529688835144,14
+47,Python Programming,Lists in Python,SfX8IIxoJwQ,0,-0.5732418298721313,15
+47,Python Programming,Lists in Python,fXRxHrDhQuI,0,-0.6265163421630859,16
+47,Python Programming,Lists in Python,SNq4C988FjU,0,-0.7137044668197632,17
+47,Python Programming,Lists in Python,rmaaKvh94Vs,0,-2.2920353412628174,18
+47,Python Programming,Lists in Python,KkyLt1msoMc,0,-19.234281539916992,19
+48,Python Programming,Numeric Data Types in Python,jwTP61IsxjU,0,3.1661829948425293,1
+48,Python Programming,Numeric Data Types in Python,gYVG1khCbp0,1,2.9167070388793945,2
+48,Python Programming,Numeric Data Types in Python,5yhn0MFLcu8,0,1.3667078018188477,3
+48,Python Programming,Numeric Data Types in Python,ewX-cHfZmI4,1,1.2240830659866333,4
+48,Python Programming,Numeric Data Types in Python,afswNWZxLfk,1,0.7237725257873535,5
+48,Python Programming,Numeric Data Types in Python,aXq4Rnj5vJs,0,0.6549974679946899,6
+48,Python Programming,Numeric Data Types in Python,VrC04Gag9SI,1,0.5943295955657959,7
+48,Python Programming,Numeric Data Types in Python,VwPNQFE7RQY,1,0.5828832387924194,8
+48,Python Programming,Numeric Data Types in Python,VfZpTuOr0FM,0,0.49677562713623047,9
+48,Python Programming,Numeric Data Types in Python,khKv-8q7YmY,0,0.12836694717407227,10
+48,Python Programming,Numeric Data Types in Python,LqpJAEQQLK0,0,-0.1907501220703125,11
+48,Python Programming,Numeric Data Types in Python,MXwIkjU79D8,1,-0.31767499446868896,12
+48,Python Programming,Numeric Data Types in Python,bGg5tYIv5iY,0,-0.5652153491973877,13
+48,Python Programming,Numeric Data Types in Python,A70nsgjwhKQ,1,-0.9699325561523438,14
+48,Python Programming,Numeric Data Types in Python,w_jm4xfXvuE,0,-5.144745826721191,15
+49,Python Programming,Strings in Python,_n_op0dmTCY,0,0.45448076725006104,1
+49,Python Programming,Strings in Python,lSItwlnF0eU,1,-0.24865758419036865,2
+49,Python Programming,Strings in Python,k9TUPpGqYTo,1,-0.5019899606704712,3
+49,Python Programming,Strings in Python,Ctqi5Y4X-jA,1,-0.7254531383514404,4
+49,Python Programming,Strings in Python,iYCiWadRZ8I,0,-0.992402195930481,5
+49,Python Programming,Strings in Python,tb6EYiHtcXU,0,-1.5966509580612183,6
+49,Python Programming,Strings in Python,iAzShkKzpJo,0,-1.6380903720855713,7
+49,Python Programming,Strings in Python,JbmpyhuEjW0,1,-1.8229974508285522,8
+49,Python Programming,Strings in Python,bnSYeYFRCaA,0,-2.1931309700012207,9
+49,Python Programming,Strings in Python,xGkF9Y38Gsc,0,-2.5885887145996094,10
+49,Python Programming,Strings in Python,7pXf1DUuaIo,0,-2.6803059577941895,11
+49,Python Programming,Strings in Python,QGLNQwfTO2w,0,-3.9815592765808105,12
+49,Python Programming,Strings in Python,ajrtAuDg3yw,0,-4.1290998458862305,13
+50,stress management and mental health,Acute vs Chronic Stress,f9yCYlV-gNM,1,5.155559062957764,1
+50,stress management and mental health,Acute vs Chronic Stress,N4ykGYtpMMo,1,3.7397408485412598,2
+50,stress management and mental health,Acute vs Chronic Stress,QFwERE8hQ7w,1,2.8207857608795166,3
+50,stress management and mental health,Acute vs Chronic Stress,-yVXUvP0CwA,0,2.312094211578369,4
+50,stress management and mental health,Acute vs Chronic Stress,OQtwB04wez4,1,1.7760508060455322,5
+50,stress management and mental health,Acute vs Chronic Stress,kU-MiMCghXM,0,1.7076690196990967,6
+50,stress management and mental health,Acute vs Chronic Stress,7jClwt6SUds,0,1.4015781879425049,7
+50,stress management and mental health,Acute vs Chronic Stress,akYnmogU8zo,0,0.7063388824462891,8
+50,stress management and mental health,Acute vs Chronic Stress,16JZy9EdZqg,1,0.32053613662719727,9
+50,stress management and mental health,Acute vs Chronic Stress,6YMsSZf2CPA,1,-0.1611161231994629,10
+50,stress management and mental health,Acute vs Chronic Stress,1BBiaxOxXas,0,-0.5271808505058289,11
+50,stress management and mental health,Acute vs Chronic Stress,gb549yI6MKg,0,-0.7471892833709717,12
+50,stress management and mental health,Acute vs Chronic Stress,E0_0C-J3MWA,1,-1.3785004615783691,13
+50,stress management and mental health,Acute vs Chronic Stress,S_WglR9u1q0,1,-2.098921775817871,14
+50,stress management and mental health,Acute vs Chronic Stress,0zw4-q7xaYU,0,-2.4441206455230713,15
+50,stress management and mental health,Acute vs Chronic Stress,DDq2GLDcsWU,1,-2.541490077972412,16
+50,stress management and mental health,Acute vs Chronic Stress,yYdNQsgzOKs,0,-2.7085752487182617,17
+50,stress management and mental health,Acute vs Chronic Stress,fhZKVTBvv8M,1,-3.42936372756958,18
+50,stress management and mental health,Acute vs Chronic Stress,WuyPuH9ojCE,0,-5.942416667938232,19
+50,stress management and mental health,Acute vs Chronic Stress,Mh4E3xiNGe4,1,-7.057178974151611,20
+51,stress management and mental health,Body's reaction to Stress,29UFfV_DtsM,1,2.6256906986236572,1
+51,stress management and mental health,Body's reaction to Stress,wr4N-SdekqY,0,2.19315767288208,2
+51,stress management and mental health,Body's reaction to Stress,mtRrxNTnyh8,0,1.8589379787445068,3
+51,stress management and mental health,Body's reaction to Stress,0pCpJLfp7LU,1,1.3123037815093994,4
+51,stress management and mental health,Body's reaction to Stress,a4opDJOCEKA,1,1.1730259656906128,5
+51,stress management and mental health,Body's reaction to Stress,FzFXObAqUtY,1,0.6040432453155518,6
+51,stress management and mental health,Body's reaction to Stress,CZTc8_FwHGM,0,0.5335748791694641,7
+51,stress management and mental health,Body's reaction to Stress,v-t1Z5-oPtU,0,-0.055432915687561035,8
+51,stress management and mental health,Body's reaction to Stress,dErTZ-zj1dQ,1,-0.5203812122344971,9
+51,stress management and mental health,Body's reaction to Stress,uw1qnYzh0nQ,1,-0.5332401990890503,10
+51,stress management and mental health,Body's reaction to Stress,T5ScIqPnqf8,1,-0.9822123050689697,11
+51,stress management and mental health,Body's reaction to Stress,5u0z7-BJec0,1,-1.6766209602355957,12
+51,stress management and mental health,Body's reaction to Stress,vh7sInNB8-0,0,-1.7092212438583374,13
+51,stress management and mental health,Body's reaction to Stress,Mh4E3xiNGe4,0,-2.5904297828674316,14
+51,stress management and mental health,Body's reaction to Stress,WuyPuH9ojCE,1,-3.4518938064575195,15
+51,stress management and mental health,Body's reaction to Stress,0Thlgt0JFuM,0,-7.568614482879639,16
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,9UFXwC47m44,1,4.773612976074219,1
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,HJU_b6sVU8Y,1,3.9205679893493652,2
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,uwfyGA369TI,0,0.7973027229309082,3
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,6d9T8aI4Vtc,1,0.7147051095962524,4
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,ccufhFpL0eM,1,-0.0549774169921875,5
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,ws4-LfcBUTk,1,-0.16649723052978516,6
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,9Fv2a-SAing,1,-0.4861025810241699,7
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,jcz4_IDblYw,1,-0.7174007892608643,8
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,wr4N-SdekqY,0,-1.431064486503601,9
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,mMkxM38kUbA,0,-1.523748517036438,10
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,wSqjPEWsHik,1,-1.6158511638641357,11
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,ZFZS4c52bYU,0,-2.0300519466400146,12
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,sZtEwEIUIOc,0,-2.3101489543914795,13
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,WJQTyrKk8uc,1,-3.3147149085998535,14
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,L9htK89qoEk,0,-3.998885154724121,15
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,sx9_Zev64uw,1,-4.120992660522461,16
+52,stress management and mental health,Eustress vs Distress: Understanding Positive and Negative Stress,WuyPuH9ojCE,0,-5.687501430511475,17
+53,stress management and mental health,Stress vs Stressors,arKW5EtiijY,1,2.6014480590820312,1
+53,stress management and mental health,Stress vs Stressors,9NnVRHs3E-w,0,2.242398262023926,2
+53,stress management and mental health,Stress vs Stressors,8-MHK6YRiUI,0,1.208802342414856,3
+53,stress management and mental health,Stress vs Stressors,jtDRDcAvD70,1,1.0284929275512695,4
+53,stress management and mental health,Stress vs Stressors,prRX1qRiIFc,0,0.9178475141525269,5
+53,stress management and mental health,Stress vs Stressors,hRgAA8IH834,0,0.692467451095581,6
+53,stress management and mental health,Stress vs Stressors,G2jSKb6zFos,0,0.09238588809967041,7
+53,stress management and mental health,Stress vs Stressors,t39pAFp-QqY,0,0.09201723337173462,8
+53,stress management and mental health,Stress vs Stressors,tPStCT5ldBI,1,-0.05148506164550781,9
+53,stress management and mental health,Stress vs Stressors,5xVSOqfYsBg,1,-0.512603759765625,10
+53,stress management and mental health,Stress vs Stressors,7sDuJW6RV2k,0,-0.7547695636749268,11
+53,stress management and mental health,Stress vs Stressors,s17UP_Ia4pQ,0,-1.603142499923706,12
+53,stress management and mental health,Stress vs Stressors,mqIdhSoWXxE,0,-1.9564001560211182,13
+53,stress management and mental health,Stress vs Stressors,HxdH2IWVKJw,0,-2.093785524368286,14
+53,stress management and mental health,Stress vs Stressors,DM8ioviLA_c,1,-3.3903045654296875,15
+53,stress management and mental health,Stress vs Stressors,PwLCTt0GiM0,0,-12.91344928741455,16
+53,stress management and mental health,Stress vs Stressors,naeC0WDtRpc,0,-15.50229549407959,17
+54,First Aid Training,First aid: Burn treatment techniques,ury1GMvbUNw,1,6.87114953994751,1
+54,First Aid Training,First aid: Burn treatment techniques,JwlSXhSg69A,1,5.1603922843933105,2
+54,First Aid Training,First aid: Burn treatment techniques,pwRCn_lkxeQ,0,4.185574054718018,3
+54,First Aid Training,First aid: Burn treatment techniques,onAVwF7nCjc,0,3.79730486869812,4
+54,First Aid Training,First aid: Burn treatment techniques,v2mY1h0BdTw,0,3.138502836227417,5
+54,First Aid Training,First aid: Burn treatment techniques,B51VgoEZcDs,0,1.6793725490570068,6
+54,First Aid Training,First aid: Burn treatment techniques,XJGPzl3ENKo,1,1.6195988655090332,7
+54,First Aid Training,First aid: Burn treatment techniques,XGnLkUty69g,1,1.5731086730957031,8
+54,First Aid Training,First aid: Burn treatment techniques,8KXBk8WIc50,1,1.5611910820007324,9
+54,First Aid Training,First aid: Burn treatment techniques,z_5tuB1YMK0,0,1.1744500398635864,10
+54,First Aid Training,First aid: Burn treatment techniques,ZNWjfe-84Ig,0,1.0275230407714844,11
+54,First Aid Training,First aid: Burn treatment techniques,D3SbaMe5HpE,1,0.9293556809425354,12
+54,First Aid Training,First aid: Burn treatment techniques,4e7evinsfm0,0,0.8574678897857666,13
+54,First Aid Training,First aid: Burn treatment techniques,FX68BbSD9h4,0,0.43681591749191284,14
+54,First Aid Training,First aid: Burn treatment techniques,B10sth4zjuI,1,0.21646574139595032,15
+54,First Aid Training,First aid: Burn treatment techniques,IOtnGl_9-qw,0,-2.641488790512085,16
+55,First Aid Training,Techniques for controlling bleeding,7wdAzbTy3tk,0,2.340270519256592,1
+55,First Aid Training,Techniques for controlling bleeding,xms1_nE9H9w,1,1.842344045639038,2
+55,First Aid Training,Techniques for controlling bleeding,XYW2dWHQdoM,1,1.0838062763214111,3
+55,First Aid Training,Techniques for controlling bleeding,jYtJS1PtNq0,0,0.8827855587005615,4
+55,First Aid Training,Techniques for controlling bleeding,eBINwvHFTnw,1,-0.3706645369529724,5
+55,First Aid Training,Techniques for controlling bleeding,8pTaqY40-Rs,1,-0.6850237846374512,6
+55,First Aid Training,Techniques for controlling bleeding,8sEijZkfUHI,1,-0.7105438113212585,7
+55,First Aid Training,Techniques for controlling bleeding,a6ZaBpSxZx4,0,-0.8524551391601562,8
+55,First Aid Training,Techniques for controlling bleeding,Y09QK0bqghQ,0,-0.9924546480178833,9
+55,First Aid Training,Techniques for controlling bleeding,de5g1OqLlJo,0,-2.144623279571533,10
+55,First Aid Training,Techniques for controlling bleeding,1g7KPzklu7Y,1,-2.159810781478882,11
+55,First Aid Training,Techniques for controlling bleeding,wA4ps2Bw1e0,1,-2.308372974395752,12
+55,First Aid Training,Techniques for controlling bleeding,-nTRkxcazik,0,-2.9984917640686035,13
+55,First Aid Training,Techniques for controlling bleeding,5GVYiD0WzaE,1,-3.429055690765381,14
+55,First Aid Training,Techniques for controlling bleeding,z5ziRizHjSA,1,-4.261590003967285,15
+55,First Aid Training,Techniques for controlling bleeding,mOR-YMQF6ts,0,-8.165674209594727,16

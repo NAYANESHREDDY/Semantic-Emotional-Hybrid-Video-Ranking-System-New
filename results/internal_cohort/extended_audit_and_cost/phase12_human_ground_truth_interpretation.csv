@@ -1,0 +1,4 @@
+item,result,methodological_note
+Human label semantics,Accepted/Rejected expert judgments,"Human ground truth is binary relevance, not a complete rank ordering"
+Evaluation target,Ranking methods,Measure whether accepted resources are ranked above rejected resources
+Exact human rank agreement,Not available from this benchmark,Cannot claim model #1 equals human #1 without explicit human ranking data

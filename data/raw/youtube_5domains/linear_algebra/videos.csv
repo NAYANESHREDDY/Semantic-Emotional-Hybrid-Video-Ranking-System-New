@@ -1,0 +1,728 @@
+video_id,video_title,description,channel_name,views,likes,comment_count,duration,duration_minutes,publish_date,video_url,query,domain
+QL4_4GAWvPs,ALL of linear algebra in 7 minutes.,"This is your complete crash course on Linear Algebra — from vectors and matrices to eigenvalues and transformations. Whether you're a student, self-learner, or just curious about how linear algebra works, this short video gives you the core concepts in a fast, easy-to-follow way.
+
+📚 Topics covered:
+0:00 Vectors & Linear Combinations
+0:55 Matrices
+2:09 Row Reduction
+3:32 Independence, Basis, and Dimension
+4:19 Linear Transformation
+5:02 Determinants & Inverses
+5:54 Eigenvectors & Eigenvalues
+
+This is a high-level overview, not a deep dive — but it's a great place to start (or review). Perfect for test prep, review, or quick understanding!
+
+Thanks to gregorian calendar's ""ALL of calculus 3 in 8 minutes."" video for inspiring this.
+
+🔔 Don’t forget to subscribe for more math & science explainers!
+
+#math #linearalgebra #matrices #eigenvalues #vectors #LinearAlgebra #MathExplained #Vectors #Matrices #Eigenvalues #GaussianElimination #LinearTransformations #CrashCourseMath #MathTutorial #MatrixMath",KoothBrush,389331,12018,217,PT7M3S,7.05,2025-06-20T14:00:54Z,https://www.youtube.com/watch?v=QL4_4GAWvPs,Linear Algebra Course,Mathematics
+J7DzL2_Na80,1. The Geometry of Linear Equations,"MIT 18.06 Linear Algebra, Spring 2005
+Instructor: Gilbert Strang
+View the complete course: http://ocw.mit.edu/18-06S05
+YouTube Playlist: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+
+1. The Geometry of Linear Equations
+
+License: Creative Commons BY-NC-SA
+More information at https://ocw.mit.edu/terms
+More courses at https://ocw.mit.edu",MIT OpenCourseWare,2896619,40633,1210,PT39M49S,39.81666666666667,2019-09-24T20:20:31Z,https://www.youtube.com/watch?v=J7DzL2_Na80,Linear Algebra Course,Mathematics
+2RDrcR7urdA,The Best Way To Learn Linear Algebra,"My Courses: https://www.freemathvids.com/ || I discuss the best way to learn linear algebra and give you some options. Do you have advice for people? If so, please leave a comment below.
+Proof Writing Book: https://amzn.to/3PTCdlz
+Anton's Linear Algebra: https://amzn.to/48zsE2D
+Another: https://amzn.to/48qhoFL
+Yet another: https://amzn.to/3PS2jFA
+Friedberg, Insel, Spence Linear Algebra: https://amzn.to/3PGUG3E
+Useful Math Supplies https://amzn.to/3Y5TGcv
+My Recording Gear https://amzn.to/3BFvcxp
+(these are my affiliate links)
+
+***********Math, Physics, and Computer Science Books***********
+Epic Math Book List https://amzn.to/3F98vT1
+Pre-algebra, Algebra, and Geometry https://amzn.to/3FdbwSn
+College Algebra, Precalculus, and Trigonometry https://amzn.to/3UKjvfb
+Probability and Statistics https://amzn.to/3FaaxCq
+Discrete Mathematics https://amzn.to/3P6jPE4
+Proof Writing https://amzn.to/3XXukxo
+Calculus https://amzn.to/3iEH3F3
+Differential Equations Books https://amzn.to/3Fac5wi
+Partial Differential Equations Books https://amzn.to/3uyk1SV
+Linear Algebra https://amzn.to/3VHiN3G
+Abstract Algebra Books https://amzn.to/3FzLZEr
+Real Analysis/Advanced Calculus https://amzn.to/3VIO4Ua
+Complex Analysis https://amzn.to/3P6kbuo
+Number Theory https://amzn.to/3UEm3vw
+Graph Theory https://amzn.to/3BfRd5m
+Topology https://amzn.to/3BiAGhe
+Graduate Level Books https://amzn.to/3uv1eIg
+Computer Science https://amzn.to/3Hh8kaU
+Physics https://amzn.to/3BhPCMp
+These are my affiliate links. As an Amazon Associate I earn from qualifying purchases.
+
+
+If you enjoyed this video please consider liking, sharing, and subscribing.
+
+Udemy Courses Via My Website: https://mathsorcerer.com 
+
+My FaceBook Page: https://www.facebook.com/themathsorcerer
+
+My Instagram: https://www.instagram.com/therealmathsorcerer/
+
+My TikTok: https://www.tiktok.com/@therealmathsorcerer
+
+
+There are several ways that you can help support my channel:)
+
+Consider becoming a member of the channel: https://www.youtube.com/channel/UCr7lmzIk63PZnBw3bezl-Mg/join
+My GoFundMe Page: https://www.gofundme.com/f/support-math-education-for-the-world
+My Patreon Page: https://www.patreon.com/themathsorcerer
+Donate via PayPal: https://paypal.com/donate/?cmd=_s-xclick&hosted_button_id=7XNKUGJUENSYU
+
+************Udemy Courses(Please Use These Links If You Sign Up!)*************
+Abstract Algebra Course
+https://www.udemy.com/course/abstract-algebra-group-theory-with-the-math-sorcerer/?referralCode=B04607DA7A7D0E29272A
+
+Advanced Calculus Course
+https://www.udemy.com/course/advanced-calculusreal-analysis-with-the-math-sorcerer/?referralCode=0ABDD66D061D976EE232
+
+Calculus 1 Course
+https://www.udemy.com/course/calculus-1-with-the-math-sorcerer/?referralCode=E853B70ED36571CA9768
+
+Calculus 2 Course
+https://www.udemy.com/course/calculus-2-with-the-math-sorcerer/?referralCode=BAA5520B32FEA9827D54
+
+Calculus 3 Course
+https://www.udemy.com/course/calculus-3-with-the-math-sorcerer/?referralCode=296462D1897904C4BEB3
+
+Calculus 1 Lectures with Assignments and a Final Exam
+https://www.udemy.com/course/calculus-1-lectures-with-the-math-sorcerer/?referralCode=5D425153B63A8F506E30
+
+Calculus Integration Insanity
+https://www.udemy.com/course/calculus-integration-insanity-with-the-math-sorcerer/?referralCode=D533EEE31F90EDDAFF93
+
+Differential Equations Course
+https://www.udemy.com/course/differential-equations-with-the-math-sorcerer/?referralCode=4F0D91B41F7DACF4EC28
+
+Differential Equations Lectures Course (Includes Assignments + Final Exam)
+https://www.udemy.com/course/differential-equations-lectures-with-the-math-sorcerer/?referralCode=89E6CCC307A7A8627CD6
+
+College Algebra Course
+https://www.udemy.com/course/college-algebra-with-the-math-sorcerer/?referralCode=B2929EE97EF68DB9B69F
+
+How to Write Proofs with Sets Course
+https://www.udemy.com/course/how-to-write-proofs-in-set-theory-with-the-math-sorcerer/?referralCode=D503A7E3FB6916CF2D27
+
+How to Write Proofs with Functions Course
+https://www.udemy.com/course/how-to-write-proofs-with-functions-with-the-math-sorcerer/?referralCode=DBACD59AB7B16D4707CD
+
+Trigonometry 1 Course
+https://www.udemy.com/course/trigonometry-1-with-the-math-sorcerer/?referralCode=79E02DDFD4106A909AF5
+
+Trigonometry 2 Course
+https://www.udemy.com/course/trigonometry-2-with-the-math-sorcerer/?referralCode=7966E40F319B4FEF6535
+
+Statistics with StatCrunch Course
+https://www.udemy.com/course/statistics-with-statcrunch-by-the-math-sorcerer/?referralCode=69B27AF43D10924FF63B
+
+Math Graduate Programs, Applying, Advice, Motivation
+https://www.udemy.com/course/math-graduate-programs-applying-advice-motivation/?referralCode=70A1CED973D7910E9161
+
+Daily Devotionals for Motivation with The Math Sorcerer
+https://www.udemy.com/course/daily-math-devotionals-for-motivation-with-the-math-sorcerer/?referralCode=2653144E315A37A94B8C
+
+Thank you:)",The Math Sorcerer,115288,3386,112,PT10M32S,10.533333333333333,2023-10-07T00:18:48Z,https://www.youtube.com/watch?v=2RDrcR7urdA,Linear Algebra Course,Mathematics
+ow2JE7FTxo0,Linear Algebra Crash Course | Complete 3-Hour Visual Guide for Beginners,"This is the complete beginner’s guide to linear algebra—a 3-hour compilation of the full video series designed to take you from vectors and matrices all the way to matrix rank, inverses, and factorizations.
+
+📌 This is a compilation of episodes 1–21 from the Linear Algebra Essentials series → https://youtube.com/playlist?list=PL_bj_lE1LMgR_IVbS6MOsS3E-eG-OnL_1&si=oWMSMCheilaX2nAy
+
+Every topic is taught visually, intuitively, and step-by-step, making it perfect for:
+• College and high school students
+• Engineers and physicists refreshing core concepts
+• Self-learners in computer science and machine learning
+
+✅ Topics Covered:
+• Vectors & Vector Operations
+• Dot Product, Cross Product, Projections
+• Lines & Planes in 3D
+• Matrix Notation, Multiplication, Transposition
+• Row Reduction, REF, RREF
+• Elementary Matrices & Gaussian Elimination
+• Determinants & Properties
+• Inverse Matrices
+• Rank & A = CR Factorization
+
+⏱️ Timestamps / Chapters:
+00:00 Introduction to Linear Algebra
+00:55 Vectors 101
+12:39 Vector Addition & Scalar Multiplication
+24:15 Dot Product
+31:45 Projections & Components
+43:34 Cross Product
+50:18 Lines in 3D
+59:18 Planes in 3D
+1:06:48 Linear Independence
+1:11:40 Matrices & Notation
+1:18:59 Matrix Multiplication
+1:25:15 Row vs Column Picture of Ax = b
+1:38:51 Matrix Transposition
+1:42:32 Elementary Matrices
+1:57:38 Gaussian Elimination
+2:09:38 Reduced Row Echelon Form
+2:17:05 Matrix Rank
+2:20:45 Determinants (2×2 and 3×3)
+2:30:26 Properties of Determinants
+2:42:18 Inverse Matrices
+2:45:37 A = CR Factorization
+
+🎯 Includes color-coded overlays, animations, geometric interpretations, and intuitive proofs.
+
+🔔 Subscribe for more visual math crash courses and deep-dive STEM series.
+
+#LinearAlgebraFullCourse #MathCrashCourse #LinearAlgebraExplained #MatrixMath #STEMEducation #VisualLearning",EasyAcademiq,5937,190,3,PT2H53M10S,173.16666666666666,2025-05-17T16:09:50Z,https://www.youtube.com/watch?v=ow2JE7FTxo0,Linear Algebra Course,Mathematics
+E8YQPBHLUrY,All Of Linear Algebra Explained In 10 Minutes,"To try everything Brilliant has to offer—free—for a full 30 days, visit https://brilliant.org/FindY . You’ll also get 20% off an annual premium subscription. 
+
+THIS VIDEO IS SPONSORED BY BRILLIANT.ORG
+
+Get your friends out of the doom scrolling and support a guy:
+Share the video & Join the Discord Server! 
+https://discord.gg/MCNSjQsSFN
+
+The entirety of linear algebra (not really) explained in 10 minutes. THANKS SO MUCH FOR THE SUPPORT over the past year and a bit. I gtg tho, do other stuff for a while, but I will come back dw.
+
+Timeline: 
+0:00 - Intro 
+0:15 - Scalars 
+0:32 - Vectors 
+1:30 - Matricies  
+2:00 - Gaussian Elimination 
+2:45 - Linear Transformation 
+4:35 - Brilliant 
+5:40 - Rotation Matrix
+5:54 - Images Of Transformations
+7:05 - Identity Matrix
+8:02 - Determinant
+9:06 - Outro",Find Y,469499,19417,522,PT10M15S,10.25,2025-05-30T07:00:06Z,https://www.youtube.com/watch?v=E8YQPBHLUrY,Linear Algebra Course,Mathematics
+kMMjSMPjP6Q,Linear Algebra in 4 Weeks,"Is it possible to learn Linear Algebra in 4 weeks? In this video we discuss this topic.
+Here is the book: https://amzn.to/3VKgWOA
+My Courses: https://www.freemathvids.com/
+Best Place To Find Stocks: https://finviz.com/?a=593802429
+Useful Math Supplies https://amzn.to/3Y5TGcv
+My Recording Gear https://amzn.to/3BFvcxp
+(these are my affiliate links)
+
+***********Math, Physics, and Computer Science Books***********
+Epic Math Book List https://amzn.to/3F98vT1
+Pre-algebra, Algebra, and Geometry https://amzn.to/3FdbwSn
+College Algebra, Precalculus, and Trigonometry https://amzn.to/3UKjvfb
+Probability and Statistics https://amzn.to/3FaaxCq
+Discrete Mathematics https://amzn.to/3P6jPE4
+Proof Writing https://amzn.to/3XXukxo
+Calculus https://amzn.to/3iEH3F3
+Differential Equations Books https://amzn.to/3Fac5wi
+Partial Differential Equations Books https://amzn.to/3uyk1SV
+Linear Algebra https://amzn.to/3VHiN3G
+Abstract Algebra Books https://amzn.to/3FzLZEr
+Real Analysis/Advanced Calculus https://amzn.to/3VIO4Ua
+Complex Analysis https://amzn.to/3P6kbuo
+Number Theory https://amzn.to/3UEm3vw
+Graph Theory https://amzn.to/3BfRd5m
+Topology https://amzn.to/3BiAGhe
+Graduate Level Books https://amzn.to/3uv1eIg
+Computer Science https://amzn.to/3Hh8kaU
+Physics https://amzn.to/3BhPCMp
+These are my affiliate links. As an Amazon Associate I earn from qualifying purchases.
+
+
+If you enjoyed this video please consider liking, sharing, and subscribing.
+
+Udemy Courses Via My Website: https://mathsorcerer.com 
+
+My FaceBook Page: https://www.facebook.com/themathsorcerer
+
+My Instagram: https://www.instagram.com/therealmathsorcerer/
+
+My TikTok: https://www.tiktok.com/@therealmathsorcerer
+
+
+There are several ways that you can help support my channel:)
+
+Consider becoming a member of the channel: https://www.youtube.com/channel/UCr7lmzIk63PZnBw3bezl-Mg/join
+My GoFundMe Page: https://www.gofundme.com/f/support-math-education-for-the-world
+My Patreon Page: https://www.patreon.com/themathsorcerer
+Donate via PayPal: https://paypal.com/donate/?cmd=_s-xclick&hosted_button_id=7XNKUGJUENSYU
+
+************Udemy Courses(Please Use These Links If You Sign Up!)*************
+Abstract Algebra Course
+https://www.udemy.com/course/abstract-algebra-group-theory-with-the-math-sorcerer/?referralCode=B04607DA7A7D0E29272A
+
+Advanced Calculus Course
+https://www.udemy.com/course/advanced-calculusreal-analysis-with-the-math-sorcerer/?referralCode=0ABDD66D061D976EE232
+
+Calculus 1 Course
+https://www.udemy.com/course/calculus-1-with-the-math-sorcerer/?referralCode=E853B70ED36571CA9768
+
+Calculus 2 Course
+https://www.udemy.com/course/calculus-2-with-the-math-sorcerer/?referralCode=BAA5520B32FEA9827D54
+
+Calculus 3 Course
+https://www.udemy.com/course/calculus-3-with-the-math-sorcerer/?referralCode=296462D1897904C4BEB3
+
+Calculus 1 Lectures with Assignments and a Final Exam
+https://www.udemy.com/course/calculus-1-lectures-with-the-math-sorcerer/?referralCode=5D425153B63A8F506E30
+
+Calculus Integration Insanity
+https://www.udemy.com/course/calculus-integration-insanity-with-the-math-sorcerer/?referralCode=D533EEE31F90EDDAFF93
+
+Differential Equations Course
+https://www.udemy.com/course/differential-equations-with-the-math-sorcerer/?referralCode=4F0D91B41F7DACF4EC28
+
+Differential Equations Lectures Course (Includes Assignments + Final Exam)
+https://www.udemy.com/course/differential-equations-lectures-with-the-math-sorcerer/?referralCode=89E6CCC307A7A8627CD6
+
+College Algebra Course
+https://www.udemy.com/course/college-algebra-with-the-math-sorcerer/?referralCode=B2929EE97EF68DB9B69F
+
+How to Write Proofs with Sets Course
+https://www.udemy.com/course/how-to-write-proofs-in-set-theory-with-the-math-sorcerer/?referralCode=D503A7E3FB6916CF2D27
+
+How to Write Proofs with Functions Course
+https://www.udemy.com/course/how-to-write-proofs-with-functions-with-the-math-sorcerer/?referralCode=DBACD59AB7B16D4707CD
+
+Trigonometry 1 Course
+https://www.udemy.com/course/trigonometry-1-with-the-math-sorcerer/?referralCode=79E02DDFD4106A909AF5
+
+Trigonometry 2 Course
+https://www.udemy.com/course/trigonometry-2-with-the-math-sorcerer/?referralCode=7966E40F319B4FEF6535
+
+Statistics with StatCrunch Course
+https://www.udemy.com/course/statistics-with-statcrunch-by-the-math-sorcerer/?referralCode=69B27AF43D10924FF63B
+
+Math Graduate Programs, Applying, Advice, Motivation
+https://www.udemy.com/course/math-graduate-programs-applying-advice-motivation/?referralCode=70A1CED973D7910E9161
+
+Daily Devotionals for Motivation with The Math Sorcerer
+https://www.udemy.com/course/daily-math-devotionals-for-motivation-with-the-math-sorcerer/?referralCode=2653144E315A37A94B8C
+
+Thank you:)",The Math Sorcerer,49897,1633,143,PT9M17S,9.283333333333333,2024-04-07T21:21:25Z,https://www.youtube.com/watch?v=kMMjSMPjP6Q,Linear Algebra Course,Mathematics
+JnTa9XtvmfI,Linear Algebra - Full College Course,"Learn Linear Algebra in this 20-hour college course. Watch the second half here: https://youtu.be/DJ6YwBN7Ya8
+This course is taught by Dr. Jim Hefferon, a professor of mathematics at St Michael's College.
+
+📔 The course follows along with Dr. Hefferon's Linear Algebra text book. The book is available for free: http://joshua.smcvt.edu/linearalgebra/book.pdf
+
+📚 Access additional course resources at: https://hefferon.net/linearalgebra/
+
+🔗 Stephen Chew's Learning How to Learn series: https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB
+🔗 3Blue1Brown's Linear Algebra series: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to Linear Algebra by Hefferon
+⌨️ (0:04:35) One.I.1 Solving Linear Systems, Part One
+⌨️ (0:26:08) One.I.1 Solving Linear Systems, Part Two
+⌨️ (0:40:56) One.I.2 Describing Solution Sets, Part One
+⌨️ (0:54:21) One.I.2 Describing Solution Sets, Part Two
+⌨️ (1:02:48) One.I.3 General = Particular + Homogeneous
+⌨️ (1:18:33) One.II.1 Vectors in Space
+⌨️ (1:35:08) One.II.2 Vector Length and Angle Measure
+⌨️ (1:51:31) One.III.1 Gauss-Jordan Elimination
+⌨️ (2:00:00) One.III.2 The Linear Combination Lemma
+⌨️ (2:44:32) Two.I.1 Vector Spaces, Part One
+⌨️ (3:08:12) Two.I.1 Vector Spaces, Part Two
+⌨️ (3:33:01) Two.I.2 Subspaces, Part One
+⌨️ (3:58:16) Two.I.2 Subspaces, Part Two
+⌨️ (4:23:43) Two.II.1 Linear Independence, Part One
+⌨️ (4:45:11) Two.II.1 Linear Independence, Part Two
+⌨️ (5:03:57) Two.III.1 Basis, Part One
+⌨️ (5:23:55) Two.III.1 Basis, Part Two
+⌨️ (5:42:34) Two.III.2 Dimension
+⌨️ (6:03:24) Two.III.3 Vector Spaces and Linear Systems
+⌨️ (6:25:09) Three.I.1 Isomorphism, Part One
+⌨️ (6:54:08) Three.I.1 Isomorphism, Part Two
+⌨️ (7:21:47) Three.I.2 Dimension Characterizes Isomorphism
+⌨️ (7:43:43) Three.II.1 Homomorphism, Part One
+⌨️ (8:14:52) Three.II.1 Homomorphism, Part Two
+⌨️ (8:30:24) Three.II.2 Range Space and Null Space, Part One
+⌨️ (9:00:17) Three.II.2 Range Space and Null Space, Part Two.
+⌨️ (9:20:57) Three.II Extra Transformations of the Plane
+⌨️ (9:52:06) Three.III.1 Representing Linear Maps, Part One.
+⌨️ (10:13:18) Three.III.1 Representing Linear Maps, Part Two
+⌨️ (10:34:18) Three.III.2 Any Matrix Represents a Linear Map
+⌨️ (10:58:32) Three.IV.1 Sums and Scalar Products of Matrices
+⌨️ (11:19:14) Three.IV.2 Matrix Multiplication, Part One
+⌨️ Three.IV.2 Matrix Multiplication, Part Two (We accidentally left this section out. Watch it here: https://youtu.be/aWubyx5bBn4)
+
+The following sections are in the second video: https://youtu.be/DJ6YwBN7Ya8
+⌨️ Three.IV.3 Mechanics of Matrix Multiplication
+⌨️ Three.IV.4 Matrix Inverse, Part One
+⌨️ Three.IV.4 Matrix Inverse, Part Two
+⌨️ Three.V.1 Changing Vector Representations
+⌨️ Three.V.2 Changing Map Representations, Part One
+⌨️ Three.V.2 Changing Map Representations, Part Two
+⌨️ Three.VI Projection
+⌨️ Four.I.1 Determinants
+⌨️ Four.I.3 Permutation Expansion, Part One
+⌨️ Four.I.3 Permutation Expansion, Part Two
+⌨️ Four.I.4 Determinants Exist (optional)
+⌨️ Four.II.1 Geometry of Determinants
+⌨️ Four.III.1 Laplace's formula for the determinant
+⌨️ Five.I.1 Complex Vector Spaces
+⌨️ Five.II.1 Similarity
+⌨️ Five.II.2 Diagonalizability
+⌨️ Five.II.3 Eigenvalues and Eigenvectors, Part One
+⌨️ Five.II.3 Eigenvalues and Eigenvectors, Part Two
+⌨️ Five.II.3 Geometry of Eigenvalues and Eigenvectors
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news 
+
+❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp",freeCodeCamp.org,2667808,62571,1183,PT11H39M45S,699.75,2020-11-19T14:13:56Z,https://www.youtube.com/watch?v=JnTa9XtvmfI,Linear Algebra Course,Mathematics
+t5ckUuSsWe4,Linear Algebra Full Course for Beginners to Experts,"Linear algebra is central to almost all areas of mathematics. For instance, linear algebra is fundamental in modern presentations of geometry, including for defining basic objects such as lines, planes and rotations. Also, functional analysis may be basically viewed as the application of linear algebra to spaces of functions. Linear algebra is also used in most sciences and engineering areas, because it allows modeling many natural phenomena, and efficiently computing with such models. 
+
+
+⭐️ Table of Contents ⭐
+(0:00)   Linear Algebra - Systems of Linear Equations  (1 of 3)
+(16:20)   Linear Algebra - System of Linear Equations  (2 of 3)
+(27:55)   Linear Algebra - Systems of Linear Equations  (3 of 3)
+(47:18)   Linear Algebra - Row Reduction and Echelon Forms  (1 of 2)
+(54:49)   Linear Algebra - Row Reduction and Echelon Forms  (2 of 2)
+(1:4:10)  Linear Algebra - Vector Equations (1 of 2)
+(1:14:05) Linear Algebra - Vector Equations  (2 of 2)
+(1:24:54) Linear Algebra - The Matrix Equation Ax = b (1 of 2)
+(1:39:21) Linear Algebra - The Matrix Equation Ax = b (2 of 2)
+(1:44:48) Linear Algebra - Solution Sets of Linear Systems
+(1:57:49) Linear Algebra - Linear Independence
+(2:11:20) Linear Algebra - Linear Transformations (1 of 2)
+(2:25:10) Linear Algebra - Linear Transformations (2 of 2)
+(2:39:19) Linear Algebra - Matrix Operations
+(2:56:24) Linear Algebra - Matrix Inverse
+(3:12:17) Linear Algebra - Invertible Matrix Properties
+(3:24:24) Linear Algebra - Determinants (1 of 2)
+(3:44:40) Linear Algebra - Determinants (2 of 2)
+(4:04:28) Linear Algebra - Cramer's Rule
+(4:18:20) Linear Algebra - Vector Spaces and Subspaces (1 of 2)
+(4:48:30) Linear Algebra - Vector Spaces and Subspaces
+(5:13:13) Linear Algebra - Null Spaces, Column Spaces, and Linear Transformations
+(5:33:25) Linear Algebra - Basis of a Vector Space
+(5:59:43) Linear Algebra - Coordinate Systems in a Vector Space
+(6:15:41) Linear Algebra - Dimension of a Vector Space
+(6:26:35) Linear Algebra - Rank of a Matrix
+(6:50:09) Linear Algebra - Markov Chains
+(7:09:23) Linear Algebra - Eigenvalues and Eigenvectors
+(7:32:03) Linear Algebra - Matrix Diagonalization
+(7:49:08) Linear Algebra - Inner Product, Vector Length, Orthogonality",Geek's Lesson,482306,10585,306,PT7H56M19S,476.31666666666666,2020-06-15T13:21:55Z,https://www.youtube.com/watch?v=t5ckUuSsWe4,Linear Algebra Course,Mathematics
+kjBOesZCoqc,Essence of linear algebra preview,"Home page: https://www.3blue1brown.com/
+This introduces the ""Essence of linear algebra"" series, aimed at animating the geometric intuitions underlying many of the topics taught in a standard linear algebra course.
+Error corrections: 
+- At one point I mistakenly allude to calculators using the Taylor expansion of sine for its computations, when in reality most use CORDIC (or something like it).
+- Around 30 seconds in, there is a typo in how the determinant is written, which should be ad - bc
+
+Full series: http://3b1b.co/eola
+
+Future series like this are funded by the community, through Patreon, where supporters get early access as the series is being produced.
+http://3b1b.co/support
+Thanks to these viewers for their contributions to translations
+French: @bapraAlbert
+Hebrew: Omer Tuchfeld
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3Blue1Brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3Blue1Brown",3Blue1Brown,2750261,49282,1238,PT5M9S,5.15,2016-08-05T01:01:44Z,https://www.youtube.com/watch?v=kjBOesZCoqc,Linear Algebra Course,Mathematics
+zxIj1vNVS4A,"01 - Matrices, Elements, And Transpose (Learn Linear Algebra)","This is just a few minutes of a complete course. 
+Get full lessons & more subjects at: http://www.MathTutorDVD.com.
+
+In this lesson the student will learn how to work with matrices in linear algebra.  We will discuss the fundamental concept of a matrix, then explore more detailed topics including the elements of the matrix and the matrix transpose.  All of these topics are important in a linear algebra course,",Math and Science,65222,1223,43,PT19M59S,19.983333333333334,2016-02-05T01:37:45Z,https://www.youtube.com/watch?v=zxIj1vNVS4A,Linear Algebra Course,Mathematics
+ZKUqtErZCiU,What's the big idea of Linear Algebra?    **Course Intro**,"This is the start of a one semester university level course on Linear Algebra that emphasizes both conceptual understanding as well as procedural fluency with the techniques of Linear Algebra. In this video, we get to see just the beginning of some of the big ideas of Linear Algebra. 
+
+FULL PLAYLIST: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6
+
+Linear Algebra is a story told in two worlds, one geometric and one algebraic. The interplay between the two is beautiful and powerful. In this video we introduce the notion of a linear transformation and see how this simplification makes our lives far easier. 
+
+♡♡♡SUPPORT THE CHANNEL♡♡♡
+►Support on PATREON: https://patreon.com/DrTrefor
+►MATH BOOKS I LOVE (affiliate link): https://www.amazon.com/shop/treforbazett
+►CURIOSITY BOX: https://www.CuriosityBox.com/DrTrefor use CODE drtrefor for 25% off awesome STEM merch boxes
+
+COURSE PLAYLISTS:
+►DISCRETE MATH: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS
+►LINEAR ALGEBRA: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6
+►CALCULUS I: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m
+►CALCULUS II: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n
+►MULTIVARIABLE CALCULUS (Calc III): https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd
+►VECTOR CALCULUS (Calc IV): https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa
+►DIFFERENTIAL EQUATIONS: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw
+►LAPLACE TRANSFORM: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1
+►GAME THEORY: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxdzD8KpTHz6_gsw9pPxRFlX
+
+OTHER PLAYLISTS:
+►Cool Math Series:
+https://www.youtube.com/playlist?list=PLHXZ9OQGMqxelE_9RzwJ-cqfUtaFBpiho
+►Learning Math Series:
+https://www.youtube.com/watch?v=LPH2lqis3D0&list=PLHXZ9OQGMqxfSkRtlL5KPq6JqMNTh_MBw
+►LaTeX: https://www.youtube.com/watch?v=-HvRvBjBAvg&list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&index=2&ab_channel=Dr.TreforBazett
+
+SOCIALS:
+►X/Twitter: http://X.com/treforbazett
+►TikTok: http://tiktok.com/@drtrefor
+►Instagram (photography based): http://instagram.com/treforphotography",Dr. Trefor Bazett,572983,8669,287,PT12M58S,12.966666666666667,2018-02-18T17:24:07Z,https://www.youtube.com/watch?v=ZKUqtErZCiU,Linear Algebra Course,Mathematics
+YrHlHbtiSM0,Intro: A New Way to Start Linear Algebra,"A Vision of Linear Algebra
+Instructor: Gilbert Strang
+View the complete course: https://ocw.mit.edu/2020-vision
+YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek
+
+Professor Strang describes independent vectors and the column space of a matrix as a good starting point for learning linear algebra. His outline develops the five shorthand descriptions of key chapters of linear algebra.
+
+License: Creative Commons BY-NC-SA
+More information at https://ocw.mit.edu/terms
+More courses at https://ocw.mit.edu",MIT OpenCourseWare,816221,21053,499,PT4M15S,4.25,2020-05-05T12:43:00Z,https://www.youtube.com/watch?v=YrHlHbtiSM0,Linear Algebra Course,Mathematics
+j1K84DGx2cI,Linear Algebra Full Course | Linear Algebra for beginners,"What you'll learn
+✓Operations on one matrix, including solving linear systems, and Gauss-Jordan elimination
+✓Matrices as vectors, including linear combinations and span, linear independence, and subspaces
+✓Matrix-vector products, including the null and column spaces, and solving Ax=b
+✓Inverses, including invertible and singular matrices, and solving systems with inverse matrices
+✓Transposes, including their determinants, and the null (left null) and column (row) spaces of the transpose
+✓Orthonormal bases and Gram-Schmidt, including definition of the orthonormal basis, and converting to an orthonormal basis with the Gram-Schmidt process
+✓Operations on two matrices, including matrix multiplication and elimination matrices
+
+
+https://www.youtube.com/channel/UCkyLJh6hQS1TlhUZxOMjTFw
+
+⭐⭐⭐⭐🕑TIME STAMP📋⭐⭐⭐⭐⭐
+00:03:38 Solving Systems of Linear Equation
+00:14:55 Using Matrices to solve Linear Equations
+00:28:28 Reduced Row Echelon form
+00:37:08 Gaussian Elimination
+00:47:47 Existence and Uniqueness of Solutions
+01:02:18 Linear Equations setup
+01:09:31 Matrix Addition and Scalar Multiplication
+01:19:13 Matrix Multiplication 
+01:31:28 Properties of Matrix Multiplication 
+01:38:58 Interpretation of matrix Multiplication 
+01:50:35 Introduction to Vectors
+02:02:30 Solving Vector Equations 
+02:15:59 Solving Matrix Equations
+02:24:20 Matrix Inverses 
+02:33:14 Matrix Inverses for 2*2 Matrics
+02:38:30 Equivalent Conditions for a Matrix to be INvertible
+02:45:34 Properties of Matrix INverses 
+02:56:06 Transpose 
+03:04:43 Symmetric and Skew-symmetric Matrices
+
+03:13:54 Trace 
+03:23:01 The Determent of a Matrix 
+03:35:17 Determinant and Elementary Row Operations
+03:47:28 Determinant Properties 
+03:58:54 Invertible Matrices and Their Determinants.....
+04:04:23 Eigenvalues and Eigenvectors
+04:20:55 Properties of Eigenvalues 
+04:32:03 Diagonalizing Matrices
+04:45:16 Dot Product (linear Algebra )
+04:49:41 Unit Vectors 
+
+04:54:41 Orthogonal Vectors 
+04:59:27 Orthogonal Matrices
+05:07:06 Symmetric Matrices and Eigenvectors and Eigenvalues
+05:12:05 Symmetric Matrices and Eigenvectors and Eigenvalues
+05:18:17 Diagonalizing Symmetric Matrices 
+05:29:17 Linearly Independent Vectors 
+05:36:44 Gram-Schmidt Orthogonalization
+05:49:43 Singular Value Decomposition Introduction 
+05:55:46 Singular Value Decomposition How to Find It 
+06:11:16 Singular Value Decomposition Why it Works
+
+-------------------------------------------------------------------------------------------------------------------------------------
+If you realllly enjoy my content, you're welcome to support me and my channel with a small donation via PayPal 
+
+👉Link to PayPal donation https://www.paypal.me/nerdslesson
+
+♥️♥️Thanks for watching don't forget to like and Subscribe♥️♥️
+
+✨✨PLEASE IGNORE THESE TAGS✨✨
+linear algebra full course,
+linear algebra course,
+linear algebra for machine learning,
+linear algebra basics,
+linear algebra beginners,
+linear algebra bsc 2nd year,
+linear algebra crash course,
+linear algebra computer science,
+linear algebra for data science,
+linear algebra for beginners,
+linear algebra for computer science
+#linear_algebra #linearalgebra #linearalgera #linearttutorial",Nerd's lesson,79999,2099,64,PT6H27M55S,387.9166666666667,2021-02-08T13:28:14Z,https://www.youtube.com/watch?v=j1K84DGx2cI,Linear Algebra Course,Mathematics
+osEADxaIKIc,Gilbert Strang: Linear Algebra vs Calculus,"Full episode with Gilbert Strang (Nov 2019): https://www.youtube.com/watch?v=lEZPfmGCEk0
+New clips channel (Lex Clips): https://www.youtube.com/lexclips
+Once it reaches 20,000 subscribers, I'll start posting the clips there instead. 
+(more links below)
+
+For now, new full episodes are released once or twice a week and 1-2 new clips or a new non-podcast video is released on all other days.
+
+Clip from full episode: https://www.youtube.com/watch?v=lEZPfmGCEk0 If you enjoy these clips, subscribe to the new clips channel (Lex Clips): https://www.youtube.com/lexclips Once it reaches 20,000 subscribers, I'll start posting the clips there instead. For now, new full episodes are released once or twice a week and 1-2 new clips or a new non-podcast video is released on all other days.
+(more links below)
+
+Podcast full episodes playlist:
+https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+
+Podcasts clips playlist:
+https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41
+
+Podcast website:
+https://lexfridman.com/ai
+
+Podcast on Apple Podcasts (iTunes):
+https://apple.co/2lwqZIr
+
+Podcast on Spotify:
+https://spoti.fi/2nEwCF8
+
+Podcast RSS:
+https://lexfridman.com/category/ai/feed/
+
+Gilbert Strang is a professor of mathematics at MIT and perhaps one of the most famous and impactful teachers of math in the world. His MIT OpenCourseWare lectures on linear algebra have been viewed millions of times.
+
+Subscribe to this YouTube channel or connect on:
+- Twitter: https://twitter.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+- Support on Patreon: https://www.patreon.com/lexfridman",Lex Fridman,674274,16810,485,PT2M14S,2.2333333333333334,2019-11-27T01:20:00Z,https://www.youtube.com/watch?v=osEADxaIKIc,Linear Algebra Course,Mathematics
+fNk_zzaMoSs,"Vectors | Chapter 1, Essence of linear algebra","Beginning the linear algebra series with the basics.
+Help fund future projects: https://www.patreon.com/3blue1brown
+
+Music: https://vincerubinetti.bandcamp.com/track/grants-etude
+
+Thanks to Elo Marie Viennot and Ambros Gleixner from HTW Berlin (www.htw-berlin.de) for contributing German translations and dubbing.
+
+Thanks also to these viewers for their contributions to the subtitles
+Arabic: @Cewkins, Hazem
+Bengali: Md Rasheduzzaman
+Czech: @Chnapak
+Greek: Nikolaos Tsagkas
+Hebrew: Omer Tuchfeld
+Italian: mattiacolucci
+Spanish: Juan Carlos Largo
+Thai: own doggoV●ᴥ●V
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: https://goo.gl/WmnCQZ
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3Blue1Brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3Blue1Brown",3Blue1Brown,12707329,239342,4013,PT9M52S,9.866666666666667,2016-08-06T00:05:49Z,https://www.youtube.com/watch?v=fNk_zzaMoSs,Linear Algebra Course,Mathematics
+rSjt1E9WHaQ,Linear Algebra Course – Mathematics for Machine Learning and Generative AI,"Learn linear algebra in this course for beginners. This course covers the linear algebra skills needed for data science, machine learning, and AI, with a focus on practical applications and real-world examples.
+
+✏️ Course developed by @LunarTech_ai 
+
+Learn more linear algebra with this 25+ hour course: https://academy.lunartech.ai/product/fundamentals-to-linear-algebra
+
+⭐️ Contents ⭐️
+⌨️ (0:00:00) Introduction to the course
+⌨️ (0:08:30) Linear Algebra Roadmap for 2024
+⌨️ (0:27:50) Course Prerequisites 
+⌨️ (0:36:05) Refreshment: Real Numbers and Vector Spaces
+⌨️ (0:40:18) Refreshment: Norms and Euclidean Distance
+⌨️ (0:52:13) Why These Prerequisites Matter
+⌨️ (0:54:40) Foundations of Vectors
+⌨️ (1:03:22) Vector - Geometric Representation Example  
+⌨️ (1:25:35) Special Vectors
+⌨️ (1:38:13) Application of Vectors
+⌨️ (1:50:25) Vectors Operations and Properties
+⌨️ (2:24:14) Advanced Vectors and Concepts
+⌨️ (2:49:14) Length of a Vector - def and example
+⌨️ (2:54:33) Length of Vector - Geometric Intuition 
+⌨️ (3:05:31) Dot Product
+⌨️ (3:20:00) Dot Product, Length of Vector and Cosine Rule
+⌨️ (3:34:00) Cauchy Schwarz Inequality - Derivation & Proof
+⌨️ (3:48:11) Introduction to Linear Systems
+⌨️ (4:03:53) Introduction to Matrices
+⌨️ (4:20:02) Core Matrix Operations
+⌨️ (5:00:41) Solving Linear Systems - Gaussian Elimination
+⌨️ (5:29:59) Detailed Example - Solving Linear Systems
+⌨️ (5:45:46) Detailed Example - Reduced Row Echelon Form (Augmented Matrix,REF, RREF)
+
+🎉 Thanks to our Champion and Sponsor supporters:
+👾 davthecoder
+👾 jedi-or-sith
+👾 南宮千影
+👾 Agustín Kussrow
+👾 Nattira Maneerat
+👾 Heather Wcislo
+👾 Serhiy Kalinets
+👾 Justin Hual
+👾 Otis Morgan 
+👾 Oscar Rahnama
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news 
+
+❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp",freeCodeCamp.org,382746,10379,228,PT6H5M12S,365.2,2024-05-27T18:12:09Z,https://www.youtube.com/watch?v=rSjt1E9WHaQ,Linear Algebra Course,Mathematics
+ez8hC76KMJ8,Linear Algebra Books for Self Study,,Mathematical Adventures,20639,748,144,PT25M40S,25.666666666666668,2025-04-21T08:00:43Z,https://www.youtube.com/watch?v=ez8hC76KMJ8,Linear Algebra Course,Mathematics
+Rep34MitL3s,Summarizing How HARD Every Linear Algebra and Differential Equations Topic Is,,JuicedItUp,433152,16613,174,PT1M23S,1.3833333333333333,2025-08-27T18:42:00Z,https://www.youtube.com/watch?v=Rep34MitL3s,Linear Algebra Course,Mathematics
+kYB8IZa5AuE,"Linear transformations and matrices | Chapter 3, Essence of linear algebra","Quite possibly the most important idea for understanding linear algebra.
+Help fund future projects: https://www.patreon.com/3blue1brown
+An equally valuable form of support is to simply share some of the videos.
+Home page: https://www.3blue1brown.com
+
+Full series: http://3b1b.co/eola
+
+Future series like this are funded by the community, through Patreon, where supporters get early access as the series is being produced.
+http://3b1b.co/support
+
+Thanks to these viewers for their contributions to translations
+Hebrew: Omer Tuchfeld
+Spanish: Juan Carlos Largo
+Vietnamese: @ngvutuan2811
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: https://goo.gl/WmnCQZ
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3Blue1Brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3Blue1Brown",3Blue1Brown,7197692,151092,5027,PT10M59S,10.983333333333333,2016-08-07T21:39:19Z,https://www.youtube.com/watch?v=kYB8IZa5AuE,Linear Algebra Course,Mathematics
+5oZ84mlt7tM,"Give Me 30 min, I will make Linear Algebra Click Forever","*Don't like the Sound Effect?:* https://youtu.be/qsj98uXiNNk
+*Text:* https://github.com/The-Pocket/PocketFlow-Tutorial-Video-Generator/blob/main/docs/math/linear_algebra.md
+
+0:00:00 - Introduction
+0:01:19 - Vectors & The Dot Product
+0:06:50 - Linear Systems Ax=b & Gaussian Elimination
+0:12:30 - Vector Spaces, Span, & Basis
+0:18:15 - Linear Transformations
+0:23:24 - Determinants
+0:28:57 - Conclusion
+
+*Social media:*
+X: https://x.com/ZacharyHuang12
+LinkedIn: https://www.linkedin.com/in/zachary-h-23aa37172/
+Github: https://github.com/zachary62
+Discord: https://discord.com/invite/hUHHE9Sa6T
+Medium: https://medium.com/@zh2408
+Substack: https://zacharyhuang.substack.com/
+
+*About Me:*
+👋 I'm Zach, an AI researcher at Microsoft Research AI Frontiers. I currently work on LLM Agents & Systems. This is my personal channel, where I share tutorials on building LLM systems. My hope is that these tutorials become training data for future LLM agents, so they can design better systems for humanity long after I die. Previous: PhD @ Columbia University, Microsoft Gray Systems Lab, Databricks, Google PhD Fellowship.",Zachary Huang,167724,6007,174,PT29M57S,29.95,2025-10-14T08:01:15Z,https://www.youtube.com/watch?v=5oZ84mlt7tM,Linear Algebra Course,Mathematics

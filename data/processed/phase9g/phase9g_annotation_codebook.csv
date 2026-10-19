@@ -1,0 +1,4 @@
+field,allowed_values,meaning
+relevance_score,"0, 1, 2, 3",0=Not relevant; 1=Marginally relevant; 2=Clearly relevant; 3=Highly relevant
+educational_quality_score,"1, 2, 3, 4, 5",1=Very poor; 2=Poor; 3=Adequate; 4=Good; 5=Excellent
+justification,Free text,Brief reason for the assigned scores
