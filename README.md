@@ -173,6 +173,24 @@ The primary experimental record is **`notebooks/NLP_REVISION_v17_LAK_HYBRID_COMP
 
 ---
 
+---
+
+## Data & Code Availability
+
+This study uses the publicly available LAK 2026 educational-resource ranking benchmark associated with *“Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance”* (DOI: [10.1145/3785022.3785073](https://doi.org/10.1145/3785022.3785073)). The benchmark is available at [https://2ly.link/27QHn](https://2ly.link/27QHn). The present study uses an accessible reconstruction of the benchmark comprising **888 topic–video pairs across 54 topics**, with binary expert relevance judgments (located in [`data/benchmark/lak2026_benchmark_eval_accessible_888.csv`](data/benchmark/lak2026_benchmark_eval_accessible_888.csv)).
+
+In addition, the study constructs a project-specific educational-video dataset using the YouTube Data API across five domains (`Programming`, `Data Science`, `Mathematics`, `Physics`, and `Biology`). The collected data include available video metadata and comments for educational topics (located in [`data/raw/youtube_5domains/`](data/raw/youtube_5domains/)). These data are processed to derive semantic relevance, sentiment, emotional engagement, and intrinsic quality features used by the proposed ranking framework (located in [`data/processed/`](data/processed/)). The collection reflects the data available at the time of retrieval; YouTube metadata and comments may change or become unavailable over time.
+
+The project repository provides:
+1. **Implementation:** Full modular implementation of the proposed framework in [`src/`](src/).
+2. **Experimental Notebooks:** The primary experimental notebook [`notebooks/NLP_REVISION_v17_LAK_HYBRID_COMPLETE.ipynb`](notebooks/NLP_REVISION_v17_LAK_HYBRID_COMPLETE.ipynb) and supporting internal cohort record [`notebooks/NLP_REVISION_v16_FINAL_COMPLETE.ipynb`](notebooks/NLP_REVISION_v16_FINAL_COMPLETE.ipynb).
+3. **Configuration Templates:** [`.env.example`](.env.example) and [`configs/config.yaml`](configs/config.yaml).
+4. **Processed Data & Experimental Artifacts:** Evaluation results, ablation studies, and statistical significance analyses in [`results/`](results/).
+
+Reproducing live data collection and LLM-assisted teaching-score generation may require valid API credentials and access to the relevant external services. The LAK benchmark and the project-collected YouTube data serve distinct roles in the study: the former provides expert relevance judgments for benchmark evaluation, while the latter supports experiments on the project-specific educational-video cohort.
+
+* **Code Availability:** [https://github.com/NAYANESHREDDY/Semantic-Emotional-Hybrid-Video-Ranking-System-New](https://github.com/NAYANESHREDDY/Semantic-Emotional-Hybrid-Video-Ranking-System-New)
+
 ## 8. Provenance & Authorship
 * **Author:** Chennareddy Nayanesh Reddy
 * **Project:** Explainable Educational Video Ranking
